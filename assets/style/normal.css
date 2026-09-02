@@ -1,14 +1,26 @@
-/* HIER KOMT JOUW CSS */
-@font-face {
-  font-family: "Comic Relief";
-  src: url(../type/ComicRelief-Regular.woff2);
-  font-weight: 400;
-  font-style: normal;
-}
-
 body {
   font-family: "Comic Relief", system-ui;
-  background-color: Canvas;
-  color: CanvasText;
-  color-scheme: light dark;
+  background-color: rgb(255, 251, 242);
+}
+
+p {
+  color: rgb(48, 39, 33);
+}
+
+h1 {
+  color: rgb(48, 39, 33);
+
+  font-family: "Rubik Spray Paint", arial, system-ui;
+  font-weight: 400;
+  font-size: 100px;
+}
+
+.hero {
+  display: flex;
+  align-items: center;
+  background-color: rgb(252, 144, 191);
+  width: 600px;
+  height: 50px;
+  padding: 30px;
+  margin: 100px;
 }
