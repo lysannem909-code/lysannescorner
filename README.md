@@ -1,4 +1,5 @@
-# Model
+f# Model<img width="332" height="256" alt="Scherm­afbeelding 2026-09-02 om 12 36 42" src="https://github.com/user-attachments/assets/583c5ccc-b80b-41a4-9c1d-72a00125ccc3" />
+
 
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
@@ -26,6 +27,14 @@ Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jouw p
 Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.
 -->Je kan via Visual Studio code aanpassingen maken
 
+
 2 SEP
 
 Ik ben bij 2 deepdives geweest en heb mijn website werkend gemaakt (je kan het nu intypen en dan is hij er ook) en een gif toegevoegd. Ook heb ik de lokkaart in Figma uitgewerkt voor een iPad.
+
+<img width="332" height="256" alt="Scherm­afbeelding 2026-09-02 om 12 36 42" src="https://github.com/user-attachments/assets/12f950f2-eb60-4fe9-880b-12266c65de12" />
+
+<img width="1239" height="756" alt="Scherm­afbeelding 2026-09-02 om 12 37 33" src="https://github.com/user-attachments/assets/eec9c9cb-8465-459b-91c9-2810c5881c4c" />
+
+
+4 SEP
