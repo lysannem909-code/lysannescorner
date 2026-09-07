@@ -38,3 +38,9 @@ Ik ben bij 2 deepdives geweest en heb mijn website werkend gemaakt (je kan het n
 
 
 4 SEP
+Ik heb een achtergrondkleur en een paar vakjes aan mijn site toegevoegd en de opdrachten van de lettertypes gemaakt van de deepdives.
+<img width="569" height="706" alt="Scherm­afbeelding 2026-09-06 om 17 55 01" src="https://github.com/user-attachments/assets/f92235d4-b135-4601-a4df-f261e727690a" />
+
+
+7 SEP
+Ik heb vandaag op school verschillende websites bezoekt en gebruikt als eventuele inspiratie voor mijn website en een artikel over de geschiedenis van digital Gardens 
