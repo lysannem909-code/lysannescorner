@@ -44,3 +44,8 @@ Ik heb een achtergrondkleur en een paar vakjes aan mijn site toegevoegd en de op
 
 7 SEP
 Ik heb vandaag op school verschillende websites bezoekt en gebruikt als eventuele inspiratie voor mijn website en een artikel over de geschiedenis van digital Gardens 
+
+10sep
+<img width="455" height="517" alt="Scherm­afbeelding 2026-09-10 om 16 14 30" src="https://github.com/user-attachments/assets/597f7e77-24bb-4c68-bf19-7c89278d2705" />
+<img width="443" height="594" alt="Scherm­afbeelding 2026-09-10 om 16 30 36" src="https://github.com/user-attachments/assets/754c98f3-b700-4fe6-9786-76ddd3788be4" />
+
