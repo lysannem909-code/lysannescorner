@@ -7,6 +7,29 @@
 body {
   background-image: radial-gradient(
     circle,
-    rgba(15, 24, 36, 1) rgba(11, 45, 69, 1) rgba(42, 77, 89, 1) 100%
+    rgba(15, 24, 36, 1),
+    rgb(3, 28, 46),
+    rgb(18, 39, 47) 100%
   );
+}
+
+h1 {
+  color: #ffff;
+}
+
+img {
+  animation: bounce 2s ease-in-out infinite;
+  display: absolute;
+  position: relative;
+  left: 50%;
+  top: 30em;
+}
+
+@keyframes bounce {
+  from {
+    transform: translateY(0px);
+  }
+  to {
+    transform: translateY(50px);
+  }
 }
