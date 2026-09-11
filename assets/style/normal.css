@@ -4,63 +4,9 @@
   font-weight: 400;
   font-style: normal;
 }
-
 body {
-  font-family: "Comic Relief", system-ui;
-  background-color: rgb(255, 251, 242);
-}
-
-p {
-  color: rgb(48, 39, 33);
-}
-
-h1 {
-  color: rgb(48, 39, 33);
-
-  font-family: "Rubik Spray Paint", arial, system-ui;
-  font-weight: 300;
-  font-size: 50px;
-}
-
-.hero {
-  background-color: rgb(224, 102, 131);
-  display: flex;
-  align-items: center;
-  width: 600px;
-  height: 50px;
-  padding: 30px;
-  margin: 100px;
-}
-
-main {
-  display: flex;
-  flex-wrap: wrap;
-  flex-direction: row;
-  align-items: center;
-}
-
-article.box {
-  background-color: rgb(88, 72, 61);
-  width: 300px;
-  height: 400px;
-  padding: 10px;
-  margin: 10px;
-  top: 0px;
-}
-
-article.box2 {
-  background-color: rgb(88, 72, 61);
-  width: 300px;
-  height: 400px;
-  padding: 10px;
-  margin: 10px;
-  top: 0px;
-}
-
-aside.box {
-  background-color: rgb(88, 72, 61);
-  width: 200px;
-  height: 400px;
-  padding: 10px;
-  margin: 10px;
+  background-image: radial-gradient(
+    circle,
+    rgba(15, 24, 36, 1) rgba(11, 45, 69, 1) rgba(42, 77, 89, 1) 100%
+  );
 }
