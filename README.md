@@ -49,3 +49,23 @@ Ik heb vandaag op school verschillende websites bezoekt en gebruikt als eventuel
 <img width="455" height="517" alt="Scherm­afbeelding 2026-09-10 om 16 14 30" src="https://github.com/user-attachments/assets/597f7e77-24bb-4c68-bf19-7c89278d2705" />
 <img width="443" height="594" alt="Scherm­afbeelding 2026-09-10 om 16 30 36" src="https://github.com/user-attachments/assets/754c98f3-b700-4fe6-9786-76ddd3788be4" />
 
+? sep
+Weet niet precies wanneer dit was maar het was ergens hiertussen en ik heb visueel onderzoek gedaan naar mijn onderwerp<img width="382" height="767" alt="Scherm­afbeelding 2026-09-13 om 23 55 34" src="https://github.com/user-attachments/assets/bb712e2f-2309-45b5-a77e-5750bbdca64d" />
+<img width="416" height="567" alt="Scherm­afbeelding 2026-09-13 om 23 55 27" src="https://github.com/user-attachments/assets/aee49de4-ca30-4230-a929-5b04d9b29ba6" />
+
+11 SEP
+Ik heb aan een van de deepdives meegedaan en hiervan de opdrachten gemaakt
+
+<img width="847" height="654" alt="Scherm­afbeelding 2026-09-11 om 14 28 03" src="https://github.com/user-attachments/assets/024ea114-7661-43bd-8133-114d00b9c68b" />
+<img width="791" height="595" alt="Scherm­afbeelding 2026-09-11 om 14 56 54" src="https://github.com/user-attachments/assets/0f22ecb8-4edb-4345-be60-b3c73f6d2209" />
+<img width="456" height="544" alt="Scherm­afbeelding 2026-09-11 om 16 04 23" src="https://github.com/user-attachments/assets/d2b3b6bb-ecc4-464e-906d-256d00080d54" />
+
+13 SEP
+Ik heb vandaag onderzoek gedaan naar mijn eerste 2 dieren en de astronaut en dieren getekent en in mijn code gezet. Ik heb de bounce animatie voor elk element sneller/langzamer gemaakt en mooier gemaakt. Ik heb geprobeerd een textbox toe te voegen als je op een dier klikt maar dit is nog niet gelukt.
+<img width="2048" height="2048" alt="telescopefish" src="https://github.com/user-attachments/assets/37b2d54b-8128-41b7-a5c2-640631b4814b" />
+<img width="2048" height="2048" alt="astronaut" src="https://github.com/user-attachments/assets/8760c7d6-9ea1-4b6a-8230-bbc09c5e1b7a" />
+<img width="2048" height="2048" alt="dumbooctopus" src="https://github.com/user-attachments/assets/7b31cf6f-f921-4c2a-a3e8-4cb5e7388e70" />
+<img width="1506" height="976" alt="Scherm­afbeelding 2026-09-13 om 23 50 45" src="https://github.com/user-attachments/assets/c9f1b5c3-5ec7-4ee6-86a0-31440641fedb" />
+<img width="269" height="818" alt="Scherm­afbeelding 2026-09-13 om 23 58 35" src="https://github.com/user-attachments/assets/105242ab-6d04-4d35-8540-3eff5c0ee90c" />
+
+
