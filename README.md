@@ -1,6 +1,5 @@
 f# Model<img width="332" height="256" alt="Scherm­afbeelding 2026-09-02 om 12 36 42" src="https://github.com/user-attachments/assets/583c5ccc-b80b-41a4-9c1d-72a00125ccc3" />
 
-
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ## Learning Log
@@ -27,7 +26,6 @@ Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jouw p
 Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.
 -->Je kan via Visual Studio code aanpassingen maken
 
-
 2 SEP
 
 Ik ben bij 2 deepdives geweest en heb mijn website werkend gemaakt (je kan het nu intypen en dan is hij er ook) en een gif toegevoegd. Ook heb ik de lokkaart in Figma uitgewerkt voor een iPad.
@@ -36,18 +34,17 @@ Ik ben bij 2 deepdives geweest en heb mijn website werkend gemaakt (je kan het n
 
 <img width="1239" height="756" alt="Scherm­afbeelding 2026-09-02 om 12 37 33" src="https://github.com/user-attachments/assets/eec9c9cb-8465-459b-91c9-2810c5881c4c" />
 
-
 4 SEP
 Ik heb een achtergrondkleur en een paar vakjes aan mijn site toegevoegd en de opdrachten van de lettertypes gemaakt van de deepdives.
 <img width="569" height="706" alt="Scherm­afbeelding 2026-09-06 om 17 55 01" src="https://github.com/user-attachments/assets/f92235d4-b135-4601-a4df-f261e727690a" />
 
-
 7 SEP
-Ik heb vandaag op school verschillende websites bezoekt en gebruikt als eventuele inspiratie voor mijn website en een artikel over de geschiedenis van digital Gardens 
+Ik heb vandaag op school verschillende websites bezoekt en gebruikt als eventuele inspiratie voor mijn website en een artikel over de geschiedenis van digital Gardens
 
 10sep
 <img width="455" height="517" alt="Scherm­afbeelding 2026-09-10 om 16 14 30" src="https://github.com/user-attachments/assets/597f7e77-24bb-4c68-bf19-7c89278d2705" />
 <img width="443" height="594" alt="Scherm­afbeelding 2026-09-10 om 16 30 36" src="https://github.com/user-attachments/assets/754c98f3-b700-4fe6-9786-76ddd3788be4" />
+<<<<<<< HEAD
 
 ? sep
 Weet niet precies wanneer dit was maar het was ergens hiertussen en ik heb visueel onderzoek gedaan naar mijn onderwerp<img width="382" height="767" alt="Scherm­afbeelding 2026-09-13 om 23 55 34" src="https://github.com/user-attachments/assets/bb712e2f-2309-45b5-a77e-5750bbdca64d" />
@@ -67,14 +64,3 @@ Ik heb vandaag onderzoek gedaan naar mijn eerste 2 dieren en de astronaut en die
 <img width="2048" height="2048" alt="dumbooctopus" src="https://github.com/user-attachments/assets/7b31cf6f-f921-4c2a-a3e8-4cb5e7388e70" />
 <img width="1506" height="976" alt="Scherm­afbeelding 2026-09-13 om 23 50 45" src="https://github.com/user-attachments/assets/c9f1b5c3-5ec7-4ee6-86a0-31440641fedb" />
 <img width="269" height="818" alt="Scherm­afbeelding 2026-09-13 om 23 58 35" src="https://github.com/user-attachments/assets/105242ab-6d04-4d35-8540-3eff5c0ee90c" />
-
-21SEP
-
-Wat zijn HTML landmark role elements?
-Het zijn de dingen zoals <footer> en <header> die je gebruikt om met semantiek html te coderen
-
-Wat zijn heading elementen en hoe horen deze 'genest' te worden?
-Het si zoals parent en Child, je hebt een artikel in je main en titel in je header.
-
-Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
-Ik zeg altijd nee, omdat ik niet wilt dat websites mijn data gebruiken als ik hier een optie in heb decline ik het altijd
