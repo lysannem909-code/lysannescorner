@@ -68,4 +68,11 @@ Ik heb vandaag onderzoek gedaan naar mijn eerste 2 dieren en de astronaut en die
 <img width="1506" height="976" alt="Scherm­afbeelding 2026-09-13 om 23 50 45" src="https://github.com/user-attachments/assets/c9f1b5c3-5ec7-4ee6-86a0-31440641fedb" />
 <img width="269" height="818" alt="Scherm­afbeelding 2026-09-13 om 23 58 35" src="https://github.com/user-attachments/assets/105242ab-6d04-4d35-8540-3eff5c0ee90c" />
 
+21SEP
 
+Wat zijn HTML landmark role elements?
+Het zijn de dingen zoals <footer> en <header> die je gebruikt om met semantiek html te coderen
+
+Wat zijn heading elementen en hoe horen deze 'genest' te worden?
+
+Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
