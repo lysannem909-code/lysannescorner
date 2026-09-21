@@ -74,5 +74,7 @@ Wat zijn HTML landmark role elements?
 Het zijn de dingen zoals <footer> en <header> die je gebruikt om met semantiek html te coderen
 
 Wat zijn heading elementen en hoe horen deze 'genest' te worden?
+Het si zoals parent en Child, je hebt een artikel in je main en titel in je header.
 
 Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
+Ik zeg altijd nee, omdat ik niet wilt dat websites mijn data gebruiken als ik hier een optie in heb decline ik het altijd
