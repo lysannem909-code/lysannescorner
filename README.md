@@ -1,3 +1,9 @@
+<img width="1625" height="964" alt="Scherm­afbeelding 2026-09-28 om 12 10 36" src="https://github.com/user-attachments/assets/5cde89a0-3795-4cfc-8871-da5c63f07391" />
+<img width="1655" height="953" alt="Scherm­afbeelding 2026-09-28 om 12 10 43" src="https://github.com/user-attachments/assets/bff1684a-01c0-4af0-b657-b6c6e7877679" />
+<img width="1688" height="984" alt="Scherm­afbeelding 2026-09-28 om 12 10 54" src="https://github.com/user-attachments/assets/21706f45-85f0-46de-ae5d-508c8ddc237e" />
+<img width="785" height="804" alt="Scherm­afbeelding 2026-09-28 om 12 10 58" src="https://github.com/user-attachments/assets/d1ed049d-e3a3-49a8-bfc6-9a650a2a2fb9" />
+<img width="1699" height="980" alt="Scherm­afbeelding 2026-09-28 om 12 11 08" src="https://github.com/user-attachments/assets/cb43f67c-c974-4ffa-8db9-cec92afff4d6" />
+<img width="536" height="739" alt="Scherm­afbeelding 2026-09-28 om 12 47 36" src="https://github.com/user-attachments/assets/58850477-b507-4195-b946-aaa7f1bc4b6c" />
 f# Model<img width="332" height="256" alt="Scherm­afbeelding 2026-09-02 om 12 36 42" src="https://github.com/user-attachments/assets/583c5ccc-b80b-41a4-9c1d-72a00125ccc3" />
 
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
