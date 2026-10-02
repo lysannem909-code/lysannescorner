@@ -57,10 +57,11 @@ header {
   width: 30em;
   padding-left: 6em;
   top: 4em;
+  z-index: 3;
 }
 
 h1 {
-  display: relative;
+  position: relative;
   font-size: clamp(2.5rem, 2.2573rem + 1.0356vw, 3.5rem);
   /* margin-left: 1em;  */
   /* bah */
@@ -81,9 +82,21 @@ img[alt="astronaut"] {
 
   left: 50%;
   top: 50%;
+  z-index: 2;
+  /* z-index zorgt voor lagen in de css. Het begint onder bij 0. */
 }
 
-#Cookies:popover-open {
+button[popovertarget="cookie"] {
+  position: fixed;
+  left: 10%;
+  z-index: 0;
+  top: 0;
+  animation: zinken 8s normal forwards;
+  background: none;
+  border: none;
+}
+
+#cookie:popover-open {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -91,6 +104,7 @@ img[alt="astronaut"] {
   footer {
     display: grid;
     grid-template-columns: 1fr 1fr;
+    /* 2 columns van 1 fr gemaakt voor het accepteren en afwijzen knopje zodat ze naast elkaar staan. */
     gap: 1em;
   }
 
@@ -99,21 +113,6 @@ img[alt="astronaut"] {
   }
 }
 
-#telescopefisharticle {
-  grid-column: 12/16;
-  max-width: 50em;
-  grid-row: 2;
-  height: fit-content;
-  p {
-    font-size: 1em;
-  }
-  background-color: rgb(25, 25, 25);
-  padding: 1.5em;
-  border-color: #e8e9d9;
-  border-radius: 2em;
-}
-/* img[alt="telescopefish"] { */
-
 .img-btn {
   background: none;
   border: none;
@@ -121,13 +120,14 @@ img[alt="astronaut"] {
   cursor: pointer;
 }
 
-button[popovertarget="telescopefish"] {
+button[popovertarget="telescopefish"]:not([popovertargetaction="hide"]) {
   animation: bounce 1.5s ease-in-out infinite;
-  grid-column: 9;
+  grid-column: 10;
   grid-row: 2;
   transition: 0.3s;
   background: none;
   border: none;
+  z-index: 1;
 }
 
 #telescopefish:popover-open {
@@ -146,8 +146,9 @@ button[popovertarget="telescopefish"] {
 }
 
 [popovertarget="dumbooctopus"]:not([popovertargetaction="hide"]) {
+  /* dit betekent dat de css hieronder geld voor alle knoppen binnen het dumbooctopus stukje behalve de popovertargetaction=hide waardoor die niet beweegt en de styling van wat hieronder krijgt. */
   animation: bounce 1s ease-in-out infinite;
-  grid-column: 15;
+  grid-column: 8;
   grid-row: 3;
   transition: 0.3s;
   background: none;
@@ -162,19 +163,52 @@ button[popovertarget="telescopefish"] {
 button[popovertargetaction="hide"] {
   align-self: flex-start;
   padding: 1.5em;
+  /* de styling van alle knoppen die popovertargetaction=hide uitvoeren */
 }
 
-button[popovertarget="bigfinsquid"] {
-  display: flex;
-  /* justify-content: center; */
-  /* align-items: center; */
+[popovertarget="anglerfish"]:not([popovertargetaction="hide"]) {
+  /* dit betekent dat de css hieronder geld voor alle knoppen binnen het anglerfish stukje behalve de popovertargetaction=hide waardoor die niet beweegt. */
+  animation: bounce 2.5s ease-in-out infinite;
+  grid-column: 30;
+  grid-row: 3;
+  transition: 0.3s;
   background: none;
   border: none;
+}
+#anglerfish:popover-open {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 
+[popovertarget="phantomjelly"]:not([popovertargetaction="hide"]) {
+  /* dit betekent dat de css hieronder geld voor alle knoppen binnen het phantomjelly stukje behalve de popovertargetaction=hide waardoor die niet beweegt. */
+  animation: bounce 4s ease-in-out infinite;
+  grid-column: 75;
+  grid-row: 1;
+  transition: 0.3s;
+  background: none;
+  border: none;
+}
+#phantomjelly:popover-open {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+button[popovertargetaction="hide"] {
+  align-self: flex-start;
+  padding: 1.5em;
+}
+
+button[popovertarget="bigfinsquid"]:not([popovertargetaction="hide"]) {
+  background: none;
+  border: none;
+  z-index: 1;
   height: 74em;
   width: 69em;
   animation: bounce 2s ease-in-out infinite;
-  grid-column: 41;
+  grid-column: 50;
   grid-row: 1;
   transition: 0.3s;
   background: none;
@@ -186,24 +220,59 @@ button[popovertarget="bigfinsquid"] {
   flex-direction: column;
   align-items: center;
 }
-/* de popover-open zorgt dat de display: flex alleen gebeurd als de popover is geopend, anders overschrijft de display: flex de popover en is ie al open als je in de site komt. */
-
-img[alt="anglerfish"] {
-  grid-column: 10;
-  grid-row: 2;
-  animation: bounce 3s ease-in-out infinite;
-}
+/* de popover-open zorgt dat de display: flex (en alles wat eronder staat) alleen gebeurd als de popover is geopend, anders overschrijft de display: flex de popover en is ie al open als je in de site komt. */
 
 img[alt="dumbooctopus"]:hover {
+  /* als je over de image hovered krijgt hij deze elementen */
   scale: 1.1;
+  transition: 0.5s;
 }
 
 img[alt="telescopefish"]:hover {
   scale: 1.1;
+  transition: 0.5s;
 }
 
 img[alt="bigbigfinsquid"]:hover {
   scale: 1.1;
+  transition: 0.5s;
+}
+
+img[alt="anglerfishgetekend"]:hover {
+  scale: 1.1;
+  transition: 0.5s;
+}
+img[alt="phantomjellygetekend"]:hover {
+  scale: 1.1;
+  transition: 0.5s;
+}
+
+img[alt="cookie"]:hover {
+  scale: 1.1;
+  transition: 0.5s;
+}
+
+.overlay {
+  position: fixed;
+  inset: 0;
+  /* hiermee zeg je bij position fixed of absolute hoe ver iets van een rand af zit. door 0 te zeggen zit het dus niet van de randen van de pagina af. */
+  background: #036767;
+  mix-blend-mode: color;
+  /* dit zorgt ervoor dat het mooi mee blend en niet een grijze laag is */
+  opacity: 0.3;
+  pointer-events: none;
+  /* zorgt ervoor dat je door de overlay niet niks meer kan aanklikken */
+  z-index: 10;
+  /* dit zorgt ervoor dat het altijd boven alles staat */
+}
+
+@keyframes zinken {
+  0% {
+    transform: translateY(0px);
+  }
+  100% {
+    transform: translateY(820px);
+  }
 }
 
 @keyframes bounce {
@@ -215,5 +284,8 @@ img[alt="bigbigfinsquid"]:hover {
   }
   100% {
     transform: translateY(0px);
+  }
+
+  container {
   }
 }

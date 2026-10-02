@@ -62,3 +62,19 @@ Ik heb vandaag onderzoek gedaan naar mijn eerste 2 dieren en de astronaut en die
 <img width="2048" height="2048" alt="dumbooctopus" src="https://github.com/user-attachments/assets/7b31cf6f-f921-4c2a-a3e8-4cb5e7388e70" />
 <img width="1506" height="976" alt="Scherm­afbeelding 2026-09-13 om 23 50 45" src="https://github.com/user-attachments/assets/c9f1b5c3-5ec7-4ee6-86a0-31440641fedb" />
 <img width="269" height="818" alt="Scherm­afbeelding 2026-09-13 om 23 58 35" src="https://github.com/user-attachments/assets/105242ab-6d04-4d35-8540-3eff5c0ee90c" />
+
+28 sep
+Ik heb mijn learning log lang niet meer bijgehouden en ik ben ook veel van mijn foto's kwijt omdat mijn telefoon kapot is gegaan. Ik heb in deze tijd een nieuw dier toegevoegd, ik had eerst pagina's met informatie en dit heb ik naar popovers veranderd zodat je niet uit de ervaring word gehaald en ik heb een light en dark mode toegevoegd.
+<img width="1625" height="964" alt="Scherm­afbeelding 2026-09-28 om 12 10 36" src="https://github.com/user-attachments/assets/5cde89a0-3795-4cfc-8871-da5c63f07391" />
+<img width="1655" height="953" alt="Scherm­afbeelding 2026-09-28 om 12 10 43" src="https://github.com/user-attachments/assets/bff1684a-01c0-4af0-b657-b6c6e7877679" />
+<img width="1688" height="984" alt="Scherm­afbeelding 2026-09-28 om 12 10 54" src="https://github.com/user-attachments/assets/21706f45-85f0-46de-ae5d-508c8ddc237e" />
+<img width="785" height="804" alt="Scherm­afbeelding 2026-09-28 om 12 10 58" src="https://github.com/user-attachments/assets/d1ed049d-e3a3-49a8-bfc6-9a650a2a2fb9" />
+<img width="1699" height="980" alt="Scherm­afbeelding 2026-09-28 om 12 11 08" src="https://github.com/user-attachments/assets/cb43f67c-c974-4ffa-8db9-cec92afff4d6" />
+<img width="536" height="739" alt="Scherm­afbeelding 2026-09-28 om 12 47 36" src="https://github.com/user-attachments/assets/58850477-b507-4195-b946-aaa7f1bc4b6c" />
+f# Model<img width="332" height="256" alt="Scherm­afbeelding 2026-09-02 om 12 36 42" src="https://github.com/user-attachments/assets/583c5ccc-b80b-41a4-9c1d-72a00125ccc3" />
+
+30SEP
+Ik heb mijn zinkende koekje voor mijn cookie pop up clickable gemaakt en voor elke popover een kruisje toegevoegd. Ik heb de anglerfish en de phantom jellyfish getekend.
+
+1 OKT
+Ik heb een overlay toegevoegd aan mijn site om alles bij elkaar te laten passen en het iets minder kleur te geven wat ook bij de diepzee past, ik heb de cookie mooi gemaakt (de pop up zelf moet ik nog fixen.) En mijn bigfinsquid mooier gemaakt zodat het meer bij de stijl van de rest van mijn site past. Ook heb ik mijn anglerfish iets realistischer gemaakt kwa shading maar die zet ik er straks nog in.

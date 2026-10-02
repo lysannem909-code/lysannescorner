@@ -9,6 +9,7 @@
     <title>Digitaal Tuintje van Lysanne</title>
 
     <link rel="stylesheet" href="./assets/style/normal.css" />
+    <link rel="background" href="./assets/style/background.css" />
 
     <script
       defer
@@ -34,20 +35,26 @@
           klikken.
         </p>
 
-        <button popovertarget="Cookies">Cookies?</button>
-        <section id="Cookies" popover="auto">
-          <h2>cookies</h2>
-          <p>Op deze site worden cookies gebruikt</p>
-          <footer>
-            <button>Accepteren</button>
-            <button>Afwijzen</button>
-          </footer>
-        </section>
-
-        <!-- <input type="checkbox" id="theme" /> -->
+        <button popovertarget="cookie">
+          <img
+            src="assets/afbeeldingen/cookies.png"
+            height="150"
+            alt="cookie"
+          />
+        </button>
       </header>
 
-      <!-- <button popovertarget="Cookies">Cookies?</button> -->
+      <section popover id="cookie" popover="auto">
+        <button popovertarget="cookie" popovertargetaction="hide">X</button>
+        <!-- als je op het Xje drukt dan verstopt ie de popovertarget (de popover) door hide -->
+        <h2>cookies</h2>
+        <p>Op deze site worden cookies gebruikt</p>
+        <footer>
+          <button>Accepteren</button>
+          <button>Afwijzen</button>
+        </footer>
+      </section>
+      <!-- ik heb de afwijzen en accepteren knoppen in een footer gedaan (weet niet zeker of dit helemaal correct is, maar het was wel de onderkant van de popover). zodat ik deze apart kon stijlen dan de section en zodat ik ze naast elkaar kon centreren -->
 
       <img
         src="assets/afbeeldingen/astronaut.PNG"
@@ -55,7 +62,6 @@
         alt="astronaut"
       />
       <button popovertarget="telescopefish">
-        <!-- >"telescopefish.html"> -->
         <img
           src="assets/afbeeldingen/telescopefish.PNG"
           height="140"
@@ -64,6 +70,9 @@
       </button>
 
       <div popover id="telescopefish">
+        <button popovertarget="telescopefish" popovertargetaction="hide">
+          X
+        </button>
         <h2>de telescopefish</h2>
         <p>
           Deze engerds komen vooral voor in tropische wateren zo'n 200 tot 5000
@@ -78,8 +87,6 @@
           height="200"
         />
       </div>
-
-      <!-- <section id="infodumbo"> -->
 
       <button popovertarget="dumbooctopus">
         <img
@@ -120,7 +127,10 @@
       </button>
 
       <div popover id="bigfinsquid">
-        <h2>de bigfinsquid</h2>
+        <button popovertarget="bigfinsquid" popovertargetaction="hide">
+          X
+        </button>
+        <h2>De bigfinsquid</h2>
         <p>
           Zoals veel diepzeedieren is er weinig over deze vissen bekend. Volgens
           het artikel Global distribution and depth of the Bigfin squid
@@ -138,30 +148,50 @@
           alt="bigfinsquidfoto"
           height="200"
         />
+        </div>
+
+        <button popovertarget="anglerfish">
+          <img
+            src="assets/afbeeldingen/anglerfishgetekend.PNG"
+            height="200"
+            alt="anglerfishgetekend"
+          />
+        </button>
+
+        <div popover id="anglerfish">
+          <button popovertarget="anglerfish" popovertargetaction="hide">
+            X
+          </button>
+          <h2>De anglerfish</h2>
+          <p>lalalalalala</p>
+        </div>
+
+            <button popovertarget="phantomjelly">
+          <img
+            src="assets/afbeeldingen/phantomjellygetekend.png"
+            height="800"
+            alt="phantomjellygetekend"
+          />
+        </button>
+
+        <div popover id="phantomjelly">
+          <button popovertarget="phantomjelly" popovertargetaction="hide">
+            X
+          </button>
+          <h2>De Phantom jellyfish</h2>
+          <p>lalalalalala</p>
+        </div>
+
+        <div class="overlay"></div>
+
+        <!-- <div class="bg-animation">
+          <div id="stars"></div>
+          <div id="stars2"></div>
+          <div id="stars3"></div>
+          <div id="stars4"></div>
+        </div> -->
+        <!-- / STAR ANIMATION -->
       </div>
-
-      <!-- <img -->
-      <!-- src="assets/afbeeldingen/anglerfish.png" -->
-      <!-- height="150" -->
-      <!-- alt="anglerfish" -->
-      <!-- /> -->
-
-      <!-- <article id="telescopefisharticle"> -->
-      <!-- <h2>Dit telescopefish</h2> -->
-      <!-- <p> -->
-      <!-- Deze engerds komen vooral voor in tropische wateren zo'n 200 tot 5000 -->
-      <!-- meter diep. Onder dit soort vallen nog 2 verschillende soorten die -->
-      <!-- verschillen met een paat vinnen. Een telescope fish begint zijn leven als -->
-      <!-- een volstrekt andere vis en maakt in hun groei een dramatische verandering -->
-      <!-- mee. Hierdoor dacht men vroeger dat de jonge en oude versie van deze vis -->
-      <!-- twee verschillende soorten waren. Deze vissen kennen ook geen gender en -->
-      <!-- hebben zowel mannelijke als vrouwelijke voortplantingsorganen. Door hun -->
-      <!-- unieke kaak zonder normale botten kunnen ze prooi groter dan hun eigen -->
-      <!-- lichaam eten. Dit is voor een lege plaats als de diepzee wel heel handig. -->
-      <!-- Ik mocht niet zomaar moderne foto's van deze vis gebruiken, maar ik raad -->
-      <!-- wel aan om de telescope fish even op te zoeken. -->
-      <!-- </p> -->
-      <!-- </article> -->
     </main>
   </body>
 </html>
