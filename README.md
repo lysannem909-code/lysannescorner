@@ -78,3 +78,31 @@ Ik heb mijn zinkende koekje voor mijn cookie pop up clickable gemaakt en voor el
 
 1 OKT
 Ik heb een overlay toegevoegd aan mijn site om alles bij elkaar te laten passen en het iets minder kleur te geven wat ook bij de diepzee past, ik heb de cookie mooi gemaakt (de pop up zelf moet ik nog fixen.) En mijn bigfinsquid mooier gemaakt zodat het meer bij de stijl van de rest van mijn site past. Ook heb ik mijn anglerfish iets realistischer gemaakt kwa shading maar die zet ik er straks nog in.
+
+2 OKT
+ik heb feedback van sanne gekregen en ik moet mijn columns en rows aanpassen, accesibitliy testen en zorgen dat alle elementen van mijn site responsive zijn en mobile first is.
+
+5 OKT
+Intro gekregen songtekst opdracht, liejde gekozen (ik heb voor ik vergeet va spinvis gekozen) schetsen gemaakt en de songtekst een beetje geanalyseerd.
+<img src="assets/fotos_readme/spinvischets1.png">
+<img src="assets/fotos_readme/spinvischets2.png">
+<img src="assets/fotos_readme/spinvischets3.png">
+<img src="assets/fotos_readme/spinvischets.png">
+
+Check-out
+Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension. (Hint, alle termen staan in de artikelen die we samen gelezen hebben)
+
+Wat is jouw ideale regellengte (measure)? Leg uit waarom.
+
+Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
+
+6 OKT
+Eerste versie in css uitgewerkt
+<img src="assets/fotos_readme/spinvis_eersteversie.png">
+
+7 OKT
+Check-out
+
+Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
+Noem drie manieren om chaos in je ontwerp te voorkomen.
+Hoeveel gekkigheid moet er in je werk zitten?

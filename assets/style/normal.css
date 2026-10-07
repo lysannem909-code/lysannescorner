@@ -145,6 +145,9 @@ button[popovertarget="telescopefish"]:not([popovertargetaction="hide"]) {
   }
 }
 
+
+}
+
 [popovertarget="dumbooctopus"]:not([popovertargetaction="hide"]) {
   /* dit betekent dat de css hieronder geld voor alle knoppen binnen het dumbooctopus stukje behalve de popovertargetaction=hide waardoor die niet beweegt en de styling van wat hieronder krijgt. */
   animation: bounce 1s ease-in-out infinite;
