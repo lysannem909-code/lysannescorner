@@ -1,0 +1,2 @@
+https://www.w3schools.com/cssref/pr_text_text-align.php
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/grid-template-rows

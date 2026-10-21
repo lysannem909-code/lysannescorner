@@ -106,3 +106,16 @@ Check-out
 Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
 Noem drie manieren om chaos in je ontwerp te voorkomen.
 Hoeveel gekkigheid moet er in je werk zitten?
+
+Meegedaan met de deepdive van Sanne met variable fonts.
+
+10 OKT
+verder gewerkt aan mijn songtext en nieuwe schetsen gemaakt.
+
+herfstvakantie
+
+17-18 OKT
+Mijn songtekst opdracht verder gemaakt. Ik heb stipjes voor het biepende stukje in het begin toegevoegd, kleuren, de rest van de songtekst en effecten bij de woorden.
+
+19-20 OKT
+Het grid van mijn site omgegooid, ik ben van horizontaal scrollen wat ik eerst wilde doen toch veranderd naar verticaal scrollen omdat dit op mobiel ook en stuk makkelijker is. Ik heb op 20 oktober mijn best gedaan om mijn site adaptief te maken en nu bewegen de elementen in de klomen mee met de site als je dit kleiner of groter maakt. Ik heb ook een mooiere astronaut getekend

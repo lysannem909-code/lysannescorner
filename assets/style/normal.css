@@ -24,6 +24,7 @@ html {
   --text-color: rgb(255, 254, 254);
 
   --page-background: light-dark(rgb(46, 49, 71), rgb(11, 11, 11));
+  overflow-x: clip;
 }
 
 /* .lightmode { */
@@ -38,17 +39,35 @@ body {
   background-color: var(--page-background);
 
   margin: 0;
-  padding: 2em;
+  padding: 1em;
 
-  width: 100vw;
-  overflow-x: auto;
+  width: 100%;
+  min-height: 100vh;
+  /* hierdoor kan je niet in de breedte scrollen */
 }
+
+/* MARK: grid */
 
 main {
   display: grid;
-  grid-template-columns: repeat(100, 6em);
-  grid-auto-rows: 12em;
-  width: max-content;
+  /* grid-template-columns: repeat(60, 1fr);
+  grid-auto-rows: calc(
+    100vw / 60
+  ); /* rijen even hoog als de kolommen breed zijn */
+  /* grid-template-rows: repeat(60, calc(100vw / 60)); */
+  --kolommen: 20; /* mobile first niet veel kolommen */
+  display: grid;
+  grid-template-columns: repeat(var(--kolommen), minmax(0, 1fr));
+  /* minimum hoogte en maximum hoogte */
+  grid-auto-rows: calc(80vw / var(--kolommen));
+}
+
+@media (min-width: 600px) {
+  --kolommen: 40; /*tablet */
+}
+
+@media (min-width: 1000px) {
+  --kolommen: 60; /* desktop: veel kolommen, dus kleine cellen */
 }
 
 /* MARK: header */
@@ -120,14 +139,18 @@ button[popovertarget="cookie"] {
   cursor: pointer;
 }
 
+/* MARK:telescopefish  */
+
 button[popovertarget="telescopefish"]:not([popovertargetaction="hide"]) {
   animation: bounce 1.5s ease-in-out infinite;
-  grid-column: 10;
-  grid-row: 2;
   transition: 0.3s;
   background: none;
   border: none;
   z-index: 1;
+  grid-column: 5 / span 15; /* begint bij kolom 2 en is 15 kolommen breed */
+  grid-row: 25 / span 15; /* begint bij rij 7 en is 16 rijen hoog */
+  width: 100%;
+  height: 100%;
 }
 
 #telescopefish:popover-open {
@@ -145,54 +168,56 @@ button[popovertarget="telescopefish"]:not([popovertargetaction="hide"]) {
   }
 }
 
-
-}
-
-[popovertarget="dumbooctopus"]:not([popovertargetaction="hide"]) {
+/* MARK:dumboctopus
+ */
+button[popovertarget="dumbooctopus"]:not([popovertargetaction="hide"]) {
   /* dit betekent dat de css hieronder geld voor alle knoppen binnen het dumbooctopus stukje behalve de popovertargetaction=hide waardoor die niet beweegt en de styling van wat hieronder krijgt. */
   animation: bounce 1s ease-in-out infinite;
-  grid-column: 8;
-  grid-row: 3;
+  grid-column: 6 / span 14;
+  /* start op grid column 3 en span 14 columns door */
+  grid-row: 50;
+  /*  /* start op grid row 24 en span 14 columns door */
   transition: 0.3s;
   background: none;
   border: none;
+  height: 100%;
+  width: 100%;
 }
+
 #dumbooctopus:popover-open {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-button[popovertargetaction="hide"] {
-  align-self: flex-start;
-  padding: 1.5em;
-  /* de styling van alle knoppen die popovertargetaction=hide uitvoeren */
-}
-
+/* MARK:anglerfish  */
 [popovertarget="anglerfish"]:not([popovertargetaction="hide"]) {
   /* dit betekent dat de css hieronder geld voor alle knoppen binnen het anglerfish stukje behalve de popovertargetaction=hide waardoor die niet beweegt. */
   animation: bounce 2.5s ease-in-out infinite;
-  grid-column: 30;
-  grid-row: 3;
+  grid-row: 20;
   transition: 0.3s;
   background: none;
   border: none;
 }
+
 #anglerfish:popover-open {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
+/* MARK:phantomjelly */
+
 [popovertarget="phantomjelly"]:not([popovertargetaction="hide"]) {
   /* dit betekent dat de css hieronder geld voor alle knoppen binnen het phantomjelly stukje behalve de popovertargetaction=hide waardoor die niet beweegt. */
   animation: bounce 4s ease-in-out infinite;
-  grid-column: 75;
-  grid-row: 1;
+  grid-row: 65;
   transition: 0.3s;
   background: none;
   border: none;
+  grid-column: 1;
 }
+
 #phantomjelly:popover-open {
   display: flex;
   flex-direction: column;
@@ -204,26 +229,31 @@ button[popovertargetaction="hide"] {
   padding: 1.5em;
 }
 
+/* MARK:bigfinsquid */
+
 button[popovertarget="bigfinsquid"]:not([popovertargetaction="hide"]) {
   background: none;
   border: none;
   z-index: 1;
-  height: 74em;
-  width: 69em;
+  grid-column: 2;
+  grid-row: 100;
   animation: bounce 2s ease-in-out infinite;
-  grid-column: 50;
-  grid-row: 1;
   transition: 0.3s;
   background: none;
   border: none;
 }
-
 #bigfinsquid:popover-open {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 /* de popover-open zorgt dat de display: flex (en alles wat eronder staat) alleen gebeurd als de popover is geopend, anders overschrijft de display: flex de popover en is ie al open als je in de site komt. */
+
+button[popovertargetaction="hide"] {
+  align-self: flex-start;
+  padding: 1.5em;
+  /* de styling van alle knoppen die popovertargetaction=hide uitvoeren */
+}
 
 img[alt="dumbooctopus"]:hover {
   /* als je over de image hovered krijgt hij deze elementen */
@@ -268,6 +298,8 @@ img[alt="cookie"]:hover {
   z-index: 10;
   /* dit zorgt ervoor dat het altijd boven alles staat */
 }
+
+/* MARK: animatie */
 
 @keyframes zinken {
   0% {

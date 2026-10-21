@@ -1,0 +1,145 @@
+@font-face {
+  font-family: SeraphsVS;
+  src: url(../fonts/SeraphsVF.woff2);
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 10%;
+  column-gap: 1em;
+  row-gap: 1em;
+  grid-template-rows: auto auto auto auto auto auto auto;
+  padding: 4em;
+
+  font-family: SeraphsVS, Arial, Helvetica, sans-serif;
+  background-color: rgb(219, 215, 192);
+}
+
+p {
+  font-variation-settings:
+    "wght" 100,
+    "SRFS" 54;
+  letter-spacing: 0.3em;
+  color: blue;
+}
+
+h2 {
+  font-variation-settings:
+    "wght" 130,
+    "SRFS" 26;
+  color: rgb(14, 9, 153);
+}
+
+h1 {
+  font-variation-settings:
+    "wght" 130,
+    "SRFS" 26;
+  color: blue;
+}
+.bildstraat {
+  letter-spacing: 0.7em;
+}
+
+.zijn-geweest {
+  grid-row-start: 2;
+}
+
+.koninginnedag {
+  font-style: italic;
+  text-align: right;
+  color: orangered;
+}
+.rechts {
+  text-align: right;
+}
+
+.vergeet {
+  letter-spacing: 0.6em;
+}
+
+section:nth-of-type(1)::before {
+  content: "";
+  display: block;
+  height: 10em; /* hoeveel rijen rondjes */
+  margin-top: 1em;
+  background-image: radial-gradient(circle, orangered, transparent 3.5px);
+  background-size: 2em 2em;
+}
+
+section:nth-of-type(1) {
+  grid-column-start: 1;
+  grid-row-end: 5;
+  grid-row-start: 1;
+}
+
+section:nth-of-type(1) p {
+  letter-spacing: 0.8em;
+  max-width: 7em;
+  word-spacing: 0.8em;
+  color: orangered;
+}
+
+section:nth-of-type(2) {
+  grid-column-start: 2;
+  grid-row-start: 2;
+  text-align: right;
+}
+
+section:nth-of-type(3) {
+  grid-column-start: 3;
+  grid-row-start: 3;
+}
+
+section:nth-of-type(4) {
+  grid-column-start: 4;
+  grid-row-start: 4;
+  text-align: right;
+}
+
+section:nth-of-type(5) {
+  grid-column-start: 5;
+  grid-row-start: 5;
+}
+
+section:nth-of-type(6) {
+  grid-column-start: 6;
+  grid-row-start: 6;
+  text-align: right;
+}
+
+section:nth-of-type(7) {
+  grid-column-start: 7;
+  grid-row-start: 7;
+  text-align: left;
+}
+
+section:nth-of-type(8) {
+  grid-column-start: 6;
+  grid-row-start: 8;
+  text-align: left;
+}
+
+section:nth-of-type(9) {
+  grid-column-start: 5;
+  grid-row-start: 9;
+  text-align: left;
+}
+
+section:nth-of-type(10) {
+  grid-column-start: 4;
+  grid-row-start: 10;
+  text-align: left;
+}
+
+section:nth-of-type(11) {
+  grid-column-start: 3;
+  grid-row-start: 11;
+  text-align: left;
+}
+
+section:nth-of-type(12) {
+  grid-column-start: 3;
+  grid-row-start: 12;
+  text-align: left;
+}
