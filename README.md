@@ -116,6 +116,9 @@ herfstvakantie
 
 17-18 OKT
 Mijn songtekst opdracht verder gemaakt. Ik heb stipjes voor het biepende stukje in het begin toegevoegd, kleuren, de rest van de songtekst en effecten bij de woorden.
+<img width="1011" height="925" alt="Scherm­afbeelding 2026-10-21 om 12 05 07" src="https://github.com/user-attachments/assets/77414d02-c573-4656-9020-bd68fdd2b281" />
+
+
 
 19-20 OKT
 Het grid van mijn site omgegooid, ik ben van horizontaal scrollen wat ik eerst wilde doen toch veranderd naar verticaal scrollen omdat dit op mobiel ook en stuk makkelijker is. Ik heb op 20 oktober mijn best gedaan om mijn site adaptief te maken en nu bewegen de elementen in de klomen mee met de site als je dit kleiner of groter maakt. Ik heb ook een mooiere astronaut getekend
