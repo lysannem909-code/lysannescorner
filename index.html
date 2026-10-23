@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="nl">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -21,8 +21,17 @@
   </head>
 
   <body>
+    <header>
+      <a href="./assets/voor-ik-vergeet/voorikvergeet.html">voor ik vergeet</a>
+      <a
+        href="https://github.com/lysannem909-code/lysannescorner/blob/main/README.md"
+        >Learning log</a
+      >
+    </header>
+
+    <!-- #MARK: intro -->
     <main>
-      <header>
+      <article>
         <h1>lysanne's corner</h1>
         <p>
           Ik heb de diepzee altijd erg facinerend gevonden, er is weinig over
@@ -34,33 +43,41 @@
           Op deze site kan je de dieren die hier leven ontdekken door op ze te
           klikken.
         </p>
+      </article>
 
-        <button popovertarget="cookie">
-          <img
-            src="assets/afbeeldingen/cookies.png"
-            height="150"
-            alt="cookie"
-          />
-        </button>
-      </header>
+      <!-- #MARK: cookie -->
+
+      <button popovertarget="cookie">
+        <img src="assets/afbeeldingen/cookies.png" height="150" alt="cookies" />
+      </button>
 
       <section popover id="cookie" popover="auto">
         <button popovertarget="cookie" popovertargetaction="hide">X</button>
         <!-- als je op het Xje drukt dan verstopt ie de popovertarget (de popover) door hide -->
         <h2>cookies</h2>
-        <p>Op deze site worden cookies gebruikt</p>
+        <p>
+          Op deze site wordt noodgedwongen gebruikt gemaakt van cookies. </p>
+          <p>Op deze site wordt een onbekend script van een derde partij gebruikt.</p>
+          <p>Ik adviseer u de site te verlaten als u het hier niet mee eens bent en de volgende policie(s) door te lezen.</p>
+            <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" ></a>
+        </p>
+
         <footer>
-          <button>Accepteren</button>
-          <button>Afwijzen</button>
+          <button popovertarget="cookie" popovertargetaction="hide">
+            Accepteren en doorgaan
+          </button>
         </footer>
       </section>
       <!-- ik heb de afwijzen en accepteren knoppen in een footer gedaan (weet niet zeker of dit helemaal correct is, maar het was wel de onderkant van de popover). zodat ik deze apart kon stijlen dan de section en zodat ik ze naast elkaar kon centreren -->
 
+      <!-- #MARK: astronaut -->
       <img
         src="assets/afbeeldingen/astronaut.PNG"
         height="300"
         alt="astronaut"
       />
+
+      <!-- #MARK: telescopefish -->
       <button popovertarget="telescopefish">
         <img
           src="assets/afbeeldingen/telescopefish.PNG"
@@ -88,6 +105,7 @@
         />
       </div>
 
+      <!-- #MARK: dumbocotopus -->
       <button popovertarget="dumbooctopus">
         <img
           src="assets/afbeeldingen/dumbooctopus.PNG"
@@ -118,11 +136,13 @@
         />
       </div>
 
+      <!-- #MARK: bigfinsquid -->
+
       <button popovertarget="bigfinsquid">
         <img
           src="assets/afbeeldingen/bigbigfinsquid.PNG"
           height="800"
-          alt="bigbigfinsquid"
+          alt="bigfinsquid"
         />
       </button>
 
@@ -143,59 +163,112 @@
           meter die uit deze armen en tentakels bestonden. Wetenschappers hebben
           officieel 3 soorten bigfin squid gecategoriseerd.
         </p>
+
         <img
           src="assets/afbeeldingen/bigfinsquid.jpg"
           alt="bigfinsquidfoto"
           height="200"
         />
-        </div>
+      </div>
 
-        <button popovertarget="anglerfish">
-          <img
-            src="assets/afbeeldingen/anglerfishgetekend.PNG"
-            height="200"
-            alt="anglerfishgetekend"
-          />
+      <button popovertarget="anglerfish">
+        <img
+          src="assets/afbeeldingen/anglerfishgetekend.PNG"
+          height="200"
+          alt="anglerfish"
+        />
+      </button>
+
+      <!-- #MARK: anglerfish -->
+      <div popover id="anglerfish">
+        <button popovertarget="anglerfish" popovertargetaction="hide">X</button>
+        <h2>De diepzeehengelvis (Ceratioidea)</h2>
+        <p>
+          Er zijn meer dan meer dan 200 soorten hengelvissen. Ze leven vooral in
+          de dieptes van de Arctische en Atlantische oceaan, tussen de 300 en
+          4000 meter. Sommige soorten kunnen tot meer dan 1 meter in de lengte
+          bereiken, maar vaak zijn ze kleiner, ongeveer de grootte van een
+          schoolliniaal. (30cm)
+        </p>
+        <p>
+          Naast hun enge tanden is hun meest opvallende kenmerk het lichtje aan
+          de bovenkant van hun hoofd, een soort vishengel die bestaat uit een
+          lichtgevend zakje bacteriën die ze gebruiken om prooi te vangen, wat
+          kenmerkend alleen bij de vrouwtjes voorkomt. Net zoals de telescope
+          fish (Gigantura) kunnen ze door hun flexibele bouw prooi twee keer hun
+          grootte eten, wat hard nodig is als het mogelijke aantal prooi zo
+          schaars is.
+        </p>
+        <p>
+          In de duistere dieptes zijn de mannelijke hengelvissen heel hun leven
+          opzoek naar het andere geslacht. De mannetjes zijn vergeleken met de
+          vrouwtjes heel klein, en in sommige soorten, als een mannetje een
+          vrouwelijke hengelvis heeft gevonden haakt hij zichzelf vast aan het
+          vrouwtje met zijn tanden en laten hij niet meer los. Het mannetje
+          wordt een soort parasitaire partner, ze smelten samen, hij komt vast
+          aan haar huid te zitten en verbindt zich aan haar bloedomloop. Het
+          mannetje verliest in dit proces ook zijn ogen en al zijn organen
+          behalve de testikels. Een vrouwtje draagt 6 of meer mannetjes.
+
+          <!-- #MARK: phantomjelly -->
+        </p>
+      </div>
+
+      <button popovertarget="phantomjelly">
+        <img
+          src="assets/afbeeldingen/phantomjellygetekend.png"
+          height="700"
+          alt="phantomjelly"
+        />
+      </button>
+
+      <div popover id="phantomjelly">
+        <button popovertarget="phantomjelly" popovertargetaction="hide">
+          X
         </button>
+        <h2>De Phantom jellyfish</h2>
+        <p>lalalalalala</p>
+      </div>
 
-        <div popover id="anglerfish">
-          <button popovertarget="anglerfish" popovertargetaction="hide">
-            X
-          </button>
-          <h2>De diepzeehengelvis (Ceratioidea)</h2>
-          <p> Er zijn meer dan meer dan 200 soorten hengelvissen. Ze leven vooral in de dieptes van de Arctische en Atlantische oceaan, tussen de 300 en 4000 meter. Sommige soorten kunnen tot meer dan 1 meter in de lengte bereiken, maar vaak zijn ze kleiner, ongeveer de grootte van een schoolliniaal. (30cm) </p> <p>
-Naast hun enge tanden is hun meest opvallende kenmerk het lichtje aan de bovenkant van hun hoofd, een soort vishengel die bestaat uit een lichtgevend zakje bacteriën die ze gebruiken om prooi te vangen, wat kenmerkend alleen bij de vrouwtjes voorkomt. Net zoals de telescope fish (Gigantura) kunnen ze door hun flexibele bouw prooi twee keer hun grootte eten, wat hard nodig is als het mogelijke aantal prooi zo schaars is. </p>
-<p>In de duistere dieptes zijn de mannelijke hengelvissen heel hun leven opzoek naar het andere geslacht. De mannetjes zijn vergeleken met de vrouwtjes heel klein, en in sommige soorten, als een mannetje een vrouwelijke hengelvis heeft gevonden haakt hij zichzelf vast aan het vrouwtje met zijn tanden en laten hij niet meer los. Het mannetje wordt een soort parasitaire partner, ze smelten samen, hij komt vast aan haar huid te zitten en verbindt zich aan haar bloedomloop. Het mannetje verliest in dit proces ook zijn ogen en al zijn organen behalve de testikels. Een vrouwtje draagt 6 of meer mannetjes.
+      <!-- #MARK: bubbels -->
 
-</p>
-        </div>
+      <div aria-hidden="true" class="bubbel1">
+        <img src="assets/afbeeldingen/bubbel.png" aria-hidden="true" height="50" />
+      </div>
 
-            <button popovertarget="phantomjelly">
-          <img
-            src="assets/afbeeldingen/phantomjellygetekend.png"
-            height="700"
-            alt="phantomjellygetekend"
-          />
-        </button>
+      <div aria-hidden="true" class="bubbel2">
+        <img src="assets/afbeeldingen/bubbel.png" aria-hidden="true" height="50" />
+      </div>
 
-        <div popover id="phantomjelly">
-          <button popovertarget="phantomjelly" popovertargetaction="hide">
-            X
-          </button>
-          <h2>De Phantom jellyfish</h2>
-          <p>lalalalalala</p>
-        </div>
+      <div aria-hidden="true" class="bubbel3">
+        <img src="assets/afbeeldingen/bubbel.png" aria-hidden="true" height="50" />
+      </div>
 
-        <div class="overlay"></div>
+      <div aria-hidden="true" class="bubbel4">
+        <img src="assets/afbeeldingen/bubbel.png" aria-hidden="true" height="50" />
+      </div>
 
-        <!-- <div class="bg-animation">
+      <div aria-hidden="true" class="bubbel5">
+        <img src="assets/afbeeldingen/bubbel.png" aria-hidden="true" height="50" />
+      </div>
+
+      <div aria-hidden="true" class="bubbel6">
+        <img src="assets/afbeeldingen/bubbel.png" aria-hidden="true" height="50" />
+      </div>
+
+      <!-- #MARK: visual -->
+
+      <div class="zand"></div>
+
+      <div class="overlay"></div>
+
+      <!-- <div class="bg-animation">
           <div id="stars"></div>
           <div id="stars2"></div>
           <div id="stars3"></div>
           <div id="stars4"></div>
         </div> -->
-        <!-- / STAR ANIMATION -->
-      </div>
+      <!-- / STAR ANIMATION -->
     </main>
   </body>
 </html>

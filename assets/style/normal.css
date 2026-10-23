@@ -11,6 +11,7 @@
   font-weight: 400;
   font-style: normal;
 }
+/* bron:deepdives */
 
 *,
 *::after,
@@ -25,6 +26,8 @@ html {
 
   --page-background: light-dark(rgb(46, 49, 71), rgb(11, 11, 11));
   overflow-x: clip;
+  /* clip ipv hidden om ongewild horizontaal scrollen te verkomen */
+  /* bron: https://www.framer.com/help/articles/overflow-clip/ */
 }
 
 /* .lightmode { */
@@ -37,13 +40,15 @@ body {
   font-family: "StampRSPK";
   color: var(--text-color);
   background-color: var(--page-background);
+  /* bron: deepdives */
 
   margin: 0;
-  padding: 1em;
 
   width: 100%;
-  min-height: 100vh;
+  /* min-height: 100vh; */
   /* hierdoor kan je niet in de breedte scrollen */
+  position: relative;
+  /* bubbel meet de hele pagina */
 }
 
 /* MARK: grid */
@@ -58,20 +63,19 @@ main {
   --kolommen: 20; /* mobile first niet veel kolommen */
   display: grid;
   grid-template-columns: repeat(var(--kolommen), minmax(0, 1fr));
-  /* minimum hoogte en maximum hoogte */
-  grid-auto-rows: calc(80vw / var(--kolommen));
-}
+  /* bron: https://www.youtube.com/watch?v=iDI-Yd-bmwc */
+  /* minimum hoogte en maximum breedte */
+  grid-template-rows: repeat(150, calc(80vw / var(--kolommen)));
+  /* repeat een ding 150 keer ipv het apart uitschrijven. 80vw is 80% de breedte van het scherm. Met 20 kolommen (mobile first) is dit 80 / 20 = 4%. Dus dan is elke kolom 4% van het scherm.
+  bronn(en): https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/length
+  https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/calc
+  https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/repeat
 
-@media (min-width: 600px) {
-  --kolommen: 40; /*tablet */
-}
-
-@media (min-width: 1000px) {
-  --kolommen: 60; /* desktop: veel kolommen, dus kleine cellen */
+  calc zorgt ervoor dat de css het sommetje van gedeeld kan uitrekenen.  */
 }
 
 /* MARK: header */
-header {
+article {
   position: relative;
   width: 30em;
   padding-left: 6em;
@@ -79,20 +83,48 @@ header {
   z-index: 3;
 }
 
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/justify-content */
+  gap: 2em;
+
+  a {
+    color: white;
+    background: #1d1d1d;
+    padding: 1em;
+    border: grey;
+    transition: 0.4s ease-in-out;
+    text-decoration: none;
+    /* haalt de link lijn onder de tekst weg */
+    /* bron: Maja */
+  }
+
+  a:hover {
+    background-color: #363636;
+    font-size: 1.2em;
+    transform: scale(1.05);
+  }
+}
 h1 {
   position: relative;
-  font-size: clamp(2.5rem, 2.2573rem + 1.0356vw, 3.5rem);
-  /* margin-left: 1em;  */
-  /* bah */
+  font-size: clamp(3.2rem, 2.6rem + 1.0356vw, 3.5rem);
+  /* https://freshjuice.dev/tools/font-size-clamp-generator/ */
 }
 
 p {
   max-width: 50em;
-  font-size: clamp(0.5rem, 0.7rem + 0.6472vw, 1.875rem);
+  font-size: clamp(1.3rem, 0.5rem + 1.4vw, 2rem);
+  /* https://freshjuice.dev/tools/font-size-clamp-generator/ */
 }
 
 figcaption {
   margin: 2em; /* bah */
+}
+
+ {
+
 }
 
 img[alt="astronaut"] {
@@ -104,15 +136,17 @@ img[alt="astronaut"] {
   z-index: 2;
   /* z-index zorgt voor lagen in de css. Het begint onder bij 0. */
 }
-
-button[popovertarget="cookie"] {
+/* #MARK: Cookies */
+button[popovertarget="cookie"]:not([popovertargetaction="hide"]) {
   position: fixed;
   left: 10%;
-  z-index: 0;
+  z-index: 10;
   top: 0;
   animation: zinken 8s normal forwards;
   background: none;
   border: none;
+  cursor: pointer;
+  /* https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/cursor */
 }
 
 #cookie:popover-open {
@@ -122,21 +156,14 @@ button[popovertarget="cookie"] {
 
   footer {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
     /* 2 columns van 1 fr gemaakt voor het accepteren en afwijzen knopje zodat ze naast elkaar staan. */
-    gap: 1em;
+    /* gap: 1em */
   }
 
   button {
     padding: 2em;
   }
-}
-
-.img-btn {
-  background: none;
-  border: none;
-  padding: 0;
-  cursor: pointer;
 }
 
 /* MARK:telescopefish  */
@@ -147,10 +174,10 @@ button[popovertarget="telescopefish"]:not([popovertargetaction="hide"]) {
   background: none;
   border: none;
   z-index: 1;
-  grid-column: 5 / span 15; /* begint bij kolom 2 en is 15 kolommen breed */
-  grid-row: 25 / span 15; /* begint bij rij 7 en is 16 rijen hoog */
-  width: 100%;
-  height: 100%;
+  grid-column: 5;
+  grid-row: 25;
+  cursor: pointer;
+  /* https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/cursor */
 }
 
 #telescopefish:popover-open {
@@ -173,15 +200,15 @@ button[popovertarget="telescopefish"]:not([popovertargetaction="hide"]) {
 button[popovertarget="dumbooctopus"]:not([popovertargetaction="hide"]) {
   /* dit betekent dat de css hieronder geld voor alle knoppen binnen het dumbooctopus stukje behalve de popovertargetaction=hide waardoor die niet beweegt en de styling van wat hieronder krijgt. */
   animation: bounce 1s ease-in-out infinite;
-  grid-column: 6 / span 14;
-  /* start op grid column 3 en span 14 columns door */
+  grid-column: 6;
   grid-row: 50;
-  /*  /* start op grid row 24 en span 14 columns door */
   transition: 0.3s;
   background: none;
   border: none;
   height: 100%;
   width: 100%;
+  cursor: pointer;
+  /* https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/cursor */
 }
 
 #dumbooctopus:popover-open {
@@ -198,12 +225,19 @@ button[popovertarget="dumbooctopus"]:not([popovertargetaction="hide"]) {
   transition: 0.3s;
   background: none;
   border: none;
+  cursor: pointer;
+  /* https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/cursor */
 }
 
 #anglerfish:popover-open {
   display: flex;
   flex-direction: column;
   align-items: center;
+
+  p {
+    font-size: clamp(1.3rem, 0.5rem + 1.4vw, 1.4rem);
+  }
+  /* dit is zodat stukken met meer tekst minder groor worden waardoor alle tekst en het kruisje binnen die spesefieke popovers leesbaar blijvens*/
 }
 
 /* MARK:phantomjelly */
@@ -216,12 +250,15 @@ button[popovertarget="dumbooctopus"]:not([popovertargetaction="hide"]) {
   background: none;
   border: none;
   grid-column: 1;
+  cursor: pointer;
+  /* https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/cursor */
 }
 
 #phantomjelly:popover-open {
   display: flex;
   flex-direction: column;
   align-items: center;
+  /* bron: https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Flexible_box_layout/Basic_concepts */
 }
 
 button[popovertargetaction="hide"] {
@@ -241,11 +278,18 @@ button[popovertarget="bigfinsquid"]:not([popovertargetaction="hide"]) {
   transition: 0.3s;
   background: none;
   border: none;
+  cursor: pointer;
+  /* https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/cursor */
 }
 #bigfinsquid:popover-open {
   display: flex;
   flex-direction: column;
   align-items: center;
+
+  p {
+    font-size: clamp(1.3rem, 0.5rem + 1.4vw, 1.6rem);
+  }
+  /*  */
 }
 /* de popover-open zorgt dat de display: flex (en alles wat eronder staat) alleen gebeurd als de popover is geopend, anders overschrijft de display: flex de popover en is ie al open als je in de site komt. */
 
@@ -266,29 +310,84 @@ img[alt="telescopefish"]:hover {
   transition: 0.5s;
 }
 
-img[alt="bigbigfinsquid"]:hover {
+img[alt="bigfinsquid"]:hover {
   scale: 1.1;
   transition: 0.5s;
 }
 
-img[alt="anglerfishgetekend"]:hover {
+img[alt="anglerfish"]:hover {
   scale: 1.1;
   transition: 0.5s;
 }
-img[alt="phantomjellygetekend"]:hover {
-  scale: 1.1;
-  transition: 0.5s;
-}
-
-img[alt="cookie"]:hover {
+img[alt="phantomjelly"]:hover {
   scale: 1.1;
   transition: 0.5s;
 }
 
+img[alt="cookies"]:hover {
+  scale: 1.1;
+  transition: 0.5s;
+}
+
+/* #MARK: bubbels */
+
+.bubbel1 {
+  animation: bubbels 20s infinite;
+  position: absolute;
+  z-index: 0;
+  left: 10%;
+}
+
+.bubbel2 {
+  animation: bubbels 26s infinite;
+  position: absolute;
+  z-index: 0;
+  left: 30%;
+}
+
+.bubbel3 {
+  animation: bubbels 27s infinite;
+  position: absolute;
+  z-index: 0;
+  left: 60%;
+}
+
+.bubbel4 {
+  animation: bubbels 25s infinite;
+  position: absolute;
+  z-index: 0;
+  left: 75%;
+}
+
+.bubbel5 {
+  animation: bubbels 22s infinite;
+  position: absolute;
+  z-index: 0;
+  left: 45%;
+}
+
+.bubbel6 {
+  animation: bubbels 23s infinite;
+  position: absolute;
+  z-index: 0;
+  left: 90%;
+}
+
+/* MARK: visueel */
+.zand {
+  grid-column: 1 / -1;
+  /* van de eerste naar de laatste column */
+  grid-row: -3 / -1;
+  z-index: 0;
+  /* van de laatste row -1 naar de -2 laatste rows */
+  background: radial-gradient(rgb(40, 33, 17), rgba(32, 21, 9, 0.272));
+}
 .overlay {
   position: fixed;
   inset: 0;
   /* hiermee zeg je bij position fixed of absolute hoe ver iets van een rand af zit. door 0 te zeggen zit het dus niet van de randen van de pagina af. */
+  /* bron: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/inset */
+
   background: #036767;
   mix-blend-mode: color;
   /* dit zorgt ervoor dat het mooi mee blend en niet een grijze laag is */
@@ -297,16 +396,20 @@ img[alt="cookie"]:hover {
   /* zorgt ervoor dat je door de overlay niet niks meer kan aanklikken */
   z-index: 10;
   /* dit zorgt ervoor dat het altijd boven alles staat */
+  /* bron: https://www.w3schools.com/cssref/pr_pos_z-index.php */
 }
 
 /* MARK: animatie */
 
 @keyframes zinken {
+  /* bron:https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/At-rules/@keyframes */
   0% {
     transform: translateY(0px);
   }
   100% {
-    transform: translateY(820px);
+    transform: translateY(78vh);
+    /* zorgt ervoor dat het cookie zinkt liggend aan je scherm hoogte. 1vh is 1% van je scherm. */
+    /* bron: Maja */
   }
 }
 
@@ -320,7 +423,22 @@ img[alt="cookie"]:hover {
   100% {
     transform: translateY(0px);
   }
+  /* bron: leerlingassistient */
+}
 
-  container {
+@keyframes bubbels {
+  0% {
+    top: calc(100% - 40px);
+    /* de bovenkant van de pagina is 100%. de bubbel komt niet uit de bodem maar begint bij de bodem omdat ik er -40px (de grootte van de bubbel) van 100% af trek. */
+    /* bron: claude */
+  }
+  70% {
+    opacity: 1;
+  }
+  100% {
+    top: 0;
+    /* de onderkant van de pagina */
+      /* bron: claude */
+    opacity: 0;
   }
 }

@@ -1,19 +1,21 @@
 @font-face {
   font-family: SeraphsVS;
-  src: url(../fonts/SeraphsVF.woff2);
+  src: url(fonts/SeraphsVF.woff2);
 }
 
 body {
-  font-family: Helvetica, sans-serif;
+  /* font-family: SeraphsVS, sans-serif; */
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 10%;
+  /* grid-template-columns: 1fr 1fr 1fr 1fr 1fr 10%; */
   column-gap: 1em;
   row-gap: 1em;
-  grid-template-rows: auto auto auto auto auto auto auto;
-  padding: 4em;
+  grid-auto-rows: (1rem, 4vw, 4em);
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+  padding: clamp(1rem, 4vw, 4em);
 
   font-family: SeraphsVS, Arial, Helvetica, sans-serif;
   background-color: rgb(219, 215, 192);
+  margin: 0;
 }
 
 p {
@@ -30,12 +32,13 @@ h2 {
     "SRFS" 26;
   color: rgb(14, 9, 153);
 }
+/* bron:wakaimafondue */
 
 h1 {
   font-variation-settings:
     "wght" 130,
     "SRFS" 26;
-  color: blue;
+  color: rgb(14, 9, 153);
 }
 .bildstraat {
   letter-spacing: 0.7em;
@@ -56,32 +59,54 @@ h1 {
 
 .vergeet {
   letter-spacing: 0.6em;
+  transition: 2s;
+  /* font-variation-settings:
+    "wght" 122,
+    "SRFS" 0;
+
+  &:hover {
+    font-variation-settings:
+      "wght" 200,
+      "SRFS" 60;
+  } */
+  animation: vergeet 4s infinite ease-in-out;
+}
+
+button {
+}
+
+div {
+  p {
+    color: orangered;
+    animation: papapa 3s infinite;
+  }
 }
 
 section:nth-of-type(1)::before {
+  /* voor de eerste nth of type in volgorde waar die op de pagina zich laat zien */
   content: "";
   display: block;
   height: 10em; /* hoeveel rijen rondjes */
   margin-top: 1em;
   background-image: radial-gradient(circle, orangered, transparent 3.5px);
+  /* bron: deepdive gradients */
   background-size: 2em 2em;
 }
 
 section:nth-of-type(1) {
-  grid-column-start: 1;
-  grid-row-end: 5;
-  grid-row-start: 1;
+  grid-row: 1;
+  grid-column-start: 5;
 }
 
 section:nth-of-type(1) p {
   letter-spacing: 0.8em;
   max-width: 7em;
   word-spacing: 0.8em;
-  color: orangered;
+  color: rgb(6, 11, 110);
 }
 
 section:nth-of-type(2) {
-  grid-column-start: 2;
+  grid-column-start: 4;
   grid-row-start: 2;
   text-align: right;
 }
@@ -142,4 +167,43 @@ section:nth-of-type(12) {
   grid-column-start: 3;
   grid-row-start: 12;
   text-align: left;
+}
+
+@keyframes papapa {
+  0% {
+    transform: scale(1);
+    letter-spacing: 0.3em;
+  }
+  50% {
+    transform: scale(1.1);
+    letter-spacing: 0.4em;
+  }
+  100% {
+    transform: scale(1);
+    letter-spacing: 0.3em;
+  }
+}
+
+@keyframes vergeet {
+  0% {
+    font-variation-settings:
+      "wght" 100,
+      "SRFS" 0;
+    letter-spacing: 0.5em;
+  }
+
+  50% {
+    font-variation-settings:
+      "wght" 200,
+      "SRFS" 60;`
+      /* bron: variable fonts deepdive */
+    letter-spacing: 0.55em;
+  }
+  100% {
+    font-variation-settings:
+      "wght" 100,
+      "SRFS" 0;
+    letter-spacing: 0.5em;
+    /* bron: variable fonts deepdive */
+  }
 }

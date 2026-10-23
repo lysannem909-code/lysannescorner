@@ -1,5 +1,12 @@
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
+Bronnenlijst:
+https://developer.mozilla.org/en-US/
+https://www.w3schools.com
+
+Claude- sparringspartner
+Leerlingassistenten
+
 ## Learning Log
 
 ### [...]
@@ -122,3 +129,20 @@ Mijn songtekst opdracht verder gemaakt. Ik heb stipjes voor het biepende stukje 
 
 19-20 OKT
 Het grid van mijn site omgegooid, ik ben van horizontaal scrollen wat ik eerst wilde doen toch veranderd naar verticaal scrollen omdat dit op mobiel ook en stuk makkelijker is. Ik heb op 20 oktober mijn best gedaan om mijn site adaptief te maken en nu bewegen de elementen in de klomen mee met de site als je dit kleiner of groter maakt. Ik heb ook een mooiere astronaut getekend
+
+21 OKT
+Verder gewerkt aan mijn site en al mijn vissen onder elkaar gezet. Ook 2 knopjes toegevoegd en gestyled, eentje voor mijn experiment en voor mijn readme. Ook feedback gekregen en gegeven in groepjes.
+
+22 OKT
+Mijn cookie popup gefixt (github privacy statement toegevoegd) en de knopjes in mijn cookie pop up werkend gemaakt.
+Een wavy grond toegevoegd: https://css-generators.com/wavy-shapes/
+https://css-tip.com/css-wavy-shape/
+(dit is niet gelukt ik heb uiteindelijk een radial gradient gebruikt)
+Ik heb ook knophes toegevoegd voor mijn learning log en songtekst.
+
+23 OKT
+Ik heb stijgende bubbels toegevoegd en mijn tekst groter gemaakt om mijj site toegankelijker te maken. Ik heb de bronnen die ik voor mijn code heb gebruikt ook in mijn code gezet.
+Screenreader uitgetest, de screenreader werkt maar er zijn 2 dinfgen die fout gaan,
+dit zijn de bubbels die geselecteerd worden en dat bij de vis zowel een afbeelding en een knop voorgelezen wordt.
+voor de bubbel divs:
+bron: https://www.a11yiseverything.com/articles/hiding-elements/
