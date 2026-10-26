@@ -168,7 +168,11 @@ Ik heb vandaag onderzoek gedaan naar mijn eerste 2 dieren en de astronaut en die
 <img width="200" alt="Scherm­afbeelding 2026-09-13 om 23 50 45" src="https://github.com/user-attachments/assets/c9f1b5c3-5ec7-4ee6-86a0-31440641fedb" />
 <img width="200" alt="Scherm­afbeelding 2026-09-13 om 23 58 35" src="https://github.com/user-attachments/assets/105242ab-6d04-4d35-8540-3eff5c0ee90c" />
 
+<br>
+<br>
 **Informatie pagina's over mijn vissen**
+<br>
+
 Ik had in de vroege versie van mijn website aparte pagina's van de vissen ipv. popovers. Dit is handiger kwa ruimte maar ik heb dit na feedback van Diedrik aangepast aangezien het je uit de ervaring haalt.
 <br>
 <br>
