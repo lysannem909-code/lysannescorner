@@ -129,13 +129,15 @@ Ik weet niet precies waar in sprint 1 in mijn schetsen heb gemaakt, dus vandaar 
 Ik heb vandaag op school verschillende websites bezoekt en gebruikt als eventuele inspiratie voor mijn website en een artikel over de geschiedenis van digital Gardens.
 (Ik heb voor deze opdracht samen met een andere klasgenoot gemaakt andere gardens ge-analyseerd voor webbynes maar heb hier helaas geen foto meer van omdat dit op mijn kapotte telefoon staat.)
 
-**10 SEP**
+## **10 SEP**
+
 Ik heb vandaag meegedaan aan de gradient deepdive.
 
 <img width="300" alt="Scherm­afbeelding 2026-09-10 om 16 14 30" src="https://github.com/user-attachments/assets/597f7e77-24bb-4c68-bf19-7c89278d2705" />
 <img width="300" alt="Scherm­afbeelding 2026-09-10 om 16 30 36" src="https://github.com/user-attachments/assets/754c98f3-b700-4fe6-9786-76ddd3788be4" />
 
-**11 SEP**
+## **11 SEP**
+
 Ik heb op school verder gewerkt aan mijn website en een grid deepdove gemaakt.
 
 <img width="200" alt="Scherm­afbeelding 2026-09-11 om 14 28 03" src="https://github.com/user-attachments/assets/024ea114-7661-43bd-8133-114d00b9c68b" />
@@ -154,23 +156,26 @@ Ik heb op school verder gewerkt aan mijn website en een grid deepdove gemaakt.
 
 <br>
 
-**13 SEP**
+## **13 SEP**
+
 Ik heb vandaag onderzoek gedaan naar mijn eerste 2 dieren en de astronaut en dieren getekent en in mijn code gezet. Ik heb de bounce animatie voor elk element sneller/langzamer gemaakt en mooier gemaakt. Ik heb geprobeerd een textbox toe te voegen als je op een dier klikt maar dit is nog niet gelukt.
 
 ---
 
-<img width="300"  alt="telescopefish" src="https://github.com/user-attachments/assets/37b2d54b-8128-41b7-a5c2-640631b4814b" />
-<img width="300" alt="astronaut" src="https://github.com/user-attachments/assets/8760c7d6-9ea1-4b6a-8230-bbc09c5e1b7a" />
-<img width="300" alt="dumbooctopus" src="https://github.com/user-attachments/assets/7b31cf6f-f921-4c2a-a3e8-4cb5e7388e70" />
+<img width="200"  alt="telescopefish" src="https://github.com/user-attachments/assets/37b2d54b-8128-41b7-a5c2-640631b4814b" />
+<img width="200" alt="astronaut" src="https://github.com/user-attachments/assets/8760c7d6-9ea1-4b6a-8230-bbc09c5e1b7a" />
+<img width="200" alt="dumbooctopus" src="https://github.com/user-attachments/assets/7b31cf6f-f921-4c2a-a3e8-4cb5e7388e70" />
 <img width="200" alt="Scherm­afbeelding 2026-09-13 om 23 50 45" src="https://github.com/user-attachments/assets/c9f1b5c3-5ec7-4ee6-86a0-31440641fedb" />
 <img width="200" alt="Scherm­afbeelding 2026-09-13 om 23 58 35" src="https://github.com/user-attachments/assets/105242ab-6d04-4d35-8540-3eff5c0ee90c" />
 
 **Informatie pagina's over mijn vissen**
 Ik had in de vroege versie van mijn website aparte pagina's van de vissen ipv. popovers. Dit is handiger kwa ruimte maar ik heb dit na feedback van Diedrik aangepast aangezien het je uit de ervaring haalt.
 <br>
+<br>
 
 _voorbeeld_
 <br>
+
 <img width="300" src="assets/fotos_readme/dumbooctopus-eerderepagina.png"/>
 
 </details>
