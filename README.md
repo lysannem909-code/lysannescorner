@@ -178,6 +178,10 @@ _voorbeeld_
 <details>
 <summary>🌧️SPRINT 2</summary>
 
+<details>
+<summary>🦎check-outs</summary>
+</details>
+
 ## **? SEP**
 
 Een popover toegevoegd ipv losse pagina.
@@ -200,6 +204,7 @@ Ik heb mijn learning log lang niet meer bijgehouden, dit komt deels omdat ik vee
 <img width="300" alt="Scherm­afbeelding 2026-09-28 om 12 47 36" src="https://github.com/user-attachments/assets/58850477-b507-4195-b946-aaa7f1bc4b6c" />
 
 <br>
+<br>
 ⭐︎De bigfinsquid getekend, onderzocht en toegevoegd
 <br>
 <br>
@@ -207,34 +212,49 @@ Ik heb mijn learning log lang niet meer bijgehouden, dit komt deels omdat ik vee
 <img width="300" alt="Scherm­afbeelding 2026-09-28 om 12 11 08" src="https://github.com/user-attachments/assets/cb43f67c-c974-4ffa-8db9-cec92afff4d6" />
 
 <br>
-⭐︎Een lichtmode toegevoegd
+<br>
+⭐︎Een lichtmode toegevoegd met --var()
 <br>
 <br>
 
 ## **30SEP**
 
-Ik heb mijn zinkende koekje voor mijn cookie pop up clickable gemaakt en voor elke popover een kruisje toegevoegd. Ik heb de anglerfish en de phantom jellyfish getekend.
+Ik kreeg tijdens de feedbacksessie te horen dat ik een apart kruisje moet toevoegen bij mijn popover zodat er een duidelijke plek is waar de gebruiker de popover kan sluiten. Dit heb ik uitgewerkt:
+<br>
+<img width="300" src="assets/fotos_readme/kruisjepopover.png"/>
+<br>
+<br>
+Ik had hiervoor al schetsen gemaakt voor mijn cookie pop maar nog niet uitgewerkt. Mijn eerste idee was om een soort van plastic wrapper te doen van een chocolade bar of iets dergelijks om zo comentaar te geven aan de plastic soep die zich nu ook in de dieptes van de oceaan bevind, maar een koekje leek mij toch iets voor de hand liggender voor de gebruiker. Ik wilde wel graag een zinkende cookie.
+<img width="300" src="assets/fotos_readme/cookiepopupschetsen1.heic"/>
+<img width="300" src="assets/fotos_readme/cookiepopupschetsen2.heic"/>
+<br>
+<br>
 
-1 OKT
+_Mijn slecht getekende placeholder koekje:_
+<img width="300" src="assets/fotos_readme/cookies(oud).png"/>
+<br>
+<br>
+-Ik heb vandaag mijn zinkende koekje voor mijn cookie pop up clickable gemaakt.
+
+## **1 OKT**
+
 Ik heb een overlay toegevoegd aan mijn site om alles bij elkaar te laten passen en het iets minder kleur te geven wat ook bij de diepzee past, ik heb de cookie mooi gemaakt (de pop up zelf moet ik nog fixen.) En mijn bigfinsquid mooier gemaakt zodat het meer bij de stijl van de rest van mijn site past. Ook heb ik mijn anglerfish iets realistischer gemaakt kwa shading maar die zet ik er straks nog in.
+<br>
+<img width="300" src="assets/afbeeldingen/cookies.png"/>
 
-2 OKT
-ik heb feedback van sanne gekregen en ik moet mijn columns en rows aanpassen, accesibitliy testen en zorgen dat alle elementen van mijn site responsive zijn en mobile first is.
+## **2 OKT**
+
+ik heb feedback van sanne gekregen en ik moet mijn site opnieuw inrichten met grid rows en grid columns.Ik moet accesibitliy testen en zorgen dat alle elementen van mijn site responsive zijn en mobile first is.
 
 </details>
 
 <details>
 <summary>🫧SPRINT 3</summary>
 
-<!-- SPRINT 3 -->
+<!-- #MARK: SPRINT 3 -->
 
-5 OKT
-Intro gekregen songtekst opdracht, liejde gekozen (ik heb voor ik vergeet va spinvis gekozen) schetsen gemaakt en de songtekst een beetje geanalyseerd.
-<img src="assets/fotos_readme/spinvischets1.png">
-<img src="assets/fotos_readme/spinvischets2.png">
-<img src="assets/fotos_readme/spinvischets3.png">
-<img src="assets/fotos_readme/spinvischets.png">
-
+<details>
+<summary>🦎check-outs</summary>
 Check-out
 Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension. (Hint, alle termen staan in de artikelen die we samen gelezen hebben)
 kerning: de ruimte tussen twee spesifieke letters
@@ -259,10 +279,6 @@ door een korte regel krijgt je regel veel afberkingen en word het een irritant o
 Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
 grootte, ik vind grootte de duidelijkste indicator van wat het belangrijkste is in een tekst (kwa wat je eerst leest en wat daarna komt) en je kan het altijd dramatischer maken voor een grotere nadruk op bijv de titel.
 
-6 OKT
-Eerste versie in css uitgewerkt
-<img src="assets/fotos_readme/spinvis_eersteversie.png">
-
 7 OKT
 Check-out
 
@@ -276,18 +292,34 @@ Noem drie manieren om chaos in je ontwerp te voorkomen.
 Hoeveel gekkigheid moet er in je werk zitten?
 Genoeg om het leuk te maken maar niet zoveel dat het onoverzichtelijk is, teveel felle kleuren is vaak zijn niet zo prettig om naar te kijken maar bij te weinig kleuren wordt het te saai.
 
+</details>
+
+Intro gekregen songtekst opdracht, liejde gekozen (ik heb voor ik vergeet va spinvis gekozen) schetsen gemaakt en de songtekst een beetje geanalyseerd.
+<img width="300"src="assets/fotos_readme/spinvischets1.png">
+<img width="300" src="assets/fotos_readme/spinvischets2.png">
+<img width="300" src="assets/fotos_readme/spinvischets3.png">
+<img width="300" src="assets/fotos_readme/spinvischets.png">
+
+## **6 OKT**
+
+Eerste versie in css uitgewerkt
+<img width="300" src="assets/fotos_readme/spinvis_eersteversie.png">
+
 Meegedaan met de deepdive van Sanne met variable fonts.
 
-10 OKT
+## **10 OKT**
+
 verder gewerkt aan mijn songtext en nieuwe schetsen gemaakt.
 
 herfstvakantie
 
-17-18 OKT
+## **17-18 OKT**
+
 Mijn songtekst opdracht verder gemaakt. Ik heb stipjes voor het biepende stukje in het begin toegevoegd, kleuren, de rest van de songtekst en effecten bij de woorden.
 <img width="1011" height="925" alt="Scherm­afbeelding 2026-10-21 om 12 05 07" src="https://github.com/user-attachments/assets/77414d02-c573-4656-9020-bd68fdd2b281" />
 
-19-20 OKT
+## **19-20 OKT**
+
 Het grid van mijn site omgegooid, ik ben van horizontaal scrollen wat ik eerst wilde doen toch veranderd naar verticaal scrollen omdat dit op mobiel ook en stuk makkelijker is. Ik heb op 20 oktober mijn best gedaan om mijn site adaptief te maken en nu bewegen de elementen in de klomen mee met de site als je dit kleiner of groter maakt. Ik heb ook een mooiere astronaut getekend. Ik heb in deze tijd ook mijn songtekst veranderd en adaptief gemaakt naar een kleiner scherm.
 <img width="300" src="assets/afbeeldingen/astronaut.PNG"/>
 
