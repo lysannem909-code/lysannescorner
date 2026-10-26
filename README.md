@@ -1,23 +1,47 @@
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
-Bronnenlijst:
+<details>
+<summary>Bronnenlijst:</summary>
+
+**Algemene bronnen code**
+Claude: sparringspartner, vooral gebruikt als coach als ik fouten in mijn code niet zag en niet wist wat er fout ging.
+Leerlingassistenten
 https://developer.mozilla.org/en-US/
 https://www.w3schools.com
+https://wakamaifondue.com
 
-Claude- sparringspartner
-Leerlingassistenten
+**Bronnen specifieke code**
+/_ https://cssgradient.io _/
+https://www.framer.com/help/articles/overflow-clip/
+https://www.youtube.com/watch?v=iDI-Yd-bmwc
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/length
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/calc
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/repeat
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/justify-content
+https://freshjuice.dev/tools/font-size-clamp-generator/
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/cursor
+https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Flexible_box_layout/Basic_concepts
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/inset
+https://www.w3schools.com/cssref/pr_pos_z-index.php
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/At-rules/@keyframes
++nog meer voor kleine dingetjes die ik heb gegoogled maar niet heb genoteerd
 
-## Learning Log
+**Onderzoek**
+https://www.mbari.org/education/animals-of-the-deep/
+https://en.wikipedia.org/wiki/Chaunax
+https://www.youtube.com/watch?v=Cl_MbvSUvTk&t=41s
+https://www.boem.gov/newsroom/ocean-science-news/dumbo-octopus-whimsical-survivor-deep
+https://oceanexplorer.noaa.gov/multimedia/video-shorts-ex1907-dumbo1/
+https://utmsi.utexas.edu/science-and-the-sea/radio-program/telescopefish/
+https://fwcs.oregonstate.edu/150-species/telescopefish
+https://ocean.si.edu/ocean-life/fish/remarkable-telescopefish
+https://www.mbari.org/animal/bigfin-squid/
+https://oceanconservancy.org/blog/2024/02/22/what-we-know-about-bigfin-squid/
+https://link.springer.com/article/10.1007/s00227-026-04927-1
+https://www.nationalgeographic.com/animals/fish/facts/anglerfish
+https://www.mbari.org/animal/deep-sea-anglerfish/
 
-### [...]
-
-[...]
-
-### 3 sept - [Workshop]
-
-[...]
-
-### 31 aug - Kickoff
+</details>
 
 21 AUG
 
@@ -63,6 +87,15 @@ SPRINT 1
 ☞ Ik wil een site waar je informatie kan vinden over een bepaald onderwerp wat ik leuk vind, ik zit te denken aan verschillende dieptes in de zee en de dieren die daar leven.
 
 </details>
+
+<details>
+<summary>📝schetsen<summary>
+Ik weet niet precies waar in sprint 1 in mijn schetsen heb gemaakt, dus vandaar zet ik ze hier neer.
+<img width="300" src="assets/fotos_readme/schets1.png"/>
+<img width="300" src="assets/fotos_readme/schets2.png"/>
+<img width="300" src="assets/fotos_readme/schets3.png"/>
+<img width="300" src="assets/fotos_readme/schets4.png"/>
+</details>
 7 SEP
 Ik heb vandaag op school verschillende websites bezoekt en gebruikt als eventuele inspiratie voor mijn website en een artikel over de geschiedenis van digital Gardens
 
@@ -70,8 +103,8 @@ Ik heb vandaag op school verschillende websites bezoekt en gebruikt als eventuel
 <img width="300" alt="Scherm­afbeelding 2026-09-10 om 16 14 30" src="https://github.com/user-attachments/assets/597f7e77-24bb-4c68-bf19-7c89278d2705" />
 <img width="300" alt="Scherm­afbeelding 2026-09-10 om 16 30 36" src="https://github.com/user-attachments/assets/754c98f3-b700-4fe6-9786-76ddd3788be4" />
 
-? sep
-Weet niet precies wanneer dit was maar het was ergens hiertussen en ik heb visueel onderzoek gedaan naar mijn onderwerp<img width="300" height="767" alt="Scherm­afbeelding 2026-09-13 om 23 55 34" src="https://github.com/user-attachments/assets/bb712e2f-2309-45b5-a77e-5750bbdca64d" />
+**Visual thinking opdracht**
+<img width="300" height="767" alt="Scherm­afbeelding 2026-09-13 om 23 55 34" src="https://github.com/user-attachments/assets/bb712e2f-2309-45b5-a77e-5750bbdca64d" />
 <img width="300" alt="Scherm­afbeelding 2026-09-13 om 23 55 27" src="https://github.com/user-attachments/assets/aee49de4-ca30-4230-a929-5b04d9b29ba6" />
 
 11 SEP
@@ -87,9 +120,9 @@ Ik heb vandaag onderzoek gedaan naar mijn eerste 2 dieren en de astronaut en die
 <img width="300" alt="astronaut" src="https://github.com/user-attachments/assets/8760c7d6-9ea1-4b6a-8230-bbc09c5e1b7a" />
 <img width="300" alt="dumbooctopus" src="https://github.com/user-attachments/assets/7b31cf6f-f921-4c2a-a3e8-4cb5e7388e70" />
 <img width="300" alt="Scherm­afbeelding 2026-09-13 om 23 50 45" src="https://github.com/user-attachments/assets/c9f1b5c3-5ec7-4ee6-86a0-31440641fedb" />
-<img width="269" height="818" alt="Scherm­afbeelding 2026-09-13 om 23 58 35" src="https://github.com/user-attachments/assets/105242ab-6d04-4d35-8540-3eff5c0ee90c" />
+<img width="300" alt="Scherm­afbeelding 2026-09-13 om 23 58 35" src="https://github.com/user-attachments/assets/105242ab-6d04-4d35-8540-3eff5c0ee90c" />
 
-<details>
+</details>
 
 SPRINT 2
 28 sep
