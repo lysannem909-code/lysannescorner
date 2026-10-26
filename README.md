@@ -104,6 +104,14 @@ Ik heb een achtergrondkleur en een paar vakjes aan mijn site toegevoegd en de op
 
 ☞Ik vind de tekst in een jellyfish heel leuk en mijn donker naar licht gradient van als je dieper de zee in gaat.
 
+**check-out 3**
+
+De checkout van vandaag bestaat uit een vraag:
+
+❔Welke feedback heb je gehad?
+
+☞ Mijn feedback was dat het een leuk idee was en dat ik een manier moet vinden om niet uit de ervaring gehaald te worden door naar een het klikken van een vis een andere pagina op word gestuurd, en dat je dan niet meer het gevoel hebt aslof je in de diepzee zit.
+
 </details>
 
 <details>
@@ -123,15 +131,16 @@ Ik heb vandaag op school verschillende websites bezoekt en gebruikt als eventuel
 
 **10 SEP**
 Ik heb vandaag meegedaan aan de gradient deepdive.
-<img width="200" alt="Scherm­afbeelding 2026-09-11 om 14 28 03" src="https://github.com/user-attachments/assets/024ea114-7661-43bd-8133-114d00b9c68b" />
-<img width="200" alt="Scherm­afbeelding 2026-09-11 om 14 56 54" src="https://github.com/user-attachments/assets/0f22ecb8-4edb-4345-be60-b3c73f6d2209" />
-<img width="200" height="544" alt="Scherm­afbeelding 2026-09-11 om 16 04 23" src="https://github.com/user-attachments/assets/d2b3b6bb-ecc4-464e-906d-256d00080d54" />
+
+<img width="300" alt="Scherm­afbeelding 2026-09-10 om 16 14 30" src="https://github.com/user-attachments/assets/597f7e77-24bb-4c68-bf19-7c89278d2705" />
+<img width="300" alt="Scherm­afbeelding 2026-09-10 om 16 30 36" src="https://github.com/user-attachments/assets/754c98f3-b700-4fe6-9786-76ddd3788be4" />
 
 **11 SEP**
 Ik heb op school verder gewerkt aan mijn website en een grid deepdove gemaakt.
 
-<img width="300" alt="Scherm­afbeelding 2026-09-10 om 16 14 30" src="https://github.com/user-attachments/assets/597f7e77-24bb-4c68-bf19-7c89278d2705" />
-<img width="300" alt="Scherm­afbeelding 2026-09-10 om 16 30 36" src="https://github.com/user-attachments/assets/754c98f3-b700-4fe6-9786-76ddd3788be4" />
+<img width="200" alt="Scherm­afbeelding 2026-09-11 om 14 28 03" src="https://github.com/user-attachments/assets/024ea114-7661-43bd-8133-114d00b9c68b" />
+<img width="200" alt="Scherm­afbeelding 2026-09-11 om 14 56 54" src="https://github.com/user-attachments/assets/0f22ecb8-4edb-4345-be60-b3c73f6d2209" />
+<img width="200" alt="Scherm­afbeelding 2026-09-11 om 16 04 23" src="https://github.com/user-attachments/assets/d2b3b6bb-ecc4-464e-906d-256d00080d54" />
 
 <br>
 
@@ -147,27 +156,58 @@ Ik heb op school verder gewerkt aan mijn website en een grid deepdove gemaakt.
 
 **13 SEP**
 Ik heb vandaag onderzoek gedaan naar mijn eerste 2 dieren en de astronaut en dieren getekent en in mijn code gezet. Ik heb de bounce animatie voor elk element sneller/langzamer gemaakt en mooier gemaakt. Ik heb geprobeerd een textbox toe te voegen als je op een dier klikt maar dit is nog niet gelukt.
+
+---
+
 <img width="300"  alt="telescopefish" src="https://github.com/user-attachments/assets/37b2d54b-8128-41b7-a5c2-640631b4814b" />
 <img width="300" alt="astronaut" src="https://github.com/user-attachments/assets/8760c7d6-9ea1-4b6a-8230-bbc09c5e1b7a" />
 <img width="300" alt="dumbooctopus" src="https://github.com/user-attachments/assets/7b31cf6f-f921-4c2a-a3e8-4cb5e7388e70" />
-<img width="300" alt="Scherm­afbeelding 2026-09-13 om 23 50 45" src="https://github.com/user-attachments/assets/c9f1b5c3-5ec7-4ee6-86a0-31440641fedb" />
-<img width="300" alt="Scherm­afbeelding 2026-09-13 om 23 58 35" src="https://github.com/user-attachments/assets/105242ab-6d04-4d35-8540-3eff5c0ee90c" />
+<img width="200" alt="Scherm­afbeelding 2026-09-13 om 23 50 45" src="https://github.com/user-attachments/assets/c9f1b5c3-5ec7-4ee6-86a0-31440641fedb" />
+<img width="200" alt="Scherm­afbeelding 2026-09-13 om 23 58 35" src="https://github.com/user-attachments/assets/105242ab-6d04-4d35-8540-3eff5c0ee90c" />
+
+**Informatie pagina's over mijn vissen**
+Ik had in de vroege versie van mijn website aparte pagina's van de vissen ipv. popovers. Dit is handiger kwa ruimte maar ik heb dit na feedback van Diedrik aangepast aangezien het je uit de ervaring haalt.
+<br>
+
+_voorbeeld_
+<br>
+<img width="300" src="assets/fotos_readme/dumbooctopus-eerderepagina.png"/>
 
 </details>
 
 <details>
 <summary>🌧️SPRINT 2</summary>
-28 sep
-Ik heb mijn learning log lang niet meer bijgehouden en ik ben ook veel van mijn foto's kwijt omdat mijn telefoon kapot is gegaan. Ik heb in deze tijd een nieuw dier toegevoegd, ik had eerst pagina's met informatie en dit heb ik naar popovers veranderd zodat je niet uit de ervaring word gehaald en ik heb een light en dark mode toegevoegd.
-<img width="1625" height="964" alt="Scherm­afbeelding 2026-09-28 om 12 10 36" src="https://github.com/user-attachments/assets/5cde89a0-3795-4cfc-8871-da5c63f07391" />
-<img width="1655" height="953" alt="Scherm­afbeelding 2026-09-28 om 12 10 43" src="https://github.com/user-attachments/assets/bff1684a-01c0-4af0-b657-b6c6e7877679" />
-<img width="1688" height="984" alt="Scherm­afbeelding 2026-09-28 om 12 10 54" src="https://github.com/user-attachments/assets/21706f45-85f0-46de-ae5d-508c8ddc237e" />
-<img width="785" height="804" alt="Scherm­afbeelding 2026-09-28 om 12 10 58" src="https://github.com/user-attachments/assets/d1ed049d-e3a3-49a8-bfc6-9a650a2a2fb9" />
-<img width="1699" height="980" alt="Scherm­afbeelding 2026-09-28 om 12 11 08" src="https://github.com/user-attachments/assets/cb43f67c-c974-4ffa-8db9-cec92afff4d6" />
-<img width="536" height="739" alt="Scherm­afbeelding 2026-09-28 om 12 47 36" src="https://github.com/user-attachments/assets/58850477-b507-4195-b946-aaa7f1bc4b6c" />
-f# Model<img width="332" height="256" alt="Scherm­afbeelding 2026-09-02 om 12 36 42" src="https://github.com/user-attachments/assets/583c5ccc-b80b-41a4-9c1d-72a00125ccc3" />
 
-30SEP
+**? SEP**
+<br>
+Een popover toegevoegd ipv losse pagina.
+<img width="300" src="assets/fotos_readme/eerstepopover.png"/>
+
+**28 SEP**
+<br>
+Ik heb mijn learning log lang niet meer bijgehouden, dit komt deels omdat ik veel van mijn foto's kwijt ben geraakt omdat mijn telefoon kapot is gegaan. Ik heb in deze tijd hiertussen:
+<br>
+<img width="300" alt="Scherm­afbeelding 2026-09-28 om 12 10 36" src="https://github.com/user-attachments/assets/5cde89a0-3795-4cfc-8871-da5c63f07391" />
+<img width="300" alt="Scherm­afbeelding 2026-09-28 om 12 10 43" src="https://github.
+com/user-attachments/assets/bff1684a-01c0-4af0-b657-b6c6e7877679" />
+<img width="300" alt="Scherm­afbeelding 2026-09-28 om 12 10 54" src="https://github.com/user-attachments/assets/21706f45-85f0-46de-ae5d-508c8ddc237e" />
+<br>
+⭐︎Drie popovers toegevoegd
+<br>
+
+<img width="300" alt="Scherm­afbeelding 2026-09-28 om 12 10 58" src="https://github.com/user-attachments/assets/d1ed049d-e3a3-49a8-bfc6-9a650a2a2fb9" />
+<img width="300" alt="Scherm­afbeelding 2026-09-28 om 12 11 08" src="https://github.com/user-attachments/assets/cb43f67c-c974-4ffa-8db9-cec92afff4d6" />
+<br>
+⭐︎De bigfinsquid getekend, onderzocht en toegevoegd
+<br>
+
+<img width="300" alt="Scherm­afbeelding 2026-09-28 om 12 47 36" src="https://github.com/user-attachments/assets/58850477-b507-4195-b946-aaa7f1bc4b6c" />
+<br>
+⭐︎Een lichtmode toegevoegd
+<br>
+
+**30SEP**
+<br>
 Ik heb mijn zinkende koekje voor mijn cookie pop up clickable gemaakt en voor elke popover een kruisje toegevoegd. Ik heb de anglerfish en de phantom jellyfish getekend.
 
 1 OKT
@@ -295,6 +335,23 @@ Ik ben mijn werkblad van retrospect tijdens de verhuizing kwijtregaakt en heb de
 <img width="300" src="assets/fotos_readme/retrospect3.2.png"/>
 <img width="300" src="assets/fotos_readme/retrospect3.3.png"/>
 <img width="300" src="assets/fotos_readme/retrospect3.4.png"/>
+
+</details>
+
+<details>
+<summary>🐡ART-ARCHIEF</summary>
+Dit is een overzicht van al mijn tekeningen voor mijn website: 
+<br>
+<img width="300" src="assets/fotos_readme/tekening1.png"/>
+<img width="300" src="assets/fotos_readme/tekening2.png"/>
+<img width="300" src="assets/fotos_readme/tekening3.png"/>
+<img width="300" src="assets/fotos_readme/tekening4.png"/>
+<img width="300" src="assets/fotos_readme/tekening5.png"/>
+<img width="300" src="assets/fotos_readme/tekening6.png"/>
+<img width="300" src="assets/fotos_readme/tekening7.png"/>
+<img width="300" src="assets/fotos_readme/tekening8.png"/>
+<img width="300" src="assets/fotos_readme/tekening9.png"/>
+<img width="300" src="assets/fotos_readme/tekening10.png"/>
 
 </details>
 
