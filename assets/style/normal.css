@@ -19,12 +19,39 @@
   box-sizing: border-box;
 }
 
+/* #MARK:variants */
 html {
   color-scheme: light dark;
-  --background-color: rgb(60, 59, 81);
-  --text-color: rgb(255, 254, 254);
+  --text-color: light-dark(rgb(0, 54, 42), rgb(255, 255, 255));
 
-  --page-background: light-dark(rgb(46, 49, 71), rgb(11, 11, 11));
+  --popover-background: light-dark(rgb(128, 205, 180), #061e19);
+  --popover-border: light-dark(rgb(64, 168, 135), rgb(2, 40, 36));
+  background: #04382e;
+  --link-hover: light-dark(rgb(206, 255, 239), rgb(0, 13, 12));
+  --gradient-dark: linear-gradient(
+    180deg,
+    rgba(4, 56, 46, 1) 1%,
+    rgba(4, 43, 37, 1) 10%,
+    rgba(2, 33, 31, 1) 19%,
+    rgba(0, 18, 10, 1) 36%,
+    rgba(0, 0, 0, 1) 100%
+  );
+
+  --gradient-light: linear-gradient(
+    0deg,
+    rgba(1, 43, 43, 1) 0%,
+    rgba(6, 66, 61, 1) 15%,
+    rgba(4, 94, 62, 1) 57%,
+    rgba(35, 124, 101, 1) 92%,
+    rgba(88, 176, 148, 1) 100%
+  );
+  background: #04382e;
+  background: var(--gradient-dark);
+  @media (prefers-color-scheme: light) {
+    background: var(--gradient-light);
+  }
+
+  /* https://cssgradient.io */
   overflow-x: clip;
   /* clip ipv hidden om ongewild horizontaal scrollen te verkomen */
   /* bron: https://www.framer.com/help/articles/overflow-clip/ */
@@ -65,7 +92,7 @@ main {
   grid-template-columns: repeat(var(--kolommen), minmax(0, 1fr));
   /* bron: https://www.youtube.com/watch?v=iDI-Yd-bmwc */
   /* minimum hoogte en maximum breedte */
-  grid-template-rows: repeat(150, calc(80vw / var(--kolommen)));
+  grid-template-rows: repeat(250, calc(80vw / var(--kolommen)));
   /* repeat een ding 150 keer ipv het apart uitschrijven. 80vw is 80% de breedte van het scherm. Met 20 kolommen (mobile first) is dit 80 / 20 = 4%. Dus dan is elke kolom 4% van het scherm.
   bronn(en): https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/length
   https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/calc
@@ -90,41 +117,51 @@ header {
   /* https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/justify-content */
   gap: 2em;
 
+  /* #MARK: linkjes */
+
   a {
-    color: white;
-    background: #1d1d1d;
+    color: (var(--text-color));
+    background: var(--popover-background);
     padding: 1em;
-    border: grey;
     transition: 0.4s ease-in-out;
     text-decoration: none;
     /* haalt de link lijn onder de tekst weg */
     /* bron: Maja */
+    border-radius: 1em;
+    border-color: var(--popover-border);
+    border-width: 0.2em;
+    margin-top: 0.8em;
   }
 
   a:hover {
-    background-color: #363636;
+    background-color: var(--link-hover);
     font-size: 1.2em;
     transform: scale(1.05);
   }
 }
+
+/* #MARK: tekst */
 h1 {
+  color: var(--text-color);
   position: relative;
   font-size: clamp(3.2rem, 2.6rem + 1.0356vw, 3.5rem);
   /* https://freshjuice.dev/tools/font-size-clamp-generator/ */
 }
 
+h2 {
+  color: var(--text-color);
+  font-size: clamp(2.5rem, 1.9rem + 1.2vw, 3.3rem);
+  /* https://freshjuice.dev/tools/font-size-clamp-generator/ */
+}
 p {
+  color: var(--text-color);
   max-width: 50em;
-  font-size: clamp(1.3rem, 0.5rem + 1.4vw, 2rem);
+  font-size: clamp(1.3rem, 0.5rem + 1vw, 1.7rem);
   /* https://freshjuice.dev/tools/font-size-clamp-generator/ */
 }
 
 figcaption {
   margin: 2em; /* bah */
-}
-
- {
-
 }
 
 img[alt="astronaut"] {
@@ -136,7 +173,37 @@ img[alt="astronaut"] {
   z-index: 2;
   /* z-index zorgt voor lagen in de css. Het begint onder bij 0. */
 }
+
+:is(
+  #cookie,
+  #telescopefish,
+  #dumbooctopus,
+  #anglerfish,
+  #bigfinsquid,
+  #phantomjelly
+):popover-open {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  column-gap: 1em;
+  align-items: center;
+
+  h2 {
+    grid-row: 1;
+    align-self: center;
+    grid-column: 2;
+  }
+
+  button[popovertargetaction="hide"]:first-child {
+    align-self: right;
+  }
+
+  :not(button, h2) {
+    grid-column: 1/ -1;
+    /* alles wat niet een button of h2 is op de volle breedte onder de button en h2. */
+  }
+}
 /* #MARK: Cookies */
+
 button[popovertarget="cookie"]:not([popovertargetaction="hide"]) {
   position: fixed;
   left: 10%;
@@ -174,8 +241,8 @@ button[popovertarget="telescopefish"]:not([popovertargetaction="hide"]) {
   background: none;
   border: none;
   z-index: 1;
-  grid-column: 5;
-  grid-row: 25;
+  grid-column: 8;
+  grid-row: 37;
   cursor: pointer;
   /* https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/cursor */
 }
@@ -186,13 +253,18 @@ button[popovertarget="telescopefish"]:not([popovertargetaction="hide"]) {
   align-items: center;
 }
 
+/* #MARK: popover */
 [popover] {
   width: calc(100% - 2em);
   padding: 2em;
-  max-width: 40em;
+  max-width: 45em;
   img {
     object-fit: contain;
   }
+  border-radius: 3em;
+  background-color: var(--popover-background);
+  border-color: var(--popover-border);
+  border-width: 0.4em;
 }
 
 /* MARK:dumboctopus
@@ -200,8 +272,8 @@ button[popovertarget="telescopefish"]:not([popovertargetaction="hide"]) {
 button[popovertarget="dumbooctopus"]:not([popovertargetaction="hide"]) {
   /* dit betekent dat de css hieronder geld voor alle knoppen binnen het dumbooctopus stukje behalve de popovertargetaction=hide waardoor die niet beweegt en de styling van wat hieronder krijgt. */
   animation: bounce 1s ease-in-out infinite;
-  grid-column: 6;
-  grid-row: 50;
+  grid-column: 14;
+  grid-row: 55;
   transition: 0.3s;
   background: none;
   border: none;
@@ -221,7 +293,8 @@ button[popovertarget="dumbooctopus"]:not([popovertargetaction="hide"]) {
 [popovertarget="anglerfish"]:not([popovertargetaction="hide"]) {
   /* dit betekent dat de css hieronder geld voor alle knoppen binnen het anglerfish stukje behalve de popovertargetaction=hide waardoor die niet beweegt. */
   animation: bounce 2.5s ease-in-out infinite;
-  grid-row: 20;
+  grid-row: 23;
+  grid-column: 15;
   transition: 0.3s;
   background: none;
   border: none;
@@ -261,9 +334,23 @@ button[popovertarget="dumbooctopus"]:not([popovertargetaction="hide"]) {
   /* bron: https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Flexible_box_layout/Basic_concepts */
 }
 
+/* #MARK: sluit knopje */
+
 button[popovertargetaction="hide"] {
   align-self: flex-start;
   padding: 1.5em;
+  font-family: inherit;
+  color: var(--text-color);
+  transition: 0.4s ease-in-out;
+  background-color: var(--popover-border);
+  border-radius: 0.8em;
+  padding: 1em;
+  font-size: 1.2rem;
+  border: none;
+  &:hover {
+    background-color: var(--link-hover);
+    transform: scale(1.1);
+  }
 }
 
 /* MARK:bigfinsquid */
@@ -272,8 +359,8 @@ button[popovertarget="bigfinsquid"]:not([popovertargetaction="hide"]) {
   background: none;
   border: none;
   z-index: 1;
-  grid-column: 2;
-  grid-row: 100;
+  grid-column: 7;
+  grid-row: 190;
   animation: bounce 2s ease-in-out infinite;
   transition: 0.3s;
   background: none;
@@ -299,32 +386,32 @@ button[popovertargetaction="hide"] {
   /* de styling van alle knoppen die popovertargetaction=hide uitvoeren */
 }
 
-img[alt="dumbooctopus"]:hover {
+img[alt="De dumbooctopus, meer informatie"]:hover {
   /* als je over de image hovered krijgt hij deze elementen */
   scale: 1.1;
   transition: 0.5s;
 }
 
-img[alt="telescopefish"]:hover {
+img[alt="De telescopefish, meer informatie"]:hover {
   scale: 1.1;
   transition: 0.5s;
 }
 
-img[alt="bigfinsquid"]:hover {
+img[alt="De bigfinsquid, meer informatie"]:hover {
   scale: 1.1;
   transition: 0.5s;
 }
 
-img[alt="anglerfish"]:hover {
+img[alt="De anglerfish, meer informatie"]:hover {
   scale: 1.1;
   transition: 0.5s;
 }
-img[alt="phantomjelly"]:hover {
+img[alt="De phantomjellyfish, meer informatie"]:hover {
   scale: 1.1;
   transition: 0.5s;
 }
 
-img[alt="cookies"]:hover {
+img[alt="Privacy statement, meer informatie"]:hover {
   scale: 1.1;
   transition: 0.5s;
 }
@@ -380,7 +467,15 @@ img[alt="cookies"]:hover {
   grid-row: -3 / -1;
   z-index: 0;
   /* van de laatste row -1 naar de -2 laatste rows */
-  background: radial-gradient(rgb(40, 33, 17), rgba(32, 21, 9, 0.272));
+  background: #011a11;
+  background: radial-gradient(
+    circle,
+    rgba(1, 26, 17, 1) 1%,
+    rgba(2, 23, 21, 1) 10%,
+    rgba(2, 20, 19, 1) 19%,
+    rgba(1, 10, 6, 1) 37%,
+    rgba(0, 0, 0, 0.8) 100%
+  );
 }
 .overlay {
   position: fixed;
@@ -391,7 +486,7 @@ img[alt="cookies"]:hover {
   background: #036767;
   mix-blend-mode: color;
   /* dit zorgt ervoor dat het mooi mee blend en niet een grijze laag is */
-  opacity: 0.3;
+  opacity: 0.5;
   pointer-events: none;
   /* zorgt ervoor dat je door de overlay niet niks meer kan aanklikken */
   z-index: 10;
@@ -438,7 +533,7 @@ img[alt="cookies"]:hover {
   100% {
     top: 0;
     /* de onderkant van de pagina */
-      /* bron: claude */
+    /* bron: claude */
     opacity: 0;
   }
 }

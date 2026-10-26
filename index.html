@@ -21,6 +21,7 @@
   </head>
 
   <body>
+    <!-- #MARK: header -->
     <header>
       <a href="./assets/voor-ik-vergeet/voorikvergeet.html">voor ik vergeet</a>
       <a
@@ -34,9 +35,8 @@
       <article>
         <h1>lysanne's corner</h1>
         <p>
-          Ik heb de diepzee altijd erg facinerend gevonden, er is weinig over
-          bekend en de dieren die hier leven, door de extreme omstandigheden
-          zijn ze ook erg apart geevolueerd. Zelf vind ik het een beetje
+          Ik heb de diepzee altijd erg facinerend gevonden, er is weinig bekend over de dieren die hier leven, door de extreme omstandigheden
+          zijn ze erg apart geevolueerd. Zelf vind ik het een beetje
           buitenaards.
         </p>
         <p>
@@ -48,18 +48,16 @@
       <!-- #MARK: cookie -->
 
       <button popovertarget="cookie">
-        <img src="assets/afbeeldingen/cookies.png" height="150" alt="cookies" />
+        <img src="assets/afbeeldingen/cookies.png" height="150" alt="Privacy statement, meer informatie" />
       </button>
 
       <section popover id="cookie" popover="auto">
-        <button popovertarget="cookie" popovertargetaction="hide">X</button>
+        <button popovertarget="cookie" popovertargetaction="hide" aria-label="sluiten">X</button>
         <!-- als je op het Xje drukt dan verstopt ie de popovertarget (de popover) door hide -->
-        <h2>cookies</h2>
+        <h2>Privacy verklaring</h2>
         <p>
-          Op deze site wordt noodgedwongen gebruikt gemaakt van cookies. </p>
           <p>Op deze site wordt een onbekend script van een derde partij gebruikt.</p>
-          <p>Ik adviseer u de site te verlaten als u het hier niet mee eens bent en de volgende policie(s) door te lezen.</p>
-            <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" ></a>
+          <p>Als u hier niet mee instemt dan adviseer ik u om deze site te verlaten.</p>
         </p>
 
         <footer>
@@ -71,9 +69,9 @@
       <!-- ik heb de afwijzen en accepteren knoppen in een footer gedaan (weet niet zeker of dit helemaal correct is, maar het was wel de onderkant van de popover). zodat ik deze apart kon stijlen dan de section en zodat ik ze naast elkaar kon centreren -->
 
       <!-- #MARK: astronaut -->
-      <img
+      <img aria-hidden="true"
         src="assets/afbeeldingen/astronaut.PNG"
-        height="300"
+        height="240"
         alt="astronaut"
       />
 
@@ -82,12 +80,12 @@
         <img
           src="assets/afbeeldingen/telescopefish.PNG"
           height="150"
-          alt="telescopefish"
+          alt="De telescopefish, meer informatie"
         />
       </button>
 
-      <div popover id="telescopefish">
-        <button popovertarget="telescopefish" popovertargetaction="hide">
+      <div popover id="telescopefish" role="dialog" aria-label="De telescopefish">
+        <button popovertarget="telescopefish" popovertargetaction="hide" aria-label="sluiten">
           X
         </button>
         <h2>de telescopefish (Gigantura)</h2>
@@ -101,7 +99,7 @@
         <img
           src="assets/afbeeldingen/telescopefish1900.jpg"
           height="150"
-          alt="telescopefish1900"
+          alt="telescopefishfoto"
         />
       </div>
 
@@ -110,18 +108,18 @@
         <img
           src="assets/afbeeldingen/dumbooctopus.PNG"
           height="150"
-          alt="dumbooctopus"
+          alt="De dumbooctopus, meer informatie"
         />
       </button>
 
-      <div popover id="dumbooctopus">
-        <button popovertarget="dumbooctopus" popovertargetaction="hide">
+      <div popover id="dumbooctopus" role="dialog" aria-label="De dumbooctopus">
+        <button popovertarget="dumbooctopus" popovertargetaction="hide" aria-label="sluiten">
           X
         </button>
-        <h2>De dumbooctopus</h2>
+        <h2 tabindex="-1">De dumbooctopus</h2>
         <p>
           De dumbooctopus kan gevonden worden op de oceaanvloer, op een diepte
-          van ongeveer 3000-4000m. Ze gebruiken hun oren om vooruit te komen. En
+          van ongeveer drieduizend tot verduizend meter diep. Ze gebruiken hun oren om vooruit te komen. En
           het dieet van deze octopus bestaat uit oesters, slakken, wormen en
           schaaldieren die langs de oceeanvloer drijven. Om roofdieren te
           vermijden kunnen ze ook van kleur veranderen, maar gelukkig zijn er
@@ -141,13 +139,13 @@
       <button popovertarget="bigfinsquid">
         <img
           src="assets/afbeeldingen/bigbigfinsquid.PNG"
-          height="800"
-          alt="bigfinsquid"
+          height="850"
+          alt="De bigfinsquid, meer informatie"
         />
       </button>
 
-      <div popover id="bigfinsquid">
-        <button popovertarget="bigfinsquid" popovertargetaction="hide">
+      <div popover id="bigfinsquid" role="dialog" aria-label="De bigfinsquid">
+        <button popovertarget="bigfinsquid" popovertargetaction="hide" aria-label="sluiten">
           X
         </button>
         <h2>De bigfinsquid</h2>
@@ -175,55 +173,46 @@
         <img
           src="assets/afbeeldingen/anglerfishgetekend.PNG"
           height="200"
-          alt="anglerfish"
+          alt="De anglerfish, meer informatie"
         />
       </button>
 
       <!-- #MARK: anglerfish -->
-      <div popover id="anglerfish">
-        <button popovertarget="anglerfish" popovertargetaction="hide">X</button>
+      <div popover id="anglerfish" role="dialog" aria-label="De anglerfish">
+        <button popovertarget="anglerfish" popovertargetaction="hide" aria-label="sluiten">X</button>
         <h2>De diepzeehengelvis (Ceratioidea)</h2>
-        <p>
-          Er zijn meer dan meer dan 200 soorten hengelvissen. Ze leven vooral in
-          de dieptes van de Arctische en Atlantische oceaan, tussen de 300 en
-          4000 meter. Sommige soorten kunnen tot meer dan 1 meter in de lengte
-          bereiken, maar vaak zijn ze kleiner, ongeveer de grootte van een
-          schoolliniaal. (30cm)
-        </p>
-        <p>
-          Naast hun enge tanden is hun meest opvallende kenmerk het lichtje aan
-          de bovenkant van hun hoofd, een soort vishengel die bestaat uit een
-          lichtgevend zakje bacteriën die ze gebruiken om prooi te vangen, wat
-          kenmerkend alleen bij de vrouwtjes voorkomt. Net zoals de telescope
-          fish (Gigantura) kunnen ze door hun flexibele bouw prooi twee keer hun
-          grootte eten, wat hard nodig is als het mogelijke aantal prooi zo
-          schaars is.
-        </p>
-        <p>
-          In de duistere dieptes zijn de mannelijke hengelvissen heel hun leven
-          opzoek naar het andere geslacht. De mannetjes zijn vergeleken met de
-          vrouwtjes heel klein, en in sommige soorten, als een mannetje een
-          vrouwelijke hengelvis heeft gevonden haakt hij zichzelf vast aan het
-          vrouwtje met zijn tanden en laten hij niet meer los. Het mannetje
-          wordt een soort parasitaire partner, ze smelten samen, hij komt vast
-          aan haar huid te zitten en verbindt zich aan haar bloedomloop. Het
-          mannetje verliest in dit proces ook zijn ogen en al zijn organen
-          behalve de testikels. Een vrouwtje draagt 6 of meer mannetjes.
+ <p>
+  Er zijn meer dan 200 soorten hengelvissen. Ze leven vooral in de diepten
+  van de Arctische en Atlantische oceaan, tussen de 300 en 4000 meter. Sommige
+  worden meer dan 1 meter lang, maar de meeste zijn ongeveer 30 cm.
+</p>
+<p>
+  Naast hun enge tanden valt vooral het lichtje boven hun kop op: een soort
+  vishengel met lichtgevende bacteriën, waarmee ze prooi lokken. Alleen de
+  vrouwtjes hebben dit. Net als de telescopefish (Gigantura) kunnen ze prooi
+  eten die twee keer zo groot is als zijzelf, wat handig is als eten zo
+  schaars is.
+</p>
+<p>
+  De mannetjes zijn veel kleiner dan de vrouwtjes en zoeken hun hele leven naar
+  een vrouwtje. Bij sommige soorten bijt een mannetje zich vast en smelt hij
+  samen met haar huid en bloedomloop. Hij verliest dan zijn ogen en bijna al
+  zijn organen, behalve de testikels. Een vrouwtje kan 6 of meer mannetjes
+  dragen.
+</p>
+</div>
 
-          <!-- #MARK: phantomjelly -->
-        </p>
-      </div>
-
+            <!-- #MARK: phantomjelly -->
       <button popovertarget="phantomjelly">
         <img
           src="assets/afbeeldingen/phantomjellygetekend.png"
           height="700"
-          alt="phantomjelly"
+          alt="De phantomjellyfish, meer informatie"
         />
       </button>
 
-      <div popover id="phantomjelly">
-        <button popovertarget="phantomjelly" popovertargetaction="hide">
+      <div popover id="phantomjelly" role="dialog" aria-label="De phantomjellyfish">
+        <button popovertarget="phantomjelly" popovertargetaction="hide" aria-label="sluiten">
           X
         </button>
         <h2>De Phantom jellyfish</h2>
@@ -233,7 +222,7 @@
       <!-- #MARK: bubbels -->
 
       <div aria-hidden="true" class="bubbel1">
-        <img src="assets/afbeeldingen/bubbel.png" aria-hidden="true" height="50" />
+        <img src="assets/afbeeldingen/bubbel2.png" alt height="50" />
       </div>
 
       <div aria-hidden="true" class="bubbel2">
@@ -241,7 +230,7 @@
       </div>
 
       <div aria-hidden="true" class="bubbel3">
-        <img src="assets/afbeeldingen/bubbel.png" aria-hidden="true" height="50" />
+        <img src="assets/afbeeldingen/bubbel2.png" aria-hidden="true" height="50" />
       </div>
 
       <div aria-hidden="true" class="bubbel4">
@@ -249,7 +238,7 @@
       </div>
 
       <div aria-hidden="true" class="bubbel5">
-        <img src="assets/afbeeldingen/bubbel.png" aria-hidden="true" height="50" />
+        <img src="assets/afbeeldingen/bubbel2.png" aria-hidden="true" height="50" />
       </div>
 
       <div aria-hidden="true" class="bubbel6">
@@ -261,14 +250,6 @@
       <div class="zand"></div>
 
       <div class="overlay"></div>
-
-      <!-- <div class="bg-animation">
-          <div id="stars"></div>
-          <div id="stars2"></div>
-          <div id="stars3"></div>
-          <div id="stars4"></div>
-        </div> -->
-      <!-- / STAR ANIMATION -->
     </main>
   </body>
 </html>

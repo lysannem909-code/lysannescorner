@@ -35,20 +35,21 @@ Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt
 
 Ik ben bij 2 deepdives geweest en heb mijn website werkend gemaakt (je kan het nu intypen en dan is hij er ook) en een gif toegevoegd. Ook heb ik de lokkaart in Figma uitgewerkt voor een iPad.
 
-<img width="332" height="256" alt="Scherm­afbeelding 2026-09-02 om 12 36 42" src="https://github.com/user-attachments/assets/12f950f2-eb60-4fe9-880b-12266c65de12" />
+<img width="300" alt="Scherm­afbeelding 2026-09-02 om 12 36 42" src="https://github.com/user-attachments/assets/12f950f2-eb60-4fe9-880b-12266c65de12" />
 
-<img width="1239" height="756" alt="Scherm­afbeelding 2026-09-02 om 12 37 33" src="https://github.com/user-attachments/assets/eec9c9cb-8465-459b-91c9-2810c5881c4c" />
+<img width="300" alt="Scherm­afbeelding 2026-09-02 om 12 37 33" src="https://github.com/user-attachments/assets/eec9c9cb-8465-459b-91c9-2810c5881c4c" />
 
 4 SEP
 Ik heb een achtergrondkleur en een paar vakjes aan mijn site toegevoegd en de opdrachten van de lettertypes gemaakt van de deepdives.
-<img width="569" height="706" alt="Scherm­afbeelding 2026-09-06 om 17 55 01" src="https://github.com/user-attachments/assets/f92235d4-b135-4601-a4df-f261e727690a" />
+<img width="300" alt="Scherm­afbeelding 2026-09-06 om 17 55 01" src="https://github.com/user-attachments/assets/f92235d4-b135-4601-a4df-f261e727690a" />
 
+SPRINT 1
 7 SEP
 Ik heb vandaag op school verschillende websites bezoekt en gebruikt als eventuele inspiratie voor mijn website en een artikel over de geschiedenis van digital Gardens
 
 10sep
-<img width="455" height="517" alt="Scherm­afbeelding 2026-09-10 om 16 14 30" src="https://github.com/user-attachments/assets/597f7e77-24bb-4c68-bf19-7c89278d2705" />
-<img width="443" height="594" alt="Scherm­afbeelding 2026-09-10 om 16 30 36" src="https://github.com/user-attachments/assets/754c98f3-b700-4fe6-9786-76ddd3788be4" />
+<img width="300" alt="Scherm­afbeelding 2026-09-10 om 16 14 30" src="https://github.com/user-attachments/assets/597f7e77-24bb-4c68-bf19-7c89278d2705" />
+<img width="300" alt="Scherm­afbeelding 2026-09-10 om 16 30 36" src="https://github.com/user-attachments/assets/754c98f3-b700-4fe6-9786-76ddd3788be4" />
 <<<<<<< HEAD
 
 ? sep
@@ -58,18 +59,19 @@ Weet niet precies wanneer dit was maar het was ergens hiertussen en ik heb visue
 11 SEP
 Ik heb aan een van de deepdives meegedaan en hiervan de opdrachten gemaakt
 
-<img width="847" height="654" alt="Scherm­afbeelding 2026-09-11 om 14 28 03" src="https://github.com/user-attachments/assets/024ea114-7661-43bd-8133-114d00b9c68b" />
-<img width="791" height="595" alt="Scherm­afbeelding 2026-09-11 om 14 56 54" src="https://github.com/user-attachments/assets/0f22ecb8-4edb-4345-be60-b3c73f6d2209" />
-<img width="456" height="544" alt="Scherm­afbeelding 2026-09-11 om 16 04 23" src="https://github.com/user-attachments/assets/d2b3b6bb-ecc4-464e-906d-256d00080d54" />
+<img width="300" alt="Scherm­afbeelding 2026-09-11 om 14 28 03" src="https://github.com/user-attachments/assets/024ea114-7661-43bd-8133-114d00b9c68b" />
+<img width="300" alt="Scherm­afbeelding 2026-09-11 om 14 56 54" src="https://github.com/user-attachments/assets/0f22ecb8-4edb-4345-be60-b3c73f6d2209" />
+<img width="300" height="544" alt="Scherm­afbeelding 2026-09-11 om 16 04 23" src="https://github.com/user-attachments/assets/d2b3b6bb-ecc4-464e-906d-256d00080d54" />
 
 13 SEP
 Ik heb vandaag onderzoek gedaan naar mijn eerste 2 dieren en de astronaut en dieren getekent en in mijn code gezet. Ik heb de bounce animatie voor elk element sneller/langzamer gemaakt en mooier gemaakt. Ik heb geprobeerd een textbox toe te voegen als je op een dier klikt maar dit is nog niet gelukt.
-<img width="2048" height="2048" alt="telescopefish" src="https://github.com/user-attachments/assets/37b2d54b-8128-41b7-a5c2-640631b4814b" />
-<img width="2048" height="2048" alt="astronaut" src="https://github.com/user-attachments/assets/8760c7d6-9ea1-4b6a-8230-bbc09c5e1b7a" />
-<img width="2048" height="2048" alt="dumbooctopus" src="https://github.com/user-attachments/assets/7b31cf6f-f921-4c2a-a3e8-4cb5e7388e70" />
-<img width="1506" height="976" alt="Scherm­afbeelding 2026-09-13 om 23 50 45" src="https://github.com/user-attachments/assets/c9f1b5c3-5ec7-4ee6-86a0-31440641fedb" />
+<img width="300"  alt="telescopefish" src="https://github.com/user-attachments/assets/37b2d54b-8128-41b7-a5c2-640631b4814b" />
+<img width="300" alt="astronaut" src="https://github.com/user-attachments/assets/8760c7d6-9ea1-4b6a-8230-bbc09c5e1b7a" />
+<img width="300" alt="dumbooctopus" src="https://github.com/user-attachments/assets/7b31cf6f-f921-4c2a-a3e8-4cb5e7388e70" />
+<img width="300" alt="Scherm­afbeelding 2026-09-13 om 23 50 45" src="https://github.com/user-attachments/assets/c9f1b5c3-5ec7-4ee6-86a0-31440641fedb" />
 <img width="269" height="818" alt="Scherm­afbeelding 2026-09-13 om 23 58 35" src="https://github.com/user-attachments/assets/105242ab-6d04-4d35-8540-3eff5c0ee90c" />
 
+SPRINT 2
 28 sep
 Ik heb mijn learning log lang niet meer bijgehouden en ik ben ook veel van mijn foto's kwijt omdat mijn telefoon kapot is gegaan. Ik heb in deze tijd een nieuw dier toegevoegd, ik had eerst pagina's met informatie en dit heb ik naar popovers veranderd zodat je niet uit de ervaring word gehaald en ik heb een light en dark mode toegevoegd.
 <img width="1625" height="964" alt="Scherm­afbeelding 2026-09-28 om 12 10 36" src="https://github.com/user-attachments/assets/5cde89a0-3795-4cfc-8871-da5c63f07391" />
@@ -89,6 +91,8 @@ Ik heb een overlay toegevoegd aan mijn site om alles bij elkaar te laten passen 
 2 OKT
 ik heb feedback van sanne gekregen en ik moet mijn columns en rows aanpassen, accesibitliy testen en zorgen dat alle elementen van mijn site responsive zijn en mobile first is.
 
+<!-- SPRINT 3 -->
+
 5 OKT
 Intro gekregen songtekst opdracht, liejde gekozen (ik heb voor ik vergeet va spinvis gekozen) schetsen gemaakt en de songtekst een beetje geanalyseerd.
 <img src="assets/fotos_readme/spinvischets1.png">
@@ -98,10 +102,27 @@ Intro gekregen songtekst opdracht, liejde gekozen (ik heb voor ik vergeet va spi
 
 Check-out
 Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension. (Hint, alle termen staan in de artikelen die we samen gelezen hebben)
+kerning: de ruimte tussen twee spesifieke letters
+tracking:de ruimte tussen alle letter in een word of stuk tekst
+leading: de ruimte tussen regels
+flush-left: tekst aan de linkerkant
+flush-right: tekst aan de rechterkant
+centered: tekst in het midden
+justified: tekst aligned aan beide kanten
+indent: een stuk tekst die er bij de linkerkant een beetje naar voren springt (dus naar rechts) vergeleken met de andere tekst
+outdent:
+outdent: Hetzelfde maar dan aan de andere kant
+modular scale: letters die met dezelfde verhouding groter worden zodat je groottes hebt die bij elkaar passen in vergelijking ipv. willekeurige getallen
+movable type: losse verplaatsbare letters die je hierdoor op je eigen manier kan rangschikken en bijv de spacing van kan veranderen
+focus punt: het deel van het ontwerp waar je ogen eerst naartoe gaan, het meest opvallende
+vijf soorten contrast: gewicht, grootte, vorm, richting, positie
+spatial tension: de spanning die een ontwerp krijgt door lege ruimte, een element die aan de rand staat of als 2 elementen bijv bijna aanraken
 
 Wat is jouw ideale regellengte (measure)? Leg uit waarom.
+door een korte regel krijgt je regel veel afberkingen en word het een irritant om te lezen omdat je heel vaak van lijn moet wisselen en bij een te lange zin haken mensen al vaak af. Volgens een artiekel van cursuswsp ligt de ideale regellengte tussen de 45-75, ik zou hiertussen zelf het liefst de kortere regel van bijv 50 tekens lezen omdat ik dan het gevoel heb dat ik sneller door een tekst heen kom en dit motiveert mij om verder te lezen.
 
 Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
+grootte, ik vind grootte de duidelijkste indicator van wat het belangrijkste is in een tekst (kwa wat je eerst leest en wat daarna komt) en je kan het altijd dramatischer maken voor een grotere nadruk op bijv de titel.
 
 6 OKT
 Eerste versie in css uitgewerkt
@@ -111,8 +132,14 @@ Eerste versie in css uitgewerkt
 Check-out
 
 Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
+Een grid is goed omdat je overzicht hebt waar je alles hebt geplaatst en je je grid ook kan aanpassen op een manier dat het mobile friendly is. Ook worden in de ontwerp-wereld grids veel toegepast dus het is een universele taal die zowel codeurs en ontwerpers allebei begrijpen.
+
 Noem drie manieren om chaos in je ontwerp te voorkomen.
+
+1. grids, 2. goed contrast zodat alles leesbaar is 3. visuele hierachie
+
 Hoeveel gekkigheid moet er in je werk zitten?
+Genoeg om het leuk te maken maar niet zoveel dat het onoverzichtelijk is, teveel felle kleuren is vaak zijn niet zo prettig om naar te kijken maar bij te weinig kleuren wordt het te saai.
 
 Meegedaan met de deepdive van Sanne met variable fonts.
 
@@ -125,13 +152,12 @@ herfstvakantie
 Mijn songtekst opdracht verder gemaakt. Ik heb stipjes voor het biepende stukje in het begin toegevoegd, kleuren, de rest van de songtekst en effecten bij de woorden.
 <img width="1011" height="925" alt="Scherm­afbeelding 2026-10-21 om 12 05 07" src="https://github.com/user-attachments/assets/77414d02-c573-4656-9020-bd68fdd2b281" />
 
-
-
 19-20 OKT
 Het grid van mijn site omgegooid, ik ben van horizontaal scrollen wat ik eerst wilde doen toch veranderd naar verticaal scrollen omdat dit op mobiel ook en stuk makkelijker is. Ik heb op 20 oktober mijn best gedaan om mijn site adaptief te maken en nu bewegen de elementen in de klomen mee met de site als je dit kleiner of groter maakt. Ik heb ook een mooiere astronaut getekend
+<img src="assets/afbeeldingen/astronaut.PNG"
 
 21 OKT
-Verder gewerkt aan mijn site en al mijn vissen onder elkaar gezet. Ook 2 knopjes toegevoegd en gestyled, eentje voor mijn experiment en voor mijn readme. Ook feedback gekregen en gegeven in groepjes.
+Verder gewerkt aan mijn site en al mijn vissen onder elkaar gezet. Ook 2 knopjes toegevoegd en gestyled, eentje voor mijn experiment en voor mijn readme. Ook feedback gekregen en gegeven in groepjes. Mijn feedback staat hieroner.
 
 22 OKT
 Mijn cookie popup gefixt (github privacy statement toegevoegd) en de knopjes in mijn cookie pop up werkend gemaakt.
@@ -141,8 +167,28 @@ https://css-tip.com/css-wavy-shape/
 Ik heb ook knophes toegevoegd voor mijn learning log en songtekst.
 
 23 OKT
-Ik heb stijgende bubbels toegevoegd en mijn tekst groter gemaakt om mijj site toegankelijker te maken. Ik heb de bronnen die ik voor mijn code heb gebruikt ook in mijn code gezet.
-Screenreader uitgetest, de screenreader werkt maar er zijn 2 dinfgen die fout gaan,
-dit zijn de bubbels die geselecteerd worden en dat bij de vis zowel een afbeelding en een knop voorgelezen wordt.
-voor de bubbel divs:
+Ik heb stijgende bubbels toegevoegd en mijn tekst groter gemaakt om mijn site toegankelijker te maken. Ik heb de bronnen die ik voor mijn code heb gebruikt ook in mijn code gezet.
+Screenreader uitgetest, de screenreader werkt maar ik moet nog wel een paar dingen op te lossen om het toegankelijker te maken. Zoals mijn alt teksten duidelijker maken en aria labels toevoegen.
+Ik heb voor puur decoratieven elementen aria-hidden="true" gebruikt zodat dit niet op de screenreader voorgelezen wordt.
 bron: https://www.a11yiseverything.com/articles/hiding-elements/
+
+25 OKT
+Ik heb een gradient toegevoegd aan mijn pagina die veranderd liggend aan light en dark mode.
+Ik heb mijn screenreader uitgetest en het werkt goed. mijn aria labels worden weegeven en alle vis knoppen staat bij formulier regelaars, en de link naar mijn sontekst en github. Door vanaf daar de knop in te drukken en daarna option control a word de popover voorgelezen.
+Ook heb ik twee eigen bubbels getekend om mijn oude bubbel van het internet te vervangen.
+<img width="300" src="assets/afbeeldingen/bubbel.png">
+<img width="300" src="assets/afbeeldingen/bubbel2.png">
+Wat ik nog wil doen voor toegankelijkheid:
+-Een terug knop aan de songtekst toevgoegen binnen de pagina
+-Mijn contrast testen met kleurenblind filters
+-Mijn sluit en cookie knoppen groter maken
+
+Ik heb heb mijn zelfgeschreven tekst over de hengelvis met AI korter gemaakt omdat het anders te groot voor de popover zou zijn.
+
+Ik heb mijn mijn lichtmode mooier gemaakt en een gradient toegevoegd, alle knopjes en popovers ook variants gegeven
+
+Ik wil ook nog een feed-foward toevoegen zodat de gebruiker ziet dat ze op de vis moeten klikken omdat dit mijn feedback was bij feedback sessie op vrijdag.
+
+REFLECTIE
+Ik heb in dit blok erg veel geleerd en voelde voor mij ook een soort tweede introductie tot code, omdat ik vorig jaar wel een website had gemaakt maar geen idee had wat ik aan het doen was, en nu snapte ik wel iets beter hoe ik het moest aanpakken en heb ik wel heel veel geleerd en kan ik ook uitleggen wat ik nou heb geschreven en gemaakt. Ook was dit blok heel druk voor mij met mijn persoonlijke leven en heb ik vooral in sprint twee het erg druk gehad met mijn verhuizing en mijn achttiende verjaardag. Ook is in dit blok mijn telefoon stuk gegaan, waardoor ik een paar foto's kwijt bent geraakt van mijn progressie waardoor ik een van mijn metaforen helaas ben verloren en een lange tijd niet in dlo kon waardoor ik alles voor twee weken even niet zo goed meer volgden. Ontdanks dat heb ik voor mijn gevoel wel veel geleerd en ik weet nu hoe ik uit mezelf een basic website kan opbouwen waarmee ik wel heel erg blij ben en als ik echt in het coderen zat ging het af en toe ook wel heel lekker en was er zo een paar uur voorbij. Wat ik heel lastig vond in dit blok was ook zeker het coderen zoals denk ik wel veel anderen en liep ik vaak helemaal vast bij dingetjes die dan eigenlijk heel klein bleken te zijn. Ik had vaak het gevoel dat ik helemaal niet voor ogen had hoe ik verder moest en dat ik zo erg vastliep dat ik een soort blokkade kreeg en hierdoor ook helemaal niet verder ging werken en mijn werk heel erg ging uitstellen. Ik had in deze periode eigenlijk ook om hulp moeten vragen maar ik heb dit toen niet gedaan. Ik ben in de derde sprint meer aan de bak gegaan vergeleken met de andere sprints vorname de laatste anderhalve week, waar ik veel kleine aanpassingen heb gemaakt maar elke kleine aanpassing kost mij gelijk heel veel tijd om werkend te krijgen omdat ik heel veel dingen voor de eerste keer aan het doen was.
+Als ik dit blok opnieuw zou kunnen doen zou een groot thema optijd beginnen voor mij zijn. Ik heb in dit blok het gevoel gehad dat de druk in het begin heel laag was en langzaam steeds hoger werd, ik denk als ik het tempo wat ik de laatste week had voor mijn website het hele blok had gehad was mijn website uigebreider geweest en was ik er ook trotser op geweest. Ook had ik mijn readme niet zo goed bijgehouden wat ik volgende keer ook zeker anders zou doen. Ik hoorde in het begin dat de readme vooral voor jezelf was, ik had ook zeker meer aan mijn readme gezeten als het belang voor de readme op je cijfer meer was benadrukt.
