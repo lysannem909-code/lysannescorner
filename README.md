@@ -89,13 +89,16 @@ SPRINT 1
 </details>
 
 <details>
-<summary>📝schetsen<summary>
+<summary>📝schetsen</summary>
+
 Ik weet niet precies waar in sprint 1 in mijn schetsen heb gemaakt, dus vandaar zet ik ze hier neer.
-<img width="300" src="assets/fotos_readme/schets1.png"/>
-<img width="300" src="assets/fotos_readme/schets2.png"/>
-<img width="300" src="assets/fotos_readme/schets3.png"/>
-<img width="300" src="assets/fotos_readme/schets4.png"/>
+<img width="200" src="assets/fotos_readme/schets1.png"/>
+<img width="200" src="assets/fotos_readme/schets2.png"/>
+<img width="200" src="assets/fotos_readme/schets3.png"/>
+<img width="200" src="assets/fotos_readme/schets4.png"/>
+
 </details>
+
 7 SEP
 Ik heb vandaag op school verschillende websites bezoekt en gebruikt als eventuele inspiratie voor mijn website en een artikel over de geschiedenis van digital Gardens
 
