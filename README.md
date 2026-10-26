@@ -99,25 +99,34 @@ Ik weet niet precies waar in sprint 1 in mijn schetsen heb gemaakt, dus vandaar 
 
 </details>
 
-7 SEP
-Ik heb vandaag op school verschillende websites bezoekt en gebruikt als eventuele inspiratie voor mijn website en een artikel over de geschiedenis van digital Gardens
+**7 SEP**
+Ik heb vandaag op school verschillende websites bezoekt en gebruikt als eventuele inspiratie voor mijn website en een artikel over de geschiedenis van digital Gardens.
+(Ik heb voor deze opdracht samen met een andere klasgenoot gemaakt andere gardens ge-analyseerd voor webbynes maar heb hier helaas geen foto meer van omdat dit op mijn kapotte telefoon staat.)
 
-10sep
+**10 SEP**
+Ik heb vandaag meegedaan aan de gradient deepdive.
+<img width="200" src="assets/fotos_readme/gradientdeepdive1.png"/>
+<img width="200" src="assets/fotos_readme/gradientdeepdive2.png"/>
+
+**11 SEP**
+Ik heb op school verder gewerkt aan mijn website en een grid deepdove gemaakt.
+
 <img width="300" alt="Scherm­afbeelding 2026-09-10 om 16 14 30" src="https://github.com/user-attachments/assets/597f7e77-24bb-4c68-bf19-7c89278d2705" />
 <img width="300" alt="Scherm­afbeelding 2026-09-10 om 16 30 36" src="https://github.com/user-attachments/assets/754c98f3-b700-4fe6-9786-76ddd3788be4" />
 
-**Visual thinking opdracht**
+<details>
+<summary>Visual thinking opdracht</summary>
+
 <img width="300" height="767" alt="Scherm­afbeelding 2026-09-13 om 23 55 34" src="https://github.com/user-attachments/assets/bb712e2f-2309-45b5-a77e-5750bbdca64d" />
 <img width="300" alt="Scherm­afbeelding 2026-09-13 om 23 55 27" src="https://github.com/user-attachments/assets/aee49de4-ca30-4230-a929-5b04d9b29ba6" />
-
-11 SEP
-Ik heb aan een van de deepdives meegedaan en hiervan de opdrachten gemaakt
 
 <img width="300" alt="Scherm­afbeelding 2026-09-11 om 14 28 03" src="https://github.com/user-attachments/assets/024ea114-7661-43bd-8133-114d00b9c68b" />
 <img width="300" alt="Scherm­afbeelding 2026-09-11 om 14 56 54" src="https://github.com/user-attachments/assets/0f22ecb8-4edb-4345-be60-b3c73f6d2209" />
 <img width="300" height="544" alt="Scherm­afbeelding 2026-09-11 om 16 04 23" src="https://github.com/user-attachments/assets/d2b3b6bb-ecc4-464e-906d-256d00080d54" />
 
-13 SEP
+</details>
+
+**13 SEP**
 Ik heb vandaag onderzoek gedaan naar mijn eerste 2 dieren en de astronaut en dieren getekent en in mijn code gezet. Ik heb de bounce animatie voor elk element sneller/langzamer gemaakt en mooier gemaakt. Ik heb geprobeerd een textbox toe te voegen als je op een dier klikt maar dit is nog niet gelukt.
 <img width="300"  alt="telescopefish" src="https://github.com/user-attachments/assets/37b2d54b-8128-41b7-a5c2-640631b4814b" />
 <img width="300" alt="astronaut" src="https://github.com/user-attachments/assets/8760c7d6-9ea1-4b6a-8230-bbc09c5e1b7a" />
@@ -127,7 +136,8 @@ Ik heb vandaag onderzoek gedaan naar mijn eerste 2 dieren en de astronaut en die
 
 </details>
 
-SPRINT 2
+<details>
+<summary>SPRINT 2</summary>
 28 sep
 Ik heb mijn learning log lang niet meer bijgehouden en ik ben ook veel van mijn foto's kwijt omdat mijn telefoon kapot is gegaan. Ik heb in deze tijd een nieuw dier toegevoegd, ik had eerst pagina's met informatie en dit heb ik naar popovers veranderd zodat je niet uit de ervaring word gehaald en ik heb een light en dark mode toegevoegd.
 <img width="1625" height="964" alt="Scherm­afbeelding 2026-09-28 om 12 10 36" src="https://github.com/user-attachments/assets/5cde89a0-3795-4cfc-8871-da5c63f07391" />
@@ -146,6 +156,8 @@ Ik heb een overlay toegevoegd aan mijn site om alles bij elkaar te laten passen 
 
 2 OKT
 ik heb feedback van sanne gekregen en ik moet mijn columns en rows aanpassen, accesibitliy testen en zorgen dat alle elementen van mijn site responsive zijn en mobile first is.
+
+</details>
 
 <!-- SPRINT 3 -->
 
