@@ -154,7 +154,7 @@ Mijn songtekst opdracht verder gemaakt. Ik heb stipjes voor het biepende stukje 
 
 19-20 OKT
 Het grid van mijn site omgegooid, ik ben van horizontaal scrollen wat ik eerst wilde doen toch veranderd naar verticaal scrollen omdat dit op mobiel ook en stuk makkelijker is. Ik heb op 20 oktober mijn best gedaan om mijn site adaptief te maken en nu bewegen de elementen in de klomen mee met de site als je dit kleiner of groter maakt. Ik heb ook een mooiere astronaut getekend
-<img width="300" src="assets/afbeeldingen/astronaut.PNG"
+<img width="300" src="assets/afbeeldingen/astronaut.PNG"/>
 
 21 OKT
 Verder gewerkt aan mijn site en al mijn vissen onder elkaar gezet. Ook 2 knopjes toegevoegd en gestyled, eentje voor mijn experiment en voor mijn readme. Ook feedback gekregen en gegeven in groepjes. Mijn feedback staat hieroner.
