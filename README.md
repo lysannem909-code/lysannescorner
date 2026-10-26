@@ -188,22 +188,27 @@ Een popover toegevoegd ipv losse pagina.
 Ik heb mijn learning log lang niet meer bijgehouden, dit komt deels omdat ik veel van mijn foto's kwijt ben geraakt omdat mijn telefoon kapot is gegaan. Ik heb in deze tijd hiertussen:
 <br>
 <img width="300" alt="Scherm­afbeelding 2026-09-28 om 12 10 36" src="https://github.com/user-attachments/assets/5cde89a0-3795-4cfc-8871-da5c63f07391" />
-<img width="300" alt="Scherm­afbeelding 2026-09-28 om 12 10 43" src="https://github.
-com/user-attachments/assets/bff1684a-01c0-4af0-b657-b6c6e7877679" />
+<img width="300" src="assets/fotos_readme/dumboooctopuspoover.png"/>
 <img width="300" alt="Scherm­afbeelding 2026-09-28 om 12 10 54" src="https://github.com/user-attachments/assets/21706f45-85f0-46de-ae5d-508c8ddc237e" />
+
 <br>
 ⭐︎Drie popovers toegevoegd
 <br>
+<br>
 
 <img width="300" alt="Scherm­afbeelding 2026-09-28 om 12 10 58" src="https://github.com/user-attachments/assets/d1ed049d-e3a3-49a8-bfc6-9a650a2a2fb9" />
-<img width="300" alt="Scherm­afbeelding 2026-09-28 om 12 11 08" src="https://github.com/user-attachments/assets/cb43f67c-c974-4ffa-8db9-cec92afff4d6" />
+<img width="300" alt="Scherm­afbeelding 2026-09-28 om 12 47 36" src="https://github.com/user-attachments/assets/58850477-b507-4195-b946-aaa7f1bc4b6c" />
+
 <br>
 ⭐︎De bigfinsquid getekend, onderzocht en toegevoegd
 <br>
+<br>
 
-<img width="300" alt="Scherm­afbeelding 2026-09-28 om 12 47 36" src="https://github.com/user-attachments/assets/58850477-b507-4195-b946-aaa7f1bc4b6c" />
+<img width="300" alt="Scherm­afbeelding 2026-09-28 om 12 11 08" src="https://github.com/user-attachments/assets/cb43f67c-c974-4ffa-8db9-cec92afff4d6" />
+
 <br>
 ⭐︎Een lichtmode toegevoegd
+<br>
 <br>
 
 ## **30SEP**
