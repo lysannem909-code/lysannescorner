@@ -73,7 +73,9 @@ Ik heb een achtergrondkleur en een paar vakjes aan mijn site toegevoegd en de op
 <summary>💪SPRINT 1</summary>
 
 <details>
-<summary>check-outs</summary>
+<summary>🦎check-outs</summary>
+
+**check-out 1**
 ❔Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
 
 ☞ Een digital garden is een plaats waar iemand alles wat ze zelf willen kwijt kunnen wat hun intereseert, en het groeit altijd door en veranderd. Het is niet per se gemaakt voor anderen zoals de meeste websites op het web maar uit de intresses en wat hun mooi vinden in hun eigen website.
@@ -85,6 +87,22 @@ Ik heb een achtergrondkleur en een paar vakjes aan mijn site toegevoegd en de op
 ❔Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.)
 
 ☞ Ik wil een site waar je informatie kan vinden over een bepaald onderwerp wat ik leuk vind, ik zit te denken aan verschillende dieptes in de zee en de dieren die daar leven.
+
+---
+
+**check-out 2**
+
+❔Leg uit waar het Visual Research in 3 stappen naartoe werkt
+
+☞ Naar een verduidelijkt beeld van wat je wilt kwa kleur en vormgeving.
+
+❔Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).
+
+☞ Mijn garden gaat over de diepzee. Ik ga dit duidelijk maken door donkere kleuren, animaties alsof er in het water gezweeft wordt en misschien nog ambient geluiden.
+
+❔Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.
+
+☞Ik vind de tekst in een jellyfish heel leuk en mijn donker naar licht gradient van als je dieper de zee in gaat.
 
 </details>
 
@@ -105,8 +123,9 @@ Ik heb vandaag op school verschillende websites bezoekt en gebruikt als eventuel
 
 **10 SEP**
 Ik heb vandaag meegedaan aan de gradient deepdive.
-<img width="200" src="assets/fotos_readme/gradientdeepdive1.png"/>
-<img width="200" src="assets/fotos_readme/gradientdeepdive2.png"/>
+<img width="200" alt="Scherm­afbeelding 2026-09-11 om 14 28 03" src="https://github.com/user-attachments/assets/024ea114-7661-43bd-8133-114d00b9c68b" />
+<img width="200" alt="Scherm­afbeelding 2026-09-11 om 14 56 54" src="https://github.com/user-attachments/assets/0f22ecb8-4edb-4345-be60-b3c73f6d2209" />
+<img width="200" height="544" alt="Scherm­afbeelding 2026-09-11 om 16 04 23" src="https://github.com/user-attachments/assets/d2b3b6bb-ecc4-464e-906d-256d00080d54" />
 
 **11 SEP**
 Ik heb op school verder gewerkt aan mijn website en een grid deepdove gemaakt.
@@ -114,17 +133,17 @@ Ik heb op school verder gewerkt aan mijn website en een grid deepdove gemaakt.
 <img width="300" alt="Scherm­afbeelding 2026-09-10 om 16 14 30" src="https://github.com/user-attachments/assets/597f7e77-24bb-4c68-bf19-7c89278d2705" />
 <img width="300" alt="Scherm­afbeelding 2026-09-10 om 16 30 36" src="https://github.com/user-attachments/assets/754c98f3-b700-4fe6-9786-76ddd3788be4" />
 
+<br>
+
 <details>
-<summary>Visual thinking opdracht</summary>
+<summary>✏️VISUAL THINKING OPDRACHT</summary>
 
-<img width="300" height="767" alt="Scherm­afbeelding 2026-09-13 om 23 55 34" src="https://github.com/user-attachments/assets/bb712e2f-2309-45b5-a77e-5750bbdca64d" />
-<img width="300" alt="Scherm­afbeelding 2026-09-13 om 23 55 27" src="https://github.com/user-attachments/assets/aee49de4-ca30-4230-a929-5b04d9b29ba6" />
-
-<img width="300" alt="Scherm­afbeelding 2026-09-11 om 14 28 03" src="https://github.com/user-attachments/assets/024ea114-7661-43bd-8133-114d00b9c68b" />
-<img width="300" alt="Scherm­afbeelding 2026-09-11 om 14 56 54" src="https://github.com/user-attachments/assets/0f22ecb8-4edb-4345-be60-b3c73f6d2209" />
-<img width="300" height="544" alt="Scherm­afbeelding 2026-09-11 om 16 04 23" src="https://github.com/user-attachments/assets/d2b3b6bb-ecc4-464e-906d-256d00080d54" />
+<img width="400" alt="Scherm­afbeelding 2026-09-13 om 23 55 34" src="https://github.com/user-attachments/assets/bb712e2f-2309-45b5-a77e-5750bbdca64d" />
+<img width="400" alt="Scherm­afbeelding 2026-09-13 om 23 55 27" src="https://github.com/user-attachments/assets/aee49de4-ca30-4230-a929-5b04d9b29ba6" />
 
 </details>
+
+<br>
 
 **13 SEP**
 Ik heb vandaag onderzoek gedaan naar mijn eerste 2 dieren en de astronaut en dieren getekent en in mijn code gezet. Ik heb de bounce animatie voor elk element sneller/langzamer gemaakt en mooier gemaakt. Ik heb geprobeerd een textbox toe te voegen als je op een dier klikt maar dit is nog niet gelukt.
