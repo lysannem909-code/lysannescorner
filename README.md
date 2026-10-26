@@ -178,13 +178,13 @@ _voorbeeld_
 <details>
 <summary>🌧️SPRINT 2</summary>
 
-**? SEP**
-<br>
+## **? SEP**
+
 Een popover toegevoegd ipv losse pagina.
 <img width="300" src="assets/fotos_readme/eerstepopover.png"/>
 
-**28 SEP**
-<br>
+## **28 SEP**
+
 Ik heb mijn learning log lang niet meer bijgehouden, dit komt deels omdat ik veel van mijn foto's kwijt ben geraakt omdat mijn telefoon kapot is gegaan. Ik heb in deze tijd hiertussen:
 <br>
 <img width="300" alt="Scherm­afbeelding 2026-09-28 om 12 10 36" src="https://github.com/user-attachments/assets/5cde89a0-3795-4cfc-8871-da5c63f07391" />
@@ -206,8 +206,8 @@ com/user-attachments/assets/bff1684a-01c0-4af0-b657-b6c6e7877679" />
 ⭐︎Een lichtmode toegevoegd
 <br>
 
-**30SEP**
-<br>
+## **30SEP**
+
 Ik heb mijn zinkende koekje voor mijn cookie pop up clickable gemaakt en voor elke popover een kruisje toegevoegd. Ik heb de anglerfish en de phantom jellyfish getekend.
 
 1 OKT
