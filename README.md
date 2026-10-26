@@ -45,20 +45,19 @@ https://www.mbari.org/animal/deep-sea-anglerfish/
 
 <details>
 <summary>⭐️Kick-off</summary>
-21 AUG
 
-Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.
+**21 AUG** <br>
+❔Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.
 Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.
---> Een source hosting platform is een plaats waar je je code kan managen en delen, ik heb zelf gekozen voor github
+☞ Een source hosting platform is een plaats waar je je code kan managen en delen, ik heb zelf gekozen voor github
 
-Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jouw pagina.
---> Ik heb voor Lysannescorner gekozen en ik heb dit gekoppeld via de respitory
+❔Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jouw pagina.
+☞ Ik heb voor Lysannescorner gekozen en ik heb dit gekoppeld via de respitory
 
-Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.
--->Je kan via Visual Studio code aanpassingen maken
+❔Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.
+☞ Je kan via Visual Studio code aanpassingen maken
 
-2 SEP
-
+**2 SEP** <br>
 Ik ben bij 2 deepdives geweest en heb mijn website werkend gemaakt (je kan het nu intypen en dan is hij er ook) en een gif toegevoegd. Ook heb ik de lokkaart in Figma uitgewerkt voor een iPad.
 
 <img width="300" alt="Scherm­afbeelding 2026-09-02 om 12 36 42" src="https://github.com/user-attachments/assets/12f950f2-eb60-4fe9-880b-12266c65de12" />
@@ -70,11 +69,8 @@ Ik heb een achtergrondkleur en een paar vakjes aan mijn site toegevoegd en de op
 <img width="300" alt="Scherm­afbeelding 2026-09-06 om 17 55 01" src="https://github.com/user-attachments/assets/f92235d4-b135-4601-a4df-f261e727690a" />
 
 </details>
-
-SPRINT 1
-
 <details>
-<summary>SPRINT 1</summary>
+<summary>💪SPRINT 1</summary>
 
 <details>
 <summary>check-outs</summary>
@@ -141,7 +137,7 @@ Ik heb vandaag onderzoek gedaan naar mijn eerste 2 dieren en de astronaut en die
 </details>
 
 <details>
-<summary>SPRINT 2</summary>
+<summary>🌧️SPRINT 2</summary>
 28 sep
 Ik heb mijn learning log lang niet meer bijgehouden en ik ben ook veel van mijn foto's kwijt omdat mijn telefoon kapot is gegaan. Ik heb in deze tijd een nieuw dier toegevoegd, ik had eerst pagina's met informatie en dit heb ik naar popovers veranderd zodat je niet uit de ervaring word gehaald en ik heb een light en dark mode toegevoegd.
 <img width="1625" height="964" alt="Scherm­afbeelding 2026-09-28 om 12 10 36" src="https://github.com/user-attachments/assets/5cde89a0-3795-4cfc-8871-da5c63f07391" />
@@ -162,6 +158,9 @@ Ik heb een overlay toegevoegd aan mijn site om alles bij elkaar te laten passen 
 ik heb feedback van sanne gekregen en ik moet mijn columns en rows aanpassen, accesibitliy testen en zorgen dat alle elementen van mijn site responsive zijn en mobile first is.
 
 </details>
+
+<details>
+<summary>🫧SPRINT 3</summary>
 
 <!-- SPRINT 3 -->
 
@@ -261,6 +260,27 @@ Ik heb mijn mijn lichtmode mooier gemaakt en een gradient toegevoegd, alle knopj
 
 Ik wil ook nog een feed-foward toevoegen zodat de gebruiker ziet dat ze op de vis moeten klikken omdat dit mijn feedback was bij feedback sessie op vrijdag.
 
-REFLECTIE
+</details>
+
+<details>
+<summary>🌝RETROSPECT</summary>
+Ik ben mijn werkblad van retrospect tijdens de verhuizing kwijtregaakt en heb de foto alleen op mijn kapotte telefoon maar ik heb uit mijn geheugen mijn metafoor opnieuw getekend.
+
+**RETROSPECT 2** <br>
+<img width="300" src="assets/fotos_readme/retrospect2.1.png"/>
+<img width="300" src="assets/fotos_readme/retrospect2.2.png"/>
+<img width="300" src="assets/fotos_readme/retrospect2.3.png/">
+
+**RETROSPECT 3**<br>
+<img width="300" src="assets/fotos_readme/retrospect3.1.png"/>
+<img width="300" src="assets/fotos_readme/retrospect3.2.png"/>
+<img width="300" src="assets/fotos_readme/retrospect3.3.png"/>
+<img width="300" src="assets/fotos_readme/retrospect3.4.png"/>
+
+</details>
+
+<details>
+<summary>🌸REFLECTIE</summary>
 Ik heb in dit blok erg veel geleerd en voelde voor mij ook een soort tweede introductie tot code, omdat ik vorig jaar wel een website had gemaakt maar geen idee had wat ik aan het doen was, en nu snapte ik wel iets beter hoe ik het moest aanpakken en heb ik wel heel veel geleerd en kan ik ook uitleggen wat ik nou heb geschreven en gemaakt. Ook was dit blok heel druk voor mij met mijn persoonlijke leven en heb ik vooral in sprint twee het erg druk gehad met mijn verhuizing en mijn achttiende verjaardag. Ook is in dit blok mijn telefoon stuk gegaan, waardoor ik een paar foto's kwijt bent geraakt van mijn progressie waardoor ik een van mijn metaforen helaas ben verloren en een lange tijd niet in dlo kon waardoor ik alles voor twee weken even niet zo goed meer volgden. Ontdanks dat heb ik voor mijn gevoel wel veel geleerd en ik weet nu hoe ik uit mezelf een basic website kan opbouwen waarmee ik wel heel erg blij ben en als ik echt in het coderen zat ging het af en toe ook wel heel lekker en was er zo een paar uur voorbij. Wat ik heel lastig vond in dit blok was ook zeker het coderen zoals denk ik wel veel anderen en liep ik vaak helemaal vast bij dingetjes die dan eigenlijk heel klein bleken te zijn. Ik had vaak het gevoel dat ik helemaal niet voor ogen had hoe ik verder moest en dat ik zo erg vastliep dat ik een soort blokkade kreeg en hierdoor ook helemaal niet verder ging werken en mijn werk heel erg ging uitstellen. Ik had in deze periode eigenlijk ook om hulp moeten vragen maar ik heb dit toen niet gedaan. Ik ben in de derde sprint meer aan de bak gegaan vergeleken met de andere sprints vorname de laatste anderhalve week, waar ik veel kleine aanpassingen heb gemaakt maar elke kleine aanpassing kost mij gelijk heel veel tijd om werkend te krijgen omdat ik heel veel dingen voor de eerste keer aan het doen was.
 Als ik dit blok opnieuw zou kunnen doen zou een groot thema optijd beginnen voor mij zijn. Ik heb in dit blok het gevoel gehad dat de druk in het begin heel laag was en langzaam steeds hoger werd, ik denk als ik het tempo wat ik de laatste week had voor mijn website het hele blok had gehad was mijn website uigebreider geweest en was ik er ook trotser op geweest. Ook had ik mijn readme niet zo goed bijgehouden wat ik volgende keer ook zeker anders zou doen. Ik hoorde in het begin dat de readme vooral voor jezelf was, ik had ook zeker meer aan mijn readme gezeten als het belang voor de readme op je cijfer meer was benadrukt.
+</details>
