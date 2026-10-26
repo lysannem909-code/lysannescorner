@@ -43,6 +43,8 @@ https://www.mbari.org/animal/deep-sea-anglerfish/
 
 </details>
 
+<details>
+<summary>⭐️Kick-off</summary>
 21 AUG
 
 Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.
@@ -63,9 +65,11 @@ Ik ben bij 2 deepdives geweest en heb mijn website werkend gemaakt (je kan het n
 
 <img width="300" alt="Scherm­afbeelding 2026-09-02 om 12 37 33" src="https://github.com/user-attachments/assets/eec9c9cb-8465-459b-91c9-2810c5881c4c" />
 
-4 SEP
+**4 SEP**<br>
 Ik heb een achtergrondkleur en een paar vakjes aan mijn site toegevoegd en de opdrachten van de lettertypes gemaakt van de deepdives.
 <img width="300" alt="Scherm­afbeelding 2026-09-06 om 17 55 01" src="https://github.com/user-attachments/assets/f92235d4-b135-4601-a4df-f261e727690a" />
+
+</details>
 
 SPRINT 1
 
