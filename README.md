@@ -44,17 +44,35 @@ Ik heb een achtergrondkleur en een paar vakjes aan mijn site toegevoegd en de op
 <img width="300" alt="Scherm­afbeelding 2026-09-06 om 17 55 01" src="https://github.com/user-attachments/assets/f92235d4-b135-4601-a4df-f261e727690a" />
 
 SPRINT 1
+
+<details>
+<summary>SPRINT 1</summary>
+
+<details>
+<summary>check-outs</summary>
+❔Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
+
+☞ Een digital garden is een plaats waar iemand alles wat ze zelf willen kwijt kunnen wat hun intereseert, en het groeit altijd door en veranderd. Het is niet per se gemaakt voor anderen zoals de meeste websites op het web maar uit de intresses en wat hun mooi vinden in hun eigen website.
+
+❔Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.
+
+☞ Een website is webby als het aan bepaalde eisen voldoet. Als het volwassen is door je in te lichten over wat er met je gegevens gedaan wordt, als het toegankelijk is op een kleiner scherm en te bedienen met het toetsenbord en grote knoppen heeft zodat idereen het kan bedienen. Ook moet tekst leesbaar zijn door de grootte, moet de pagina een goed contrast hebben tussen elementen ect.
+
+❔Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.)
+
+☞ Ik wil een site waar je informatie kan vinden over een bepaald onderwerp wat ik leuk vind, ik zit te denken aan verschillende dieptes in de zee en de dieren die daar leven.
+
+</details>
 7 SEP
 Ik heb vandaag op school verschillende websites bezoekt en gebruikt als eventuele inspiratie voor mijn website en een artikel over de geschiedenis van digital Gardens
 
 10sep
 <img width="300" alt="Scherm­afbeelding 2026-09-10 om 16 14 30" src="https://github.com/user-attachments/assets/597f7e77-24bb-4c68-bf19-7c89278d2705" />
 <img width="300" alt="Scherm­afbeelding 2026-09-10 om 16 30 36" src="https://github.com/user-attachments/assets/754c98f3-b700-4fe6-9786-76ddd3788be4" />
-<<<<<<< HEAD
 
 ? sep
-Weet niet precies wanneer dit was maar het was ergens hiertussen en ik heb visueel onderzoek gedaan naar mijn onderwerp<img width="382" height="767" alt="Scherm­afbeelding 2026-09-13 om 23 55 34" src="https://github.com/user-attachments/assets/bb712e2f-2309-45b5-a77e-5750bbdca64d" />
-<img width="416" height="567" alt="Scherm­afbeelding 2026-09-13 om 23 55 27" src="https://github.com/user-attachments/assets/aee49de4-ca30-4230-a929-5b04d9b29ba6" />
+Weet niet precies wanneer dit was maar het was ergens hiertussen en ik heb visueel onderzoek gedaan naar mijn onderwerp<img width="300" height="767" alt="Scherm­afbeelding 2026-09-13 om 23 55 34" src="https://github.com/user-attachments/assets/bb712e2f-2309-45b5-a77e-5750bbdca64d" />
+<img width="300" alt="Scherm­afbeelding 2026-09-13 om 23 55 27" src="https://github.com/user-attachments/assets/aee49de4-ca30-4230-a929-5b04d9b29ba6" />
 
 11 SEP
 Ik heb aan een van de deepdives meegedaan en hiervan de opdrachten gemaakt
@@ -70,6 +88,8 @@ Ik heb vandaag onderzoek gedaan naar mijn eerste 2 dieren en de astronaut en die
 <img width="300" alt="dumbooctopus" src="https://github.com/user-attachments/assets/7b31cf6f-f921-4c2a-a3e8-4cb5e7388e70" />
 <img width="300" alt="Scherm­afbeelding 2026-09-13 om 23 50 45" src="https://github.com/user-attachments/assets/c9f1b5c3-5ec7-4ee6-86a0-31440641fedb" />
 <img width="269" height="818" alt="Scherm­afbeelding 2026-09-13 om 23 58 35" src="https://github.com/user-attachments/assets/105242ab-6d04-4d35-8540-3eff5c0ee90c" />
+
+<details>
 
 SPRINT 2
 28 sep
@@ -153,7 +173,7 @@ Mijn songtekst opdracht verder gemaakt. Ik heb stipjes voor het biepende stukje 
 <img width="1011" height="925" alt="Scherm­afbeelding 2026-10-21 om 12 05 07" src="https://github.com/user-attachments/assets/77414d02-c573-4656-9020-bd68fdd2b281" />
 
 19-20 OKT
-Het grid van mijn site omgegooid, ik ben van horizontaal scrollen wat ik eerst wilde doen toch veranderd naar verticaal scrollen omdat dit op mobiel ook en stuk makkelijker is. Ik heb op 20 oktober mijn best gedaan om mijn site adaptief te maken en nu bewegen de elementen in de klomen mee met de site als je dit kleiner of groter maakt. Ik heb ook een mooiere astronaut getekend
+Het grid van mijn site omgegooid, ik ben van horizontaal scrollen wat ik eerst wilde doen toch veranderd naar verticaal scrollen omdat dit op mobiel ook en stuk makkelijker is. Ik heb op 20 oktober mijn best gedaan om mijn site adaptief te maken en nu bewegen de elementen in de klomen mee met de site als je dit kleiner of groter maakt. Ik heb ook een mooiere astronaut getekend. Ik heb in deze tijd ook mijn songtekst veranderd en adaptief gemaakt naar een kleiner scherm.
 <img width="300" src="assets/afbeeldingen/astronaut.PNG"/>
 
 21 OKT
