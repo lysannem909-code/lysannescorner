@@ -166,10 +166,11 @@ Ik heb vandaag onderzoek gedaan naar mijn eerste 2 dieren en de astronaut en die
 <img width="200" alt="astronaut" src="https://github.com/user-attachments/assets/8760c7d6-9ea1-4b6a-8230-bbc09c5e1b7a" />
 <img width="200" alt="dumbooctopus" src="https://github.com/user-attachments/assets/7b31cf6f-f921-4c2a-a3e8-4cb5e7388e70" />
 <img width="200" alt="Scherm­afbeelding 2026-09-13 om 23 50 45" src="https://github.com/user-attachments/assets/c9f1b5c3-5ec7-4ee6-86a0-31440641fedb" />
-<img width="200" alt="Scherm­afbeelding 2026-09-13 om 23 58 35" src="https://github.com/user-attachments/assets/105242ab-6d04-4d35-8540-3eff5c0ee90c" />
+<img width="400" alt="Scherm­afbeelding 2026-09-13 om 23 58 35" src="https://github.com/user-attachments/assets/105242ab-6d04-4d35-8540-3eff5c0ee90c" />
 
 <br>
 <br>
+
 **Informatie pagina's over mijn vissen**
 <br>
 
@@ -234,6 +235,7 @@ Ik kreeg tijdens de feedbacksessie te horen dat ik een apart kruisje moet toevoe
 <br>
 <br>
 Ik had hiervoor al schetsen gemaakt voor mijn cookie pop maar nog niet uitgewerkt. Mijn eerste idee was om een soort van plastic wrapper te doen van een chocolade bar of iets dergelijks om zo comentaar te geven aan de plastic soep die zich nu ook in de dieptes van de oceaan bevind, maar een koekje leek mij toch iets voor de hand liggender voor de gebruiker. Ik wilde wel graag een zinkende cookie.
+<br>
 <img width="300" src="assets/fotos_readme/cookiepopupschetsen1.heic"/>
 <img width="300" src="assets/fotos_readme/cookiepopupschetsen2.heic"/>
 <br>
@@ -243,7 +245,7 @@ _Mijn slecht getekende placeholder koekje:_
 <img width="300" src="assets/fotos_readme/cookies(oud).png"/>
 <br>
 <br>
--Ik heb vandaag mijn zinkende koekje voor mijn cookie pop up clickable gemaakt.
+Ik heb vandaag mijn zinkende koekje voor mijn cookie pop up ook clickable gemaakt.
 
 ## **1 OKT**
 
@@ -264,42 +266,64 @@ ik heb feedback van sanne gekregen en ik moet mijn site opnieuw inrichten met gr
 
 <details>
 <summary>🦎check-outs</summary>
-Check-out
-Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension. (Hint, alle termen staan in de artikelen die we samen gelezen hebben)
-kerning: de ruimte tussen twee spesifieke letters
-tracking:de ruimte tussen alle letter in een word of stuk tekst
-leading: de ruimte tussen regels
-flush-left: tekst aan de linkerkant
-flush-right: tekst aan de rechterkant
-centered: tekst in het midden
-justified: tekst aligned aan beide kanten
-indent: een stuk tekst die er bij de linkerkant een beetje naar voren springt (dus naar rechts) vergeleken met de andere tekst
-outdent:
-outdent: Hetzelfde maar dan aan de andere kant
-modular scale: letters die met dezelfde verhouding groter worden zodat je groottes hebt die bij elkaar passen in vergelijking ipv. willekeurige getallen
-movable type: losse verplaatsbare letters die je hierdoor op je eigen manier kan rangschikken en bijv de spacing van kan veranderen
-focus punt: het deel van het ontwerp waar je ogen eerst naartoe gaan, het meest opvallende
-vijf soorten contrast: gewicht, grootte, vorm, richting, positie
-spatial tension: de spanning die een ontwerp krijgt door lege ruimte, een element die aan de rand staat of als 2 elementen bijv bijna aanraken
 
-Wat is jouw ideale regellengte (measure)? Leg uit waarom.
+## **Check-out**
+
+_❔Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension. (Hint, alle termen staan in de artikelen die we samen gelezen hebben)_
+<br>
+
+**kerning:** de ruimte tussen twee spesifieke letters
+
+**tracking:** de ruimte tussen alle letter in een word of stuk tekst
+
+**leading:** de ruimte tussen regels
+
+**flush-left:** tekst aan de linkerkant
+
+**flush-right:** tekst aan de rechterkant
+
+**centered:** tekst in het midden
+
+**justified:** tekst aligned aan beide kanten
+
+**indent:** een stuk tekst die er bij de linkerkant een beetje naar voren springt (dus naar rechts) vergeleken met de andere tekst
+
+**outdent:** Hetzelfde maar dan aan de andere kant
+
+**modular scale:** letters die met dezelfde verhouding groter worden zodat je groottes hebt die bij elkaar passen in vergelijking ipv. willekeurige getallen
+
+**movable type:** losse verplaatsbare letters die je hierdoor op je eigen manier kan rangschikken en bijv de spacing van kan veranderen
+
+**focus punt:** het deel van het ontwerp waar je ogen eerst naartoe gaan, het meest opvallende
+
+**vijf soorten contrast:** gewicht, grootte, vorm, richting, positie
+
+**spatial tension:** de spanning die een ontwerp krijgt door lege ruimte, een element die aan de rand staat of als 2 elementen bijv bijna aanraken
+<br>
+<br>
+
+_❔Wat is jouw ideale regellengte (measure)? Leg uit waarom._
+
 door een korte regel krijgt je regel veel afberkingen en word het een irritant om te lezen omdat je heel vaak van lijn moet wisselen en bij een te lange zin haken mensen al vaak af. Volgens een artiekel van cursuswsp ligt de ideale regellengte tussen de 45-75, ik zou hiertussen zelf het liefst de kortere regel van bijv 50 tekens lezen omdat ik dan het gevoel heb dat ik sneller door een tekst heen kom en dit motiveert mij om verder te lezen.
+<br>
+<br>
 
-Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
+_Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?_
+
 grootte, ik vind grootte de duidelijkste indicator van wat het belangrijkste is in een tekst (kwa wat je eerst leest en wat daarna komt) en je kan het altijd dramatischer maken voor een grotere nadruk op bijv de titel.
 
-7 OKT
-Check-out
+## **7 OKT**
 
-Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
-Een grid is goed omdat je overzicht hebt waar je alles hebt geplaatst en je je grid ook kan aanpassen op een manier dat het mobile friendly is. Ook worden in de ontwerp-wereld grids veel toegepast dus het is een universele taal die zowel codeurs en ontwerpers allebei begrijpen.
+**Check-out**
 
-Noem drie manieren om chaos in je ontwerp te voorkomen.
+**❔Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.**
+☞Een grid is goed omdat je overzicht hebt waar je alles hebt geplaatst en je je grid ook kan aanpassen op een manier dat het mobile friendly is. Ook worden in de ontwerp-wereld grids veel toegepast dus het is een universele taal die zowel codeurs en ontwerpers allebei begrijpen.
 
-1. grids, 2. goed contrast zodat alles leesbaar is 3. visuele hierachie
+**❔Noem drie manieren om chaos in je ontwerp te voorkomen.**
+☞1. grids, 2. goed contrast zodat alles leesbaar is 3. visuele hierachie
 
-Hoeveel gekkigheid moet er in je werk zitten?
-Genoeg om het leuk te maken maar niet zoveel dat het onoverzichtelijk is, teveel felle kleuren is vaak zijn niet zo prettig om naar te kijken maar bij te weinig kleuren wordt het te saai.
+**❔Hoeveel gekkigheid moet er in je werk zitten?**
+☞Genoeg om het leuk te maken maar niet zoveel dat het onoverzichtelijk is, teveel felle kleuren is vaak zijn niet zo prettig om naar te kijken maar bij te weinig kleuren wordt het te saai.
 
 </details>
 
@@ -329,31 +353,53 @@ Mijn songtekst opdracht verder gemaakt. Ik heb stipjes voor het biepende stukje 
 
 ## **19-20 OKT**
 
+Schetsen gemaakt voor mijn nieuwe site lay-out.
+<img width="300" src="assets/fotos_readme/layoutschetsen.png"/>
+<br>
+<br>
 Het grid van mijn site omgegooid, ik ben van horizontaal scrollen wat ik eerst wilde doen toch veranderd naar verticaal scrollen omdat dit op mobiel ook en stuk makkelijker is. Ik heb op 20 oktober mijn best gedaan om mijn site adaptief te maken en nu bewegen de elementen in de klomen mee met de site als je dit kleiner of groter maakt. Ik heb ook een mooiere astronaut getekend. Ik heb in deze tijd ook mijn songtekst veranderd en adaptief gemaakt naar een kleiner scherm.
 <img width="300" src="assets/afbeeldingen/astronaut.PNG"/>
 
-21 OKT
-Verder gewerkt aan mijn site en al mijn vissen onder elkaar gezet. Ook 2 knopjes toegevoegd en gestyled, eentje voor mijn experiment en voor mijn readme. Ook feedback gekregen en gegeven in groepjes. Mijn feedback staat hieroner.
+## **21 OKT**
 
-22 OKT
+Verder gewerkt aan mijn site en al mijn vissen onder elkaar gezet. Ook feedback gekregen en gegeven in groepjes. Mijn feedback staat hieronder.
+<br>
+<img width="300" src="assets/fotos_readme/feedback1.heic"/>
+<img width="300" src="assets/fotos_readme/feedback2.heic"/>
+<br>
+<br>
+
+# Wat ik wil meenemen van de feedback:
+
+⭐︎ Mijn songtekst responsive maken
+⭐︎ De inhoud van mijn cookie pop-up accuraat maken
+⭐︎ Feed-forward voor het kunnen klikken op de vissen
+
+## **22 OKT**
+
 Mijn cookie popup gefixt (github privacy statement toegevoegd) en de knopjes in mijn cookie pop up werkend gemaakt.
 Een wavy grond toegevoegd: https://css-generators.com/wavy-shapes/
 https://css-tip.com/css-wavy-shape/
 (dit is niet gelukt ik heb uiteindelijk een radial gradient gebruikt)
-Ik heb ook knophes toegevoegd voor mijn learning log en songtekst.
+Ik heb ook knopjes toegevoegd voor mijn learning log en songtekst.
 
-23 OKT
-Ik heb stijgende bubbels toegevoegd en mijn tekst groter gemaakt om mijn site toegankelijker te maken. Ik heb de bronnen die ik voor mijn code heb gebruikt ook in mijn code gezet.
+## **23 OKT**
+
+Ik heb stijgende bubbels toegevoegd, mijn tekst groter gemaakt om mijn site toegankelijker te maken. Ik heb de bronnen die ik voor mijn code heb gebruikt ook in mijn code gezet.
 Screenreader uitgetest, de screenreader werkt maar ik moet nog wel een paar dingen op te lossen om het toegankelijker te maken. Zoals mijn alt teksten duidelijker maken en aria labels toevoegen.
-Ik heb voor puur decoratieven elementen aria-hidden="true" gebruikt zodat dit niet op de screenreader voorgelezen wordt.
+Ik heb voor puur decoratieve elementen aria-hidden="true" gebruikt zodat dit niet op de screenreader voorgelezen wordt.
 bron: https://www.a11yiseverything.com/articles/hiding-elements/
 
-25 OKT
+## **25 OKT**
+
 Ik heb een gradient toegevoegd aan mijn pagina die veranderd liggend aan light en dark mode.
-Ik heb mijn screenreader uitgetest en het werkt goed. mijn aria labels worden weegeven en alle vis knoppen staat bij formulier regelaars, en de link naar mijn sontekst en github. Door vanaf daar de knop in te drukken en daarna option control a word de popover voorgelezen.
+Ik heb light en dark mode mooier gemaakt zodat ook de details zoals hover states er goed uitzien.
+Ik heb mijn screenreader uitgetest en het werkt goed. mijn aria labels worden weegeven en alle vis knoppen staat bij formulier regelaars, en de link naar mijn sontekst en github. Door vanaf daar de knop in te drukken en daarna option control a wordt de popover voorgelezen.
 Ook heb ik twee eigen bubbels getekend om mijn oude bubbel van het internet te vervangen.
 <img width="300" src="assets/afbeeldingen/bubbel.png">
 <img width="300" src="assets/afbeeldingen/bubbel2.png">
+<br>
+<br>
 Wat ik nog wil doen voor toegankelijkheid:
 -Een terug knop aan de songtekst toevgoegen binnen de pagina
 -Mijn contrast testen met kleurenblind filters
@@ -364,6 +410,12 @@ Ik heb heb mijn zelfgeschreven tekst over de hengelvis met AI korter gemaakt omd
 Ik heb mijn mijn lichtmode mooier gemaakt en een gradient toegevoegd, alle knopjes en popovers ook variants gegeven
 
 Ik wil ook nog een feed-foward toevoegen zodat de gebruiker ziet dat ze op de vis moeten klikken omdat dit mijn feedback was bij feedback sessie op vrijdag.
+
+## **26 OKT**
+
+Ik had vandaag de expo, hier is mijn feedback:
+<img width="300" src="assets/fotos_readme/feedback4.HEIC"/>
+<img width="300" src="assets/fotos_readme/feedback3.HEIC"/>
 
 </details>
 
@@ -403,6 +455,21 @@ Dit is een overzicht van al mijn tekeningen voor mijn website:
 
 <details>
 <summary>🌸REFLECTIE</summary>
-Ik heb in dit blok erg veel geleerd en voelde voor mij ook een soort tweede introductie tot code, omdat ik vorig jaar wel een website had gemaakt maar geen idee had wat ik aan het doen was, en nu snapte ik wel iets beter hoe ik het moest aanpakken en heb ik wel heel veel geleerd en kan ik ook uitleggen wat ik nou heb geschreven en gemaakt. Ook was dit blok heel druk voor mij met mijn persoonlijke leven en heb ik vooral in sprint twee het erg druk gehad met mijn verhuizing en mijn achttiende verjaardag. Ook is in dit blok mijn telefoon stuk gegaan, waardoor ik een paar foto's kwijt bent geraakt van mijn progressie waardoor ik een van mijn metaforen helaas ben verloren en een lange tijd niet in dlo kon waardoor ik alles voor twee weken even niet zo goed meer volgden. Ontdanks dat heb ik voor mijn gevoel wel veel geleerd en ik weet nu hoe ik uit mezelf een basic website kan opbouwen waarmee ik wel heel erg blij ben en als ik echt in het coderen zat ging het af en toe ook wel heel lekker en was er zo een paar uur voorbij. Wat ik heel lastig vond in dit blok was ook zeker het coderen zoals denk ik wel veel anderen en liep ik vaak helemaal vast bij dingetjes die dan eigenlijk heel klein bleken te zijn. Ik had vaak het gevoel dat ik helemaal niet voor ogen had hoe ik verder moest en dat ik zo erg vastliep dat ik een soort blokkade kreeg en hierdoor ook helemaal niet verder ging werken en mijn werk heel erg ging uitstellen. Ik had in deze periode eigenlijk ook om hulp moeten vragen maar ik heb dit toen niet gedaan. Ik ben in de derde sprint meer aan de bak gegaan vergeleken met de andere sprints vorname de laatste anderhalve week, waar ik veel kleine aanpassingen heb gemaakt maar elke kleine aanpassing kost mij gelijk heel veel tijd om werkend te krijgen omdat ik heel veel dingen voor de eerste keer aan het doen was.
-Als ik dit blok opnieuw zou kunnen doen zou een groot thema optijd beginnen voor mij zijn. Ik heb in dit blok het gevoel gehad dat de druk in het begin heel laag was en langzaam steeds hoger werd, ik denk als ik het tempo wat ik de laatste week had voor mijn website het hele blok had gehad was mijn website uigebreider geweest en was ik er ook trotser op geweest. Ook had ik mijn readme niet zo goed bijgehouden wat ik volgende keer ook zeker anders zou doen. Ik hoorde in het begin dat de readme vooral voor jezelf was, ik had ook zeker meer aan mijn readme gezeten als het belang voor de readme op je cijfer meer was benadrukt.
+
+## **⭐️Wat ging er goed?**
+
+Ik vond het begin van het project het makkelijkst omdat schetsen, conceptualiseren ect mij wel ligt en ik vind visueel denken het leukst. De visual thinking opdracht vond ik erg leuk om te doen.Ook het tekenen van de astronaut, vissen, en de cookie vond ik heel leuk om te doen. Ook heb ik aan het eind een stuk meer doorgewerkt vergeleken met de rest van de sprinten en ik zit er nu ook wel goed in waardoor ik denk dat ik volgend blok ook met een goed tempo kan beginnen. Ook heb ik een soort van tweede introductie tot code gehad en mertke dat ik in het laatste stukje er een (heel) beetje gevoel ging krijgen omdat ik er goed in zat.
+
+## **🦐Wat kon er beter?**
+
+In sprint twee heb ik eigenlijk niet genoeg gedaan waardoor de druk op sprint 3 er een stuk meer in zat. Ik merk dat ik ook niet heel goed ga op die stres dus dat is echt een verbeterpunt voor mij, ik moet het echt beter bijhouden en zorgen dat ik bij blijf. Nou was dit voor mij in dit blok wel iets lastiger omdat het in mijn persoonlijk leven ook erg druk was vanwege mijn verjaardag en verhuizing, en een tijdje geen toegang tot DLO, dus dat is deels wel een verklaring maar niet echt een excuus want ik had zeker genoeg tijd om bijv. een stuk eerder met mijn acessablity te beginnen en een paar minuten per keer aan mijn readme. Ook liep ik uiteindelijk echt helemaal vast en wist ik even niet meer hoe ik verder moest, ik heb toen niet voor hulp gevraagd en dat heeft ook mijn eindproduct negatief beinvloed. Ook meer foto's maken van mijn werk en wat ik op school allemaal heb gedaan want dit ben ik vaak vergeten en als ik dit deed stelde ik het in mijn read-me zetten erg uit.
+
+## **☀️Wat heb ik geleerd?**
+
+Dit blok was voor mij een soort tweede introductie voor code, toen ik vorig jaar een website moest maken had ik echt geen idee wat ik aan het doen was en heb ik er weinig van geleerd. Dit blok was dat zeker anders en ik snapte wel iets meer wat ik aan het doen was en kon af en toe zo erg bezig zijn dat er een paar uur voorbij was gegaan en dat ik de tijd gewoon niet door had. Dus zeker de basisprincipies basis van code zit er nu wel een beetje in bij mij en het voelt echt goed als iets dat je wilde doen ook daadwerkelijk werkt.
+
+## **🤔Wat zou ik veranderen/toevoegen als ik meer tijd had?**
+
+Ik zou zeker meer vissen toevoegen en mijn grid nog een keer aanpassen. Ik vind grids best lastig maar het wordt nu op de telefoon een beetje smal kwa naar beneden scrollen en op de laptop juist iets te lang, het is nu de dag voor de deadline dat ik dit schrijf dus ik zou het morgen nog kunnen proberen met een mediaquery als ik hier tijd voor heb. Ook zou ik een delay toevoegen in het begin aan mijn bubbels zodat ze een voor een naar boven komen en misschien ook enge ambient geluiden om dat lonley gevoel in de zee een beetje te versterken. Ook zou ik mijn licht mode aanpassen naar de astronaut met een zaklamp ipv een lichte achtergrond, ik vind de lichte achtergrond mooi maar vind het niet passen bij mijn thema.
+
 </details>
