@@ -331,9 +331,9 @@ grootte, ik vind grootte de duidelijkste indicator van wat het belangrijkste is 
 
 Intro gekregen songtekst opdracht, liedje gekozen (ik heb voor ik vergeet va spinvis gekozen) schetsen gemaakt en de songtekst een beetje geanalyseerd.
 <img width="300" src="assets/fotos_readme/spinvischets1.png"/>
-<img width="300" src="assets/fotos_readme/spinvischets.png"/>
-<img width="300" src="assets/fotos_readme/spinvischets2.png"/>
-<img width="300" src="assets/fotos_readme/spinvischets3.png"/>
+<img width="300" src="assets/fotos_readme/spinvisschets.png">
+<img width="300" src="assets/fotos_readme/spinvisschets3.png">
+<img width="300" src="assets/fotos_readme/spinvisschets2.png">
 <br>
 Mijn idee voor layout was om het te laten lijken op een gedicht omdat ik de songtekst erg op een gedicht vind lijken.
 
