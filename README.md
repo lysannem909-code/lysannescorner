@@ -327,11 +327,15 @@ grootte, ik vind grootte de duidelijkste indicator van wat het belangrijkste is 
 
 </details>
 
-Intro gekregen songtekst opdracht, liejde gekozen (ik heb voor ik vergeet va spinvis gekozen) schetsen gemaakt en de songtekst een beetje geanalyseerd.
-<img width="300"src="assets/fotos_readme/spinvischets1.png">
-<img width="300" src="assets/fotos_readme/spinvischets2.png">
-<img width="300" src="assets/fotos_readme/spinvischets3.png">
-<img width="300" src="assets/fotos_readme/spinvischets.png">
+## **Schetsen songtekst opdracht**
+
+Intro gekregen songtekst opdracht, liedje gekozen (ik heb voor ik vergeet va spinvis gekozen) schetsen gemaakt en de songtekst een beetje geanalyseerd.
+<img width="300" src="assets/fotos_readme/spinvischets1.png"/>
+<img width="300" src="assets/fotos_readme/spinvischets.png"/>
+<img width="300" src="assets/fotos_readme/spinvischets2.png"/>
+<img width="300" src="assets/fotos_readme/spinvischets3.png"/>
+<br>
+Mijn idee voor layout was om het te laten lijken op een gedicht omdat ik de songtekst erg op een gedicht vind lijken.
 
 ## **6 OKT**
 
@@ -458,7 +462,7 @@ Dit is een overzicht van al mijn tekeningen voor mijn website:
 
 ## **⭐️Wat ging er goed?**
 
-Ik vond het begin van het project het makkelijkst omdat schetsen, conceptualiseren ect mij wel ligt en ik vind visueel denken het leukst. De visual thinking opdracht vond ik erg leuk om te doen.Ook het tekenen van de astronaut, vissen, en de cookie vond ik heel leuk om te doen. Ook heb ik aan het eind een stuk meer doorgewerkt vergeleken met de rest van de sprinten en ik zit er nu ook wel goed in waardoor ik denk dat ik volgend blok ook met een goed tempo kan beginnen. Ook heb ik een soort van tweede introductie tot code gehad en mertke dat ik in het laatste stukje er een (heel) beetje gevoel ging krijgen omdat ik er goed in zat.
+Ik vond het begin van het project het makkelijkst omdat schetsen, conceptualiseren ect mij wel ligt en ik vind visueel denken het leukst. De visual thinking opdracht vond ik erg leuk om te doen.Ook het tekenen van de astronaut, vissen, en de cookie vond ik heel leuk om te doen. Ook heb ik aan het eind een stuk meer doorgewerkt vergeleken met de rest van de sprinten en ik zit er nu ook wel goed in waardoor ik denk dat ik volgend blok ook met een goed tempo kan beginnen. Ook heb ik met de code dat ik rond het eind een (heel) beetje het gevoel ging krijgen dat ik er goed in zat.
 
 ## **🦐Wat kon er beter?**
 
