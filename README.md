@@ -521,7 +521,7 @@ en mijn css met https://jigsaw.w3.org/css-validator/validator
 
 <br>
 Ook heb ik als laatste toevoeging nog feed-forward toegevoegd voor de gebruiker om op de vis te klikken. Op een groot scherm schaalt het alleen een beetje raar mee en dit zou ik veranderen als ik nog tijd had.
-<img width="300" src="assets/fotos_readme/klikdevis.png>
+<img width="300" src="assets/fotos_readme/klikdevis.png">
 </details>
 
 <details>
