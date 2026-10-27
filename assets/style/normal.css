@@ -23,11 +23,11 @@
 html {
   color-scheme: light dark;
   --text-color: light-dark(rgb(0, 9, 8), rgb(255, 255, 255));
-
+  --knopjes-kleur: light-dark(rgb(222, 240, 235), rgb(0, 25, 23));
   --popover-background: light-dark(rgb(128, 205, 180), #061e19);
   --popover-border: light-dark(rgb(64, 168, 135), rgb(2, 40, 36));
   background: #04382e;
-  --link-hover: light-dark(rgb(206, 255, 239), rgb(0, 13, 12));
+  --link-hover: light-dark(rgb(236, 255, 249), rgb(0, 13, 12));
   --gradient-dark: linear-gradient(
     180deg,
     rgba(4, 56, 46, 1) 1%,
@@ -120,8 +120,8 @@ header {
   /* #MARK: linkjes */
 
   a {
-    color: (var(--text-color));
-    background: var(--popover-background);
+    color: var(--text-color);
+    background: var(--knopjes-kleur);
     padding: 1em;
     transition: 0.4s ease-in-out;
     text-decoration: none;
@@ -179,10 +179,6 @@ h2 {
   grid-row: 1;
   align-self: center;
   grid-column: 2;
-}
-
-button[popovertargetaction="hide"]:first-child {
-  align-self: right;
 }
 
 :not(button, h2) {

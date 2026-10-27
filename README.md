@@ -1,5 +1,3 @@
-Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
-
 <details>
 <summary>Bronnenlijst:</summary>
 
@@ -433,13 +431,21 @@ Ik wil ook nog een feed-foward toevoegen zodat de gebruiker ziet dat ze op de vi
 Ik had vandaag de expo, hier is mijn feedback:
 <img width="300" src="assets/fotos_readme/feedback4.HEIC"/>
 <img width="300" src="assets/fotos_readme/feedback3.HEIC"/>
+Ik heb als feedback van de stickers gekregen om een decline knop te maken bij de cookie pop die je evt naar een nieuw tabblad brengt up en het scrollen minder lang te maken op de laptop. De cookie feedback pas ik niet aan omdat de meeste sites die ik heb bezocht je niet naar een andere pagina sturen als je op decline klikt omdat iemand dit heel gemakkelijk zelf kan doen. Ik zou mijn grid met meer tijd nog aanpassen, maar alleen zodat je langer kan scrollen op je mobiel om de leegte van de zee te benadrukken.
 
 ## **27 OKT**
 
 Ik heb claude een klein stukje over de phantomjellyfish laten schrijven. Ik had dit met meer tijd zelf gedaan maar ik wilde nog even voor andere dingen de puntjes op de i zetten.
-Ik heb de margins van de popovers veranderd zodat het beter schaalt. Ik heb mijn contrast ook gecheked met de contrast checker en bij de light mode bleek de de kleine tekst boven in site te weinig contrast te hebben, dus dit heb ik nog veranderd. Bij de dark mode was het wel allemaal goed.
+Ik heb de margins van de popovers veranderd zodat het beter schaalt. Ik heb mijn contrast ook gecheked met de contrast checker en bij de light mode bleek de de kleine tekst boven in site te weinig contrast te hebben, dus dit heb ik nog veranderd. Bij de dark mode was het wel allemaal goed. Ik heb mijn achtergrond bij de light mode hiervoor ook iets lichter gemaakt en mijn knopjes hierdoor ook.
 <img width="200" src="assets/fotos_readme/contrastchecker.png">
 <img width="200" src="assets/fotos_readme/contrastchecker2.png">
+
+<br>
+<br>
+
+Ik heb mijn html gechecked met https://validator.w3.org/nu/#textarea
+en mijn css met https://jigsaw.w3.org/css-validator/validator
+En heb alle errors eruit gehaald behalve de errors over een dubbele src bij het javascript want daar zit ik liever niet aan. Ik heb dit ook bij mijn css gedaan en twee errors uit mijn code gehaald.
 
 </details>
 
@@ -480,8 +486,10 @@ Dit is een overzicht van al mijn tekeningen voor mijn website:
 </details>
 
 <details> 
-<summary>ONDERZOEK</summary>
-Dit is een copy and paste van het word document die ik heb gebruikt om alles wat waar ik onderzoek naar heb gedaan in sprint 1 en 2 (niet zo heel netjes) te noteren.
+<summary>👩🏼‍🔬ONDERZOEK</summary>
+
+## **Dit is een copy and paste van het word document die ik heb gebruikt om alles wat waar ik onderzoek naar heb gedaan in sprint 1 en 2 (niet zo heel netjes) te noteren.**
+
 <br>
 <br>
 Onderzoek diepzee creatures
@@ -557,11 +565,11 @@ Ik vond het begin van het project het makkelijkst omdat ideeen bedenken en het d
 
 ## **🦐Wat kon er beter?**
 
-In sprint twee heb ik eigenlijk niet genoeg gedaan waardoor de druk op sprint 3 er een stuk meer in zat. Ik merk dat ik ook niet heel goed ga op die stres dus dat is echt een verbeterpunt voor mij, ik moet het echt beter bijhouden en zorgen dat ik bij blijf. Nou was dit voor mij in dit blok wel iets lastiger omdat het in mijn persoonlijk leven ook erg druk was vanwege mijn verjaardag en verhuizing, en een tijdje geen toegang tot DLO, dus dat is deels wel een verklaring maar niet echt een excuus want ik had zeker genoeg tijd om bijv. een stuk eerder met mijn acessablity te beginnen en een paar minuten per keer aan mijn readme. Ook liep ik uiteindelijk echt helemaal vast en wist ik even niet meer hoe ik verder moest, ik heb toen niet voor hulp gevraagd en dat heeft ook mijn eindproduct negatief beinvloed. Ook meer foto's maken van mijn werk en wat ik op school allemaal heb gedaan want dit ben ik vaak vergeten en als ik dit deed stelde ik het in mijn read-me zetten erg uit.
+In sprint twee heb ik eigenlijk niet genoeg gedaan waardoor de druk op sprint 3 er een stuk meer in zat. Ik merk dat ik ook niet heel goed ga op die stres dus dat is echt een verbeterpunt voor mij, ik moet het echt beter bijhouden en zorgen dat ik bij blijf. Nou was dit voor mij in dit blok wel iets lastiger omdat het in mijn persoonlijk leven ook erg druk was vanwege mijn verjaardag en verhuizing, en een tijdje geen toegang tot DLO, dus dat is deels wel een verklaring maar niet echt een excuus want ik had zeker genoeg tijd om bijv. een stuk eerder met mijn accessablity te beginnen en een paar minuten per keer aan mijn readme. Ook liep ik uiteindelijk echt helemaal vast en wist ik even niet meer hoe ik verder moest, ik heb toen niet voor hulp gevraagd en dat heeft ook mijn eindproduct negatief beinvloed. Ook meer foto's maken van mijn werk en wat ik op school allemaal heb gedaan want dit ben ik vaak vergeten en als ik dit deed stelde ik het in mijn read-me zetten erg uit.
 
 ## **☀️Wat heb ik geleerd?**
 
-Dit blok was voor mij een soort tweede introductie voor code, toen ik vorig jaar een website moest maken had ik echt geen idee wat ik aan het doen was en heb ik er weinig van geleerd. Dit blok was dat zeker anders en ik snapte wel iets meer wat ik aan het doen was en kon af en toe zo erg bezig zijn dat er een paar uur voorbij was gegaan en dat ik de tijd gewoon niet door had. Dus zeker de basisprincipies basis van code zit er nu wel een beetje in bij mij en het voelt echt goed als iets dat je wilde doen ook daadwerkelijk werkt.
+Dit blok was voor mij een soort tweede introductie voor code, toen ik vorig jaar een website moest maken had ik echt geen idee wat ik aan het doen was en heb ik er weinig van geleerd. Dit blok was dat zeker anders en ik snapte wel iets meer wat ik aan het doen was en kon af en toe zo erg bezig zijn dat er een paar uur voorbij was gegaan en dat ik de tijd gewoon niet door had. Dus zeker de basis van code zit er nu wel een beetje in bij mij en het voelt echt goed als iets dat je wilde doen ook daadwerkelijk werkt.
 
 ## **🤔Wat zou ik veranderen/toevoegen als ik meer tijd had?**
 
