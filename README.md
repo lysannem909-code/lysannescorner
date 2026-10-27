@@ -443,10 +443,13 @@ Ik heb de margins van de popovers veranderd zodat het beter schaalt. Ik heb mijn
 <br>
 <br>
 
+En heb alle errors eruit gehaald behalve de errors over een dubbele src bij het javascript want daar zit ik liever niet aan. Ik heb dit ook bij mijn css gedaan en twee errors uit mijn code gehaald.
 Ik heb mijn html gechecked met https://validator.w3.org/nu/#textarea
 en mijn css met https://jigsaw.w3.org/css-validator/validator
-En heb alle errors eruit gehaald behalve de errors over een dubbele src bij het javascript want daar zit ik liever niet aan. Ik heb dit ook bij mijn css gedaan en twee errors uit mijn code gehaald.
 
+<br>
+Ook heb ik als laatste toevoeging nog feed-forward toegevoegd voor de gebruiker om op de vis te klikken. Op een groot scherm schaalt het alleen een beetje raar mee en dit zou ik veranderen als ik nog tijd had.
+<img width="300" src="assets/fotos_readme/klikdevis.png>
 </details>
 
 <details>

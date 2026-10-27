@@ -226,7 +226,7 @@ button[popovertarget="telescopefish"]:not([popovertargetaction="hide"]) {
   border: none;
   z-index: 1;
   grid-column: 8;
-  grid-row: 37;
+  grid-row: 45;
   cursor: pointer;
   /* https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/cursor */
 }
@@ -271,8 +271,8 @@ button[popovertarget="telescopefish"]:not([popovertargetaction="hide"]) {
 button[popovertarget="dumbooctopus"]:not([popovertargetaction="hide"]) {
   /* dit betekent dat de css hieronder geld voor alle knoppen binnen het dumbooctopus stukje behalve de popovertargetaction=hide waardoor die niet beweegt en de styling van wat hieronder krijgt. */
   animation: bounce 1s ease-in-out infinite;
-  grid-column: 14;
-  grid-row: 55;
+  grid-column: 10;
+  grid-row: 65;
   transition: 0.3s;
   background: none;
   border: none;
@@ -292,8 +292,8 @@ button[popovertarget="dumbooctopus"]:not([popovertargetaction="hide"]) {
 [popovertarget="anglerfish"]:not([popovertargetaction="hide"]) {
   /* dit betekent dat de css hieronder geld voor alle knoppen binnen het anglerfish stukje behalve de popovertargetaction=hide waardoor die niet beweegt. */
   animation: bounce 2.5s ease-in-out infinite;
-  grid-row: 23;
-  grid-column: 15;
+  grid-row: 26;
+  grid-column: 9;
   transition: 0.3s;
   background: none;
   border: none;
@@ -317,11 +317,11 @@ button[popovertarget="dumbooctopus"]:not([popovertargetaction="hide"]) {
 [popovertarget="phantomjelly"]:not([popovertargetaction="hide"]) {
   /* dit betekent dat de css hieronder geld voor alle knoppen binnen het phantomjelly stukje behalve de popovertargetaction=hide waardoor die niet beweegt. */
   animation: bounce 4s ease-in-out infinite;
-  grid-row: 65;
+  grid-row: 80;
+  grid-column: 1;
   transition: 0.3s;
   background: none;
   border: none;
-  grid-column: 1;
   cursor: pointer;
   /* https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/cursor */
 }
@@ -358,7 +358,7 @@ button[popovertarget="bigfinsquid"]:not([popovertargetaction="hide"]) {
   background: none;
   border: none;
   z-index: 1;
-  grid-column: 7;
+  grid-column: 5;
   grid-row: 190;
   animation: bounce 2s ease-in-out infinite;
   transition: 0.3s;
@@ -416,6 +416,11 @@ img[alt="Privacy statement, meer informatie"]:hover {
 }
 
 /* #MARK: bubbels */
+
+.klikmij {
+  grid-row: 23;
+  grid-column: 15;
+}
 
 .bubbel1 {
   animation: bubbels 20s infinite;
