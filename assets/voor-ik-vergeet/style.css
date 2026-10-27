@@ -195,8 +195,8 @@ section:nth-of-type(12) {
   50% {
     font-variation-settings:
       "wght" 200,
-      "SRFS" 60;`
-      /* bron: variable fonts deepdive */
+      "SRFS" 60;
+    /* bron: variable fonts deepdive */
     letter-spacing: 0.55em;
   }
   100% {

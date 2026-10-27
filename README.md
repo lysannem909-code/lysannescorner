@@ -335,18 +335,22 @@ Intro gekregen songtekst opdracht, liedje gekozen (ik heb voor ik vergeet va spi
 <img width="300" src="assets/fotos_readme/spinvisschets3.png">
 <img width="300" src="assets/fotos_readme/spinvisschets2.png">
 <br>
-Mijn idee voor layout was om het te laten lijken op een gedicht omdat ik de songtekst erg op een gedicht vind lijken.
+Mijn idee voor layout was om het te laten lijken op een gedicht omdat ik de songtekst erg op een gedicht vind lijken. Ook heb ik de songtekst een beethe geanalyseerd.
 
 ## **6 OKT**
 
 Eerste versie in css uitgewerkt
 <img width="300" src="assets/fotos_readme/spinvis_eersteversie.png">
-
+<br>
+<br>
 Meegedaan met de deepdive van Sanne met variable fonts.
+<img width="200" src="assets/fotos_readme/variablefontsdeepdive1.png">
+<img width="200" src="assets/fotos_readme/variablefontsdeepdive2.png">
 
 ## **10 OKT**
 
 verder gewerkt aan mijn songtext en nieuwe schetsen gemaakt.
+<img width="300" src="assets/fotos_readme/spinvisproces1.png">
 
 herfstvakantie
 
@@ -376,8 +380,11 @@ Verder gewerkt aan mijn site en al mijn vissen onder elkaar gezet. Ook feedback 
 # Wat ik wil meenemen van de feedback:
 
 ⭐︎ Mijn songtekst responsive maken
+--> Dit heb ik gedaan
 ⭐︎ De inhoud van mijn cookie pop-up accuraat maken
+--> Dit heb ik ook gedaan
 ⭐︎ Feed-forward voor het kunnen klikken op de vissen
+--> Dit ga ik nog doen
 
 ## **22 OKT**
 
@@ -400,6 +407,8 @@ Ik heb een gradient toegevoegd aan mijn pagina die veranderd liggend aan light e
 Ik heb light en dark mode mooier gemaakt zodat ook de details zoals hover states er goed uitzien.
 Ik heb mijn screenreader uitgetest en het werkt goed. mijn aria labels worden weegeven en alle vis knoppen staat bij formulier regelaars, en de link naar mijn sontekst en github. Door vanaf daar de knop in te drukken en daarna option control a wordt de popover voorgelezen.
 Ook heb ik twee eigen bubbels getekend om mijn oude bubbel van het internet te vervangen.
+<img width="300" src="assets/fotos_readme/sitedarkmode.png">
+<img width="300" src="assets/fotos_readme/sitelightmode.png">
 <img width="300" src="assets/afbeeldingen/bubbel.png">
 <img width="300" src="assets/afbeeldingen/bubbel2.png">
 <br>
@@ -421,11 +430,18 @@ Ik had vandaag de expo, hier is mijn feedback:
 <img width="300" src="assets/fotos_readme/feedback4.HEIC"/>
 <img width="300" src="assets/fotos_readme/feedback3.HEIC"/>
 
+## **27 OKT**
+
+Ik heb claude een klein stukje over de phantomjellyfish laten schrijven. Ik had dit met meer tijd zelf gedaan maar ik wilde nog even voor andere dingen de puntjes op de i zetten.
+Ik heb de margins van de popovers veranderd zodat het beter schaalt. Ik heb mijn contrast ook gecheked met de contrast checker en bij de light mode bleek de de kleine tekst boven in site te weinig contrast te hebben, dus dit heb ik nog veranderd. Bij de dark mode was het wel allemaal goed.
+<img width="300" src="assets/fotos_readme/contrastchecker.png">
+<img width="300" src="assets/fotos_readme/contrastchecker2.png">
+
 </details>
 
 <details>
 <summary>🌝RETROSPECT</summary>
-Ik ben mijn werkblad van retrospect tijdens de verhuizing kwijtregaakt en heb de foto alleen op mijn kapotte telefoon maar ik heb uit mijn geheugen mijn metafoor opnieuw getekend.
+Ik ben mijn werkblad van retrospect 1 tijdens de verhuizing kwijtregaakt en heb deze foto niet meer door mijn kappotte telefoon. Mijn metafoor voor deze sprint was dat ik een poppetje had getekend die steeds met andere schoenen door andere stukken grond moest lopen, met bijv de laarzen door de modder en de sneakers over de stoep om zo te representeren dat ik voor verschillende delen van de opdracht verschillende meningen en wel/geen talent heb en dat dit bepaalde dingen makkelijker maakt en andere dingen weer moeilijker maar dat niks hetzelfde is.
 
 **RETROSPECT 2** <br>
 <img width="300" src="assets/fotos_readme/retrospect2.1.png"/>
@@ -462,7 +478,7 @@ Dit is een overzicht van al mijn tekeningen voor mijn website:
 
 ## **⭐️Wat ging er goed?**
 
-Ik vond het begin van het project het makkelijkst omdat schetsen, conceptualiseren ect mij wel ligt en ik vind visueel denken het leukst. De visual thinking opdracht vond ik erg leuk om te doen.Ook het tekenen van de astronaut, vissen, en de cookie vond ik heel leuk om te doen. Ook heb ik aan het eind een stuk meer doorgewerkt vergeleken met de rest van de sprinten en ik zit er nu ook wel goed in waardoor ik denk dat ik volgend blok ook met een goed tempo kan beginnen. Ook heb ik met de code dat ik rond het eind een (heel) beetje het gevoel ging krijgen dat ik er goed in zat.
+Ik vond het begin van het project het makkelijkst omdat ideeen bedenken en het daarvan conceptualiseren mij wel ligt. De visual thinking opdracht vond ik ook erg leuk om te doen. Ook het tekenen van de astronaut, vissen, en de cookie vond ik heel leuk. Ook heb ik aan het eind een stuk meer doorgewerkt vergeleken met de rest van de sprinten en ik zit er nu ook wel goed in waardoor ik denk dat ik volgend blok ook met een goed tempo kan beginnen. Ook heb ik met de code dat ik rond het eind een (heel) beetje het gevoel ging krijgen dat ik er goed in zat.
 
 ## **🦐Wat kon er beter?**
 

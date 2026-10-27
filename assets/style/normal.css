@@ -22,7 +22,7 @@
 /* #MARK:variants */
 html {
   color-scheme: light dark;
-  --text-color: light-dark(rgb(0, 54, 42), rgb(255, 255, 255));
+  --text-color: light-dark(rgb(0, 9, 8), rgb(255, 255, 255));
 
   --popover-background: light-dark(rgb(128, 205, 180), #061e19);
   --popover-border: light-dark(rgb(64, 168, 135), rgb(2, 40, 36));
@@ -43,7 +43,7 @@ html {
     rgba(6, 66, 61, 1) 15%,
     rgba(4, 94, 62, 1) 57%,
     rgba(35, 124, 101, 1) 92%,
-    rgba(88, 176, 148, 1) 100%
+    rgb(116, 211, 181) 100%
   );
   background: #04382e;
   background: var(--gradient-dark);
@@ -160,9 +160,10 @@ p {
   /* https://freshjuice.dev/tools/font-size-clamp-generator/ */
 }
 
-figcaption {
+/* figcaption {
   margin: 2em; /* bah */
-}
+
+/* MARK: astronaut */
 
 img[alt="astronaut"] {
   animation: bounce 3s ease-in-out infinite;
@@ -174,34 +175,21 @@ img[alt="astronaut"] {
   /* z-index zorgt voor lagen in de css. Het begint onder bij 0. */
 }
 
-:is(
-  #cookie,
-  #telescopefish,
-  #dumbooctopus,
-  #anglerfish,
-  #bigfinsquid,
-  #phantomjelly
-):popover-open {
-  display: grid;
-  grid-template-columns: auto 1fr;
-  column-gap: 1em;
-  align-items: center;
-
-  h2 {
-    grid-row: 1;
-    align-self: center;
-    grid-column: 2;
-  }
-
-  button[popovertargetaction="hide"]:first-child {
-    align-self: right;
-  }
-
-  :not(button, h2) {
-    grid-column: 1/ -1;
-    /* alles wat niet een button of h2 is op de volle breedte onder de button en h2. */
-  }
+h2 {
+  grid-row: 1;
+  align-self: center;
+  grid-column: 2;
 }
+
+button[popovertargetaction="hide"]:first-child {
+  align-self: right;
+}
+
+:not(button, h2) {
+  grid-column: 1/ -1;
+  /* alles wat niet een button of h2 is op de volle breedte onder de button en h2. */
+}
+
 /* #MARK: Cookies */
 
 button[popovertarget="cookie"]:not([popovertargetaction="hide"]) {
@@ -229,7 +217,7 @@ button[popovertarget="cookie"]:not([popovertargetaction="hide"]) {
   }
 
   button {
-    padding: 2em;
+    padding: 1.5em;
   }
 }
 
@@ -250,21 +238,36 @@ button[popovertarget="telescopefish"]:not([popovertargetaction="hide"]) {
 #telescopefish:popover-open {
   display: flex;
   flex-direction: column;
+  flex-wrap: wrap;
   align-items: center;
 }
 
 /* #MARK: popover */
 [popover] {
   width: calc(100% - 2em);
-  padding: 2em;
+  padding: 2.5em;
   max-width: 45em;
   img {
     object-fit: contain;
+    max-width: 100%;
   }
   border-radius: 3em;
   background-color: var(--popover-background);
   border-color: var(--popover-border);
   border-width: 0.4em;
+
+  figcaption {
+    margin: 0.5em;
+    align-self: center;
+  }
+
+  p {
+    margin-bottom: 0.2em;
+  }
+
+  h2 {
+    margin: 0.5em;
+  }
 }
 
 /* MARK:dumboctopus
