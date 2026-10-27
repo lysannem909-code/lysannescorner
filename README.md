@@ -57,14 +57,16 @@ Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.
 ❔Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.
 ☞ Je kan via Visual Studio code aanpassingen maken
 
-**2 SEP** <br>
+## **2 SEP**
+
 Ik ben bij 2 deepdives geweest en heb mijn website werkend gemaakt (je kan het nu intypen en dan is hij er ook) en een gif toegevoegd. Ook heb ik de lokkaart in Figma uitgewerkt voor een iPad.
 
 <img width="300" alt="Scherm­afbeelding 2026-09-02 om 12 36 42" src="https://github.com/user-attachments/assets/12f950f2-eb60-4fe9-880b-12266c65de12" />
 
 <img width="300" alt="Scherm­afbeelding 2026-09-02 om 12 37 33" src="https://github.com/user-attachments/assets/eec9c9cb-8465-459b-91c9-2810c5881c4c" />
 
-**4 SEP**<br>
+## **4 SEP**
+
 Ik heb een achtergrondkleur en een paar vakjes aan mijn site toegevoegd en de opdrachten van de lettertypes gemaakt van de deepdives.
 <img width="300" alt="Scherm­afbeelding 2026-09-06 om 17 55 01" src="https://github.com/user-attachments/assets/f92235d4-b135-4601-a4df-f261e727690a" />
 
@@ -122,10 +124,12 @@ Ik weet niet precies waar in sprint 1 in mijn schetsen heb gemaakt, dus vandaar 
 <img width="200" src="assets/fotos_readme/schets2.png"/>
 <img width="200" src="assets/fotos_readme/schets3.png"/>
 <img width="200" src="assets/fotos_readme/schets4.png"/>
+Mijn idee is om een site te maken waar je de diepzee kan ontdekken en vooral wat daar leeft. Ik heb nog getwijfeld aan andere regios van de zee zoals de twilight zone, maar dan vond ik dat ik mezelf te veel aan een gebied limiteerde en dat ik dan minder keuze had kwa dieren die ik er in kon zetten, en diepzee dezelfde diepzee dieren kunnen heel erg in diepte wisselen.
 
 </details>
 
-**7 SEP**
+## **7 SEP**
+
 Ik heb vandaag op school verschillende websites bezoekt en gebruikt als eventuele inspiratie voor mijn website en een artikel over de geschiedenis van digital Gardens.
 (Ik heb voor deze opdracht samen met een andere klasgenoot gemaakt andere gardens ge-analyseerd voor webbynes maar heb hier helaas geen foto meer van omdat dit op mijn kapotte telefoon staat.)
 
@@ -392,7 +396,7 @@ Mijn cookie popup gefixt (github privacy statement toegevoegd) en de knopjes in 
 Een wavy grond toegevoegd: https://css-generators.com/wavy-shapes/
 https://css-tip.com/css-wavy-shape/
 (dit is niet gelukt ik heb uiteindelijk een radial gradient gebruikt)
-Ik heb ook knopjes toegevoegd voor mijn learning log en songtekst.
+Ik heb ook knopjes toegevoegd voor mijn learning log en songtekst. En animaties aan mijn songtekst toegevoegd. Ook heb ik mijn songtekst responsive gemaakt.
 
 ## **23 OKT**
 
@@ -434,25 +438,27 @@ Ik had vandaag de expo, hier is mijn feedback:
 
 Ik heb claude een klein stukje over de phantomjellyfish laten schrijven. Ik had dit met meer tijd zelf gedaan maar ik wilde nog even voor andere dingen de puntjes op de i zetten.
 Ik heb de margins van de popovers veranderd zodat het beter schaalt. Ik heb mijn contrast ook gecheked met de contrast checker en bij de light mode bleek de de kleine tekst boven in site te weinig contrast te hebben, dus dit heb ik nog veranderd. Bij de dark mode was het wel allemaal goed.
-<img width="300" src="assets/fotos_readme/contrastchecker.png">
-<img width="300" src="assets/fotos_readme/contrastchecker2.png">
+<img width="200" src="assets/fotos_readme/contrastchecker.png">
+<img width="200" src="assets/fotos_readme/contrastchecker2.png">
 
 </details>
 
 <details>
 <summary>🌝RETROSPECT</summary>
-Ik ben mijn werkblad van retrospect 1 tijdens de verhuizing kwijtregaakt en heb deze foto niet meer door mijn kappotte telefoon. Mijn metafoor voor deze sprint was dat ik een poppetje had getekend die steeds met andere schoenen door andere stukken grond moest lopen, met bijv de laarzen door de modder en de sneakers over de stoep om zo te representeren dat ik voor verschillende delen van de opdracht verschillende meningen en wel/geen talent heb en dat dit bepaalde dingen makkelijker maakt en andere dingen weer moeilijker maar dat niks hetzelfde is.
+Ik ben mijn werkblad van retrospect 1 tijdens de verhuizing kwijtregaakt en heb deze foto niet meer door mijn kappotte telefoon. Mijn metafoor voor deze sprint was dat ik een poppetje had getekend die steeds met andere schoenen door andere stukken grond moest lopen, met bijv. de laarzen door de modder en de sneakers over de stoep om zo te representeren dat ik voor verschillende delen van de opdracht verschillende meningen heb en wel/geen talent voor dat aspect en dat dit bepaalde dingen makkelijker maakt en andere dingen weer moeilijker maar dat niks hetzelfde is.
 
 **RETROSPECT 2** <br>
 <img width="300" src="assets/fotos_readme/retrospect2.1.png"/>
 <img width="300" src="assets/fotos_readme/retrospect2.2.png"/>
 <img width="300" src="assets/fotos_readme/retrospect2.3.png/">
+Deze metafoor is hoe het voelt voor mij om aan de site te werken, ik voelde me een beetje als een heks die allemaal random dingen in haar potje gooit en hoopt dat het er een beetje goed uitkomt. Mijn motivatie deze sprint was ook een stuk lager dus vandaar is mijn motivatie potje ook wat later.
 
 **RETROSPECT 3**<br>
 <img width="300" src="assets/fotos_readme/retrospect3.1.png"/>
 <img width="300" src="assets/fotos_readme/retrospect3.2.png"/>
 <img width="300" src="assets/fotos_readme/retrospect3.3.png"/>
 <img width="300" src="assets/fotos_readme/retrospect3.4.png"/>
+In deze sprint heb ik een stuk meer tijd in mijn site gestoken en een beetje proberen te compenseren voor de tijd die ik er eigenlijk al veel eerder in had moeten steken, een beetje hoe het voelt als ik mij nog snel moet klaarmaken. Kijn make-up komt er dan minder goed uit te zien, net zoals als ik in het begin meer had gedaan mijn site er ook beter uit had gezien. Ook ligt mijn readme zielig op de grond omdat ik er niet veel aandacht heb gegeven dit heel last minute moest doen.
 
 </details>
 
@@ -473,6 +479,75 @@ Dit is een overzicht van al mijn tekeningen voor mijn website:
 
 </details>
 
+<details> 
+<summary>ONDERZOEK</summary>
+Dit is een copy and paste van het word document die ik heb gebruikt om alles wat waar ik onderzoek naar heb gedaan in sprint 1 en 2 (niet zo heel netjes) te noteren.
+<br>
+<br>
+Onderzoek diepzee creatures
+ 1000-4000m bathyale zone
+4000m tot zeebodem abyssale zone
+Na 6000m hadale zone
+
+Bathyale zone:
+-Rond de 4 graden
+
+https://www.mbari.org/education/animals-of-the-deep/
+
+creatures
+https://en.wikipedia.org/wiki/Chaunax
+https://www.youtube.com/watch?v=Cl_MbvSUvTk&t=41s
+
+Dumbo octopus (Grimpoteuthis)
+
+Bron(nen): https://www.boem.gov/newsroom/ocean-science-news/dumbo-octopus-whimsical-survivor-deep
+-named after the Disney elephant that could fly by flapping its ears as wings
+-gevonden op de oceaanvloer, van ongv. 3000 tot 4000m
+-The mouth of Dumbo octopus is an underdeveloped or nonexistent beak. This allows them to pounce on prey and swallow them whole. Their diet includes oysters, snails, bristle worms, and small crustaceans, which they find around ocean vent ecosystems or floating along in ocean currents. There are strand-like structures on their suction cups, which allow them to detect their prey and move it to their mouths more easily.
+-om roofdieren te vermijden kan het van kleur veranderen, maar gelukkig zijn daar op de diepzeebodem niet veel van.
+
+Foto’s die ik mag gebruiken + credit:
+
+NOAA Ocean Exploration, 2019 Southeastern U.S. Deep-sea Exploration
+
+NOAA Ocean Exploration, Exploration of the Gulf of Mexico 2014
+
+NOAA Ocean Exploration (video)
+
+https://oceanexplorer.noaa.gov/multimedia/video-shorts-ex1907-dumbo1/
+
+Credit: OOI-NSF/UW/CSSF.
+
+Credit: Ed Bowlby, NOAA/Olympic Coast NMS; NOAA/OAR/Office of Ocean Exploration
+
+Telescope fish
+500-2000m
+Bron(nen): https://utmsi.utexas.edu/science-and-the-sea/radio-program/telescopefish/
+https://fwcs.oregonstate.edu/150-species/telescopefish
+
+-Telescopefish live in tropical and subtropical areas around the globe and include two species that differ by a few fin rays,
+-But telescope fish begin their life as a remarkably different fish. As synchronous hermaphrodites (having both male and female reproductive organs), adults spawn both eggs and sperm into the open ocean where a lucky few fuse and grow into larval fish. The tiny larvae then undergo one of the most dramatic transformations among fish. As larvae, or the “Rosaura” stage, they are small, globular, and stout—larval telescope fish look so different from their adult form that for over 80 years they were considered two different species. Upon maturing, they undergo a major transformation that involves changes to bone structures and body shape. Scientists still do not know how this remarkable transformation occurs. (https://ocean.si.edu/ocean-life/fish/remarkable-telescopefish)
+-With only two live encounters of telescopefish, one of G. chuni and one of G. indica, there is still much to learn about this fascinating fish. Both encounters witnessed two telescopefish side by side, heads pointed to the surface, and there is now ongoing research to determine if telescopefish tend to live in pairs. Perhaps, living with another helps with survival. ((https://ocean.si.edu/ocean-life/fish/remarkable-telescopefish)
+)
+Bigfin squid:
+https://www.mbari.org/animal/bigfin-squid/
+https://oceanconservancy.org/blog/2024/02/22/what-we-know-about-bigfin-squid/
+https://link.springer.com/article/10.1007/s00227-026-04927-1
+Zoals veel diepzeedieren is er weinig over deze vissen bekend. Volgens het artikel Global distribution and depth of the Bigfin squid Magnapinna spp zijn er in totaal 46 waarnemingen van dit dier geweest. Met 19 van deze waarnemingen beschreven door wetenschappers. Gebaseerd op deze waarnemingen is er vastgesteld dat deze vissen tussen de 1578 en 6212 meter leven. Ze kunnen langer dan 6 meter lang worden, deze lengte bestaat vooral uit hun armen en tentakels. Volgens NOAA ocean exploration was de langst gespotte bigfin squid 6.4 meter lang met 6.1 meter die uit deze armen en tentakels bestonden. Wetenschappers hebben officieel 3 soorten bigfin squid gecategoriseerd.
+
+Author: NOAA
+
+Schmidt Ocean Institute
+
+De diepzeehengelvis (Ceratioidea)
+
+Er zijn meer dan meer dan 200 soorten hengelvissen. Ze leven vooral in de dieptes van de Arctische en Atlantische oceaan, tussen de 300 en 4000 meter. Sommige soorten kunnen tot meer dan 1 meter in de lengte bereiken, maar vaak zijn ze kleiner, ongeveer de grootte van een schoolliniaal. (30cm)
+Naast hun enge tanden is hun meest opvallende kenmerk het lichtje aan de bovenkant van hun hoofd, een soort vishengel die bestaat uit een lichtgevend zakje bacteriën die ze gebruiken om prooi te vangen, wat kenmerkend alleen bij de vrouwtjes voorkomt. Net zoals de telescope fish (Gigantura) kunnen ze door hun flexibele bouw prooi twee keer hun grootte eten, wat hard nodig is als het mogelijke aantal prooi zo schaars is.
+In de duistere dieptes zijn de mannelijke hengelvissen heel hun leven opzoek naar het andere geslacht. De mannetjes zijn vergeleken met de vrouwtjes heel klein, en in sommige soorten, als een mannetje een vrouwelijke hengelvis heeft gevonden haakt hij zichzelf vast aan het vrouwtje met zijn tanden en laten hij niet meer los. Het mannetje wordt een soort parasitaire partner, ze smelten samen, hij komt vast aan haar huid te zitten en verbindt zich aan haar bloedomloop. Het mannetje verliest in dit proces ook zijn ogen organen behalve de testikels. Een vrouwtje draagt 6 of meer mannetjes.
+https://www.nationalgeographic.com/animals/fish/facts/anglerfish
+https://www.mbari.org/animal/deep-sea-anglerfish/
+
+</details>
 <details>
 <summary>🌸REFLECTIE</summary>
 
