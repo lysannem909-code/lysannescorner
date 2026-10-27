@@ -515,7 +515,7 @@ Ik heb de margins van de popovers veranderd zodat het beter schaalt. Ik heb mijn
 <br>
 <br>
 
-En heb alle errors eruit gehaald behalve de errors over een dubbele src bij het javascript want daar zit ik liever niet aan. Ik heb dit ook bij mijn css gedaan en twee errors uit mijn code gehaald.
+En heb alle errors eruit gehaald behalve de errors over een dubbele src bij het javascript wat er al vanaf het begin in zat dus ik wist niet of dit weg moest.
 Ik heb mijn html gechecked met https://validator.w3.org/nu/#textarea
 en mijn css met https://jigsaw.w3.org/css-validator/validator
 
