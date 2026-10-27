@@ -114,6 +114,78 @@ De checkout van vandaag bestaat uit een vraag:
 
 </details>
 
+<details> 
+<summary>👩🏼‍🔬ONDERZOEK</summary>
+
+## **Dit is een copy and paste van het word document die ik heb gebruikt om alles waar ik onderzoek naar heb gedaan in sprint 1 en 2 (niet zo heel netjes) te noteren.**
+
+<br>
+<br>
+Onderzoek diepzee creatures
+ 1000-4000m bathyale zone
+4000m tot zeebodem abyssale zone
+Na 6000m hadale zone
+
+Bathyale zone:
+-Rond de 4 graden
+
+https://www.mbari.org/education/animals-of-the-deep/
+
+creatures
+https://en.wikipedia.org/wiki/Chaunax
+https://www.youtube.com/watch?v=Cl_MbvSUvTk&t=41s
+
+Dumbo octopus (Grimpoteuthis)
+
+Bron(nen): https://www.boem.gov/newsroom/ocean-science-news/dumbo-octopus-whimsical-survivor-deep
+-named after the Disney elephant that could fly by flapping its ears as wings
+-gevonden op de oceaanvloer, van ongv. 3000 tot 4000m
+-The mouth of Dumbo octopus is an underdeveloped or nonexistent beak. This allows them to pounce on prey and swallow them whole. Their diet includes oysters, snails, bristle worms, and small crustaceans, which they find around ocean vent ecosystems or floating along in ocean currents. There are strand-like structures on their suction cups, which allow them to detect their prey and move it to their mouths more easily.
+-om roofdieren te vermijden kan het van kleur veranderen, maar gelukkig zijn daar op de diepzeebodem niet veel van.
+
+Foto’s die ik mag gebruiken + credit:
+
+NOAA Ocean Exploration, 2019 Southeastern U.S. Deep-sea Exploration
+
+NOAA Ocean Exploration, Exploration of the Gulf of Mexico 2014
+
+NOAA Ocean Exploration (video)
+
+https://oceanexplorer.noaa.gov/multimedia/video-shorts-ex1907-dumbo1/
+
+Credit: OOI-NSF/UW/CSSF.
+
+Credit: Ed Bowlby, NOAA/Olympic Coast NMS; NOAA/OAR/Office of Ocean Exploration
+
+Telescope fish
+500-2000m
+Bron(nen): https://utmsi.utexas.edu/science-and-the-sea/radio-program/telescopefish/
+https://fwcs.oregonstate.edu/150-species/telescopefish
+
+-Telescopefish live in tropical and subtropical areas around the globe and include two species that differ by a few fin rays,
+-But telescope fish begin their life as a remarkably different fish. As synchronous hermaphrodites (having both male and female reproductive organs), adults spawn both eggs and sperm into the open ocean where a lucky few fuse and grow into larval fish. The tiny larvae then undergo one of the most dramatic transformations among fish. As larvae, or the “Rosaura” stage, they are small, globular, and stout—larval telescope fish look so different from their adult form that for over 80 years they were considered two different species. Upon maturing, they undergo a major transformation that involves changes to bone structures and body shape. Scientists still do not know how this remarkable transformation occurs. (https://ocean.si.edu/ocean-life/fish/remarkable-telescopefish)
+-With only two live encounters of telescopefish, one of G. chuni and one of G. indica, there is still much to learn about this fascinating fish. Both encounters witnessed two telescopefish side by side, heads pointed to the surface, and there is now ongoing research to determine if telescopefish tend to live in pairs. Perhaps, living with another helps with survival. ((https://ocean.si.edu/ocean-life/fish/remarkable-telescopefish)
+)
+Bigfin squid:
+https://www.mbari.org/animal/bigfin-squid/
+https://oceanconservancy.org/blog/2024/02/22/what-we-know-about-bigfin-squid/
+https://link.springer.com/article/10.1007/s00227-026-04927-1
+Zoals veel diepzeedieren is er weinig over deze vissen bekend. Volgens het artikel Global distribution and depth of the Bigfin squid Magnapinna spp zijn er in totaal 46 waarnemingen van dit dier geweest. Met 19 van deze waarnemingen beschreven door wetenschappers. Gebaseerd op deze waarnemingen is er vastgesteld dat deze vissen tussen de 1578 en 6212 meter leven. Ze kunnen langer dan 6 meter lang worden, deze lengte bestaat vooral uit hun armen en tentakels. Volgens NOAA ocean exploration was de langst gespotte bigfin squid 6.4 meter lang met 6.1 meter die uit deze armen en tentakels bestonden. Wetenschappers hebben officieel 3 soorten bigfin squid gecategoriseerd.
+
+Author: NOAA
+
+Schmidt Ocean Institute
+
+De diepzeehengelvis (Ceratioidea)
+
+Er zijn meer dan meer dan 200 soorten hengelvissen. Ze leven vooral in de dieptes van de Arctische en Atlantische oceaan, tussen de 300 en 4000 meter. Sommige soorten kunnen tot meer dan 1 meter in de lengte bereiken, maar vaak zijn ze kleiner, ongeveer de grootte van een schoolliniaal. (30cm)
+Naast hun enge tanden is hun meest opvallende kenmerk het lichtje aan de bovenkant van hun hoofd, een soort vishengel die bestaat uit een lichtgevend zakje bacteriën die ze gebruiken om prooi te vangen, wat kenmerkend alleen bij de vrouwtjes voorkomt. Net zoals de telescope fish (Gigantura) kunnen ze door hun flexibele bouw prooi twee keer hun grootte eten, wat hard nodig is als het mogelijke aantal prooi zo schaars is.
+In de duistere dieptes zijn de mannelijke hengelvissen heel hun leven opzoek naar het andere geslacht. De mannetjes zijn vergeleken met de vrouwtjes heel klein, en in sommige soorten, als een mannetje een vrouwelijke hengelvis heeft gevonden haakt hij zichzelf vast aan het vrouwtje met zijn tanden en laten hij niet meer los. Het mannetje wordt een soort parasitaire partner, ze smelten samen, hij komt vast aan haar huid te zitten en verbindt zich aan haar bloedomloop. Het mannetje verliest in dit proces ook zijn ogen organen behalve de testikels. Een vrouwtje draagt 6 of meer mannetjes.
+https://www.nationalgeographic.com/animals/fish/facts/anglerfish
+https://www.mbari.org/animal/deep-sea-anglerfish/
+
+</details>
+
 <details>
 <summary>📝schetsen</summary>
 
@@ -485,78 +557,6 @@ Dit is een overzicht van al mijn tekeningen voor mijn website:
 <img width="300" src="assets/fotos_readme/tekening8.png"/>
 <img width="300" src="assets/fotos_readme/tekening9.png"/>
 <img width="300" src="assets/fotos_readme/tekening10.png"/>
-
-</details>
-
-<details> 
-<summary>👩🏼‍🔬ONDERZOEK</summary>
-
-## **Dit is een copy and paste van het word document die ik heb gebruikt om alles wat waar ik onderzoek naar heb gedaan in sprint 1 en 2 (niet zo heel netjes) te noteren.**
-
-<br>
-<br>
-Onderzoek diepzee creatures
- 1000-4000m bathyale zone
-4000m tot zeebodem abyssale zone
-Na 6000m hadale zone
-
-Bathyale zone:
--Rond de 4 graden
-
-https://www.mbari.org/education/animals-of-the-deep/
-
-creatures
-https://en.wikipedia.org/wiki/Chaunax
-https://www.youtube.com/watch?v=Cl_MbvSUvTk&t=41s
-
-Dumbo octopus (Grimpoteuthis)
-
-Bron(nen): https://www.boem.gov/newsroom/ocean-science-news/dumbo-octopus-whimsical-survivor-deep
--named after the Disney elephant that could fly by flapping its ears as wings
--gevonden op de oceaanvloer, van ongv. 3000 tot 4000m
--The mouth of Dumbo octopus is an underdeveloped or nonexistent beak. This allows them to pounce on prey and swallow them whole. Their diet includes oysters, snails, bristle worms, and small crustaceans, which they find around ocean vent ecosystems or floating along in ocean currents. There are strand-like structures on their suction cups, which allow them to detect their prey and move it to their mouths more easily.
--om roofdieren te vermijden kan het van kleur veranderen, maar gelukkig zijn daar op de diepzeebodem niet veel van.
-
-Foto’s die ik mag gebruiken + credit:
-
-NOAA Ocean Exploration, 2019 Southeastern U.S. Deep-sea Exploration
-
-NOAA Ocean Exploration, Exploration of the Gulf of Mexico 2014
-
-NOAA Ocean Exploration (video)
-
-https://oceanexplorer.noaa.gov/multimedia/video-shorts-ex1907-dumbo1/
-
-Credit: OOI-NSF/UW/CSSF.
-
-Credit: Ed Bowlby, NOAA/Olympic Coast NMS; NOAA/OAR/Office of Ocean Exploration
-
-Telescope fish
-500-2000m
-Bron(nen): https://utmsi.utexas.edu/science-and-the-sea/radio-program/telescopefish/
-https://fwcs.oregonstate.edu/150-species/telescopefish
-
--Telescopefish live in tropical and subtropical areas around the globe and include two species that differ by a few fin rays,
--But telescope fish begin their life as a remarkably different fish. As synchronous hermaphrodites (having both male and female reproductive organs), adults spawn both eggs and sperm into the open ocean where a lucky few fuse and grow into larval fish. The tiny larvae then undergo one of the most dramatic transformations among fish. As larvae, or the “Rosaura” stage, they are small, globular, and stout—larval telescope fish look so different from their adult form that for over 80 years they were considered two different species. Upon maturing, they undergo a major transformation that involves changes to bone structures and body shape. Scientists still do not know how this remarkable transformation occurs. (https://ocean.si.edu/ocean-life/fish/remarkable-telescopefish)
--With only two live encounters of telescopefish, one of G. chuni and one of G. indica, there is still much to learn about this fascinating fish. Both encounters witnessed two telescopefish side by side, heads pointed to the surface, and there is now ongoing research to determine if telescopefish tend to live in pairs. Perhaps, living with another helps with survival. ((https://ocean.si.edu/ocean-life/fish/remarkable-telescopefish)
-)
-Bigfin squid:
-https://www.mbari.org/animal/bigfin-squid/
-https://oceanconservancy.org/blog/2024/02/22/what-we-know-about-bigfin-squid/
-https://link.springer.com/article/10.1007/s00227-026-04927-1
-Zoals veel diepzeedieren is er weinig over deze vissen bekend. Volgens het artikel Global distribution and depth of the Bigfin squid Magnapinna spp zijn er in totaal 46 waarnemingen van dit dier geweest. Met 19 van deze waarnemingen beschreven door wetenschappers. Gebaseerd op deze waarnemingen is er vastgesteld dat deze vissen tussen de 1578 en 6212 meter leven. Ze kunnen langer dan 6 meter lang worden, deze lengte bestaat vooral uit hun armen en tentakels. Volgens NOAA ocean exploration was de langst gespotte bigfin squid 6.4 meter lang met 6.1 meter die uit deze armen en tentakels bestonden. Wetenschappers hebben officieel 3 soorten bigfin squid gecategoriseerd.
-
-Author: NOAA
-
-Schmidt Ocean Institute
-
-De diepzeehengelvis (Ceratioidea)
-
-Er zijn meer dan meer dan 200 soorten hengelvissen. Ze leven vooral in de dieptes van de Arctische en Atlantische oceaan, tussen de 300 en 4000 meter. Sommige soorten kunnen tot meer dan 1 meter in de lengte bereiken, maar vaak zijn ze kleiner, ongeveer de grootte van een schoolliniaal. (30cm)
-Naast hun enge tanden is hun meest opvallende kenmerk het lichtje aan de bovenkant van hun hoofd, een soort vishengel die bestaat uit een lichtgevend zakje bacteriën die ze gebruiken om prooi te vangen, wat kenmerkend alleen bij de vrouwtjes voorkomt. Net zoals de telescope fish (Gigantura) kunnen ze door hun flexibele bouw prooi twee keer hun grootte eten, wat hard nodig is als het mogelijke aantal prooi zo schaars is.
-In de duistere dieptes zijn de mannelijke hengelvissen heel hun leven opzoek naar het andere geslacht. De mannetjes zijn vergeleken met de vrouwtjes heel klein, en in sommige soorten, als een mannetje een vrouwelijke hengelvis heeft gevonden haakt hij zichzelf vast aan het vrouwtje met zijn tanden en laten hij niet meer los. Het mannetje wordt een soort parasitaire partner, ze smelten samen, hij komt vast aan haar huid te zitten en verbindt zich aan haar bloedomloop. Het mannetje verliest in dit proces ook zijn ogen organen behalve de testikels. Een vrouwtje draagt 6 of meer mannetjes.
-https://www.nationalgeographic.com/animals/fish/facts/anglerfish
-https://www.mbari.org/animal/deep-sea-anglerfish/
 
 </details>
 <details>
